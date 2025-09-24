@@ -21,11 +21,11 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 keywords:
-    "Fake News": 
-        filters: ["fake news", "Fake news"]
-    "Rumour":
-        filters: ["rumour", "rumor"]
-    "Stance Detection":
-        filters: ["Stance Detection"]
-    "News Media":
-        filters: ["news", "media"]
+  "Fake News": 
+    filters: ["fake news", "Fake news"]
+  "Rumour":
+    filters: ["rumour", "rumor"]
+  "Stance Detection":
+    filters: ["Stance Detection"]
+  "News Media":
+    filters: ["news", "media"]
