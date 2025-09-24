@@ -20,13 +20,6 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
- "": '((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))'
-  # "Rumour": '"rumour"'
-  "Rumour": 'all:rumour+OR+all:Rumour+OR+all:rumor+OR+all:Rumor'
-  "": '((all:stance+OR+all:Stance)+AND+(all:detection+OR+all:Detection))'
-  "a": '((all:news+OR+all:News)+AND+(all:media+OR+all:Media))'
-  
 keywords:
     "Fake News": 
         filters: ["fake news", "Fake news"]
