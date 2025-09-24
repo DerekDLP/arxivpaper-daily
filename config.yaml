@@ -21,7 +21,7 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 keywords:
-  "Fake News": 
+  "Fake News":
     filters: ["fake news", "Fake news"]
   "Rumour":
     filters: ["rumour", "rumor"]
