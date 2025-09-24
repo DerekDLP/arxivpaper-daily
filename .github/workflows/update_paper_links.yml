@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 22 * * *"
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -50,7 +50,7 @@ jobs:
       - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.G_TOKEN }}
           commit-message: "Github Action Automatic Update Arxiv Papers"
           files: README.md docs/nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/index.md docs/nlp-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
