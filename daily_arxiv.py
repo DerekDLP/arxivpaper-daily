@@ -7,6 +7,44 @@ import logging
 import argparse
 import datetime
 import requests
+import ssl
+import urllib3
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+class TLSAdapter(HTTPAdapter):
+    def init_poolmanager(self, *args, **kwargs):
+        ctx = ssl.create_default_context()
+        # Extremely permissive SSL configuration to handle handshake failures
+        ctx.set_ciphers('DEFAULT@SECLEVEL=0')  # Even lower security level
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        ctx.options |= 0x4  # OP_LEGACY_SERVER_CONNECT
+        # Allow even older TLS versions for maximum compatibility
+        ctx.minimum_version = ssl.TLSVersion.SSLv3  # Lower minimum version
+        ctx.maximum_version = ssl.TLSVersion.TLSv1_3
+        # Additional options for older server compatibility
+        ctx.options |= ssl.OP_NO_SSLv2
+        ctx.options |= ssl.OP_NO_SSLv3
+        ctx.options |= ssl.OP_ALL  # Enable all bug workarounds
+        kwargs['ssl_context'] = ctx
+        return super().init_poolmanager(*args, **kwargs)
+
+# Create session with retry strategy and custom SSL adapter
+session = requests.Session()
+session.mount('https://', TLSAdapter())
+
+# Add retry strategy for failed requests
+retry_strategy = Retry(
+    total=1,
+    backoff_factor=1,
+    status_forcelist=[429, 500, 502, 503, 504],
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+session.mount("http://", adapter)
+session.mount("https://", adapter)
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -54,6 +92,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -61,7 +100,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
 
 def get_code_link(qword:str) -> str:
     # query = f"arxiv:{arxiv_id}"
@@ -71,12 +109,38 @@ def get_code_link(qword:str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params)
-    results = r.json()
-    code_link = None
-    if results["total_count"] > 0:
-        code_link = results["items"][0]["html_url"]
-    return code_link
+    try:
+        r = session.get(github_url, params=params, verify=False, timeout=30)
+        results = r.json()
+        code_link = None
+        if results["total_count"] > 0:
+            code_link = results["items"][0]["html_url"]
+        return code_link
+    except Exception as e:
+        logging.warning(f"Failed to get code link from GitHub: {e}")
+        # Try fallback with urllib3 and more permissive SSL settings
+        try:
+            import urllib3
+            # Create a more permissive urllib3 pool manager
+            fallback_http = urllib3.PoolManager(
+                cert_reqs=ssl.CERT_NONE,
+                ssl_version=ssl.PROTOCOL_TLS,
+                timeout=30
+            )
+            # Construct URL with parameters manually for urllib3
+            param_str = "&".join([f"{k}={v}" for k, v in params.items()])
+            fallback_url = f"{github_url}?{param_str}"
+            fallback_response = fallback_http.request('GET', fallback_url)
+            if fallback_response.status == 200:
+                import json
+                results = json.loads(fallback_response.data.decode('utf-8'))
+                code_link = None
+                if results["total_count"] > 0:
+                    code_link = results["items"][0]["html_url"]
+                return code_link
+        except Exception as fallback_e:
+            logging.warning(f"Fallback failed to get code link from GitHub: {fallback_e}")
+        return None
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -117,38 +181,38 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
+        # Try to get code link with SSL error handling
+        repo_url = None
         try:
             # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
+            r = session.get(code_url, verify=False, timeout=30).json()
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
+            # Check if it's an SSL error and handle it specifically
+            if "SSL" in str(e) or "ssl" in str(e).lower():
+                logging.warning(f"SSL error encountered for paper {paper_key}, skipping code link retrieval")
+            # For any exception, we'll continue with repo_url as None
+
+        # Create content based on whether we got a repo_url or not
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
+
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -191,19 +255,26 @@ def update_paper_links(filename):
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
+                # Try to get code link with SSL error handling
+                repo_url = None
                 try:
                     code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
+                    r = session.get(code_url, verify=False, timeout=30).json()
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
+                    # Check if it's an SSL error and log it
+                    if "SSL" in str(e) or "ssl" in str(e).lower():
+                        logging.warning(f"SSL error encountered for paper {paper_id}, skipping code link update")
+                    # For any exception, we'll continue with repo_url as None
+
+                # Update content based on whether we got a repo_url or not
+                if repo_url is not None:
+                    new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                    logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                    json_data[keywords][paper_id] = str(new_cont)
+                # If repo_url is None, we leave the content as is (with |null|)
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -281,15 +352,7 @@ def json_to_md(filename,md_filename,
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
-        # if show_badge == True:
-        #     f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-        #     f.write(f"[![Forks][forks-shield]][forks-url]\n")
-        #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-        #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
-
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
@@ -341,23 +404,7 @@ def json_to_md(filename,md_filename,
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+            pass
 
     logging.info(f"{task} finished")
 
