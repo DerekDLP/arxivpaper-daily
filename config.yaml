@@ -1,0 +1,38 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "dereknlp"
+repo_name: "nlp-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/nlp-arxiv-daily.json'
+json_gitpage_path: './docs/nlp-arxiv-daily-web.json'
+json_wechat_path: './docs/nlp-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+ "": '((all:fake+OR+all:Fake)+AND+(all:News+OR+all:news))'
+  # "Rumour": '"rumour"'
+  "Rumour": 'all:rumour+OR+all:Rumour+OR+all:rumor+OR+all:Rumor'
+  "": '((all:stance+OR+all:Stance)+AND+(all:detection+OR+all:Detection))'
+  "a": '((all:news+OR+all:News)+AND+(all:media+OR+all:Media))'
+  
+keywords:
+    "Fake News": 
+        filters: ["fake news", "Fake news"]
+    "Rumour":
+        filters: ["rumour", "rumor"]
+    "Stance Detection":
+        filters: ["Stance Detection"]
+    "News Media":
+        filters: ["news", "media"]
