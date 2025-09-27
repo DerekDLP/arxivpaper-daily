@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.26
+## Updated on 2025.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Two ADI compact difference methods for variable-exponent diffusion wave equations**|Hao Zhang et.al.|[2509.21316](http://arxiv.org/abs/2509.21316)|null|
+|**2025-09-25**|**Air Quality and Greenhouse Gas Emissions Assessment of Data Centers in Texas: Quantifying Impacts and Environmental Tradeoffs**|Ebrahim Eslami et.al.|[2509.21312](http://arxiv.org/abs/2509.21312)|null|
+|**2025-09-25**|**Efficient Quantum Measurements: Computational Max- and Measured Rényi Divergences and Applications**|Álvaro Yángüez et.al.|[2509.21308](http://arxiv.org/abs/2509.21308)|null|
+|**2025-09-25**|**Einstein@Home Searches for Gamma-ray Pulsars in the Inner Galaxy**|C. J. Clark et.al.|[2509.21307](http://arxiv.org/abs/2509.21307)|null|
+|**2025-09-25**|**No Prior, No Leakage: Revisiting Reconstruction Attacks in Trained Neural Networks**|Yehonatan Refael et.al.|[2509.21296](http://arxiv.org/abs/2509.21296)|null|
+|**2025-09-25**|**Optimal Robust Recourse with $L^p$ -Bounded Model Change**|Phone Kyaw et.al.|[2509.21293](http://arxiv.org/abs/2509.21293)|null|
+|**2025-09-25**|**VC-Agent: An Interactive Agent for Customized Video Dataset Collection**|Yidan Zhang et.al.|[2509.21291](http://arxiv.org/abs/2509.21291)|null|
+|**2025-09-25**|**Does FLUX Already Know How to Perform Physically Plausible Image Composition?**|Shilin Lu et.al.|[2509.21278](http://arxiv.org/abs/2509.21278)|null|
+|**2025-09-25**|**More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline**|Matthew King-Hang Ma et.al.|[2509.21277](http://arxiv.org/abs/2509.21277)|null|
+|**2025-09-25**|**A Sentinel-3 foundation model for ocean colour**|Geoffrey Dawson et.al.|[2509.21273](http://arxiv.org/abs/2509.21273)|null|
 |**2025-09-24**|**FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems**|Shaoyuan Xie et.al.|[2509.20362](http://arxiv.org/abs/2509.20362)|null|
 |**2025-09-24**|**EmbeddingGemma: Powerful and Lightweight Text Representations**|Henrique Schechter Vera et.al.|[2509.20354](http://arxiv.org/abs/2509.20354)|null|
 |**2025-09-24**|**Testable algorithms for approximately counting edges and triangles in sublinear time and space**|Talya Eden et.al.|[2509.20351](http://arxiv.org/abs/2509.20351)|null|
