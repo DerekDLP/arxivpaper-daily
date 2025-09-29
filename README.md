@@ -1,4 +1,4 @@
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Rumour
 
@@ -44,12 +44,13 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-03**|**MLSD: A Novel Few-Shot Learning Approach to Enhance Cross-Target and Cross-Domain Stance Detection**|Parush Gera et.al.|[2509.03725](http://arxiv.org/abs/2509.03725)|null|
 |**2025-08-11**|**Large Language Models for Subjective Language Understanding: A Survey**|Changhao Song et.al.|[2508.07959](http://arxiv.org/abs/2508.07959)|null|
@@ -61,12 +62,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Chih Yao Hu et.al.|[2509.22653](http://arxiv.org/abs/2509.22653)|null|
+|**2025-09-26**|**RefAM: Attention Magnets for Zero-Shot Referral Segmentation**|Anna Kukleva et.al.|[2509.22650](http://arxiv.org/abs/2509.22650)|null|
+|**2025-09-26**|**WoW: Towards a World omniscient World model Through Embodied Interaction**|Xiaowei Chi et.al.|[2509.22642](http://arxiv.org/abs/2509.22642)|null|
+|**2025-09-26**|**Scale-Wise VAR is Secretly Discrete Diffusion**|Amandeep Kumar et.al.|[2509.22636](http://arxiv.org/abs/2509.22636)|null|
+|**2025-09-26**|**Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback**|Gen Li et.al.|[2509.22633](http://arxiv.org/abs/2509.22633)|null|
+|**2025-09-26**|**LABELING COPILOT: A Deep Research Agent for Automated Data Curation in Computer Vision**|Debargha Ganguly et.al.|[2509.22631](http://arxiv.org/abs/2509.22631)|null|
+|**2025-09-26**|**UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning**|Hongyu Chen et.al.|[2509.22628](http://arxiv.org/abs/2509.22628)|null|
+|**2025-09-26**|**The Derived Auslander--Iyama Correspondence II: Bimodule Calabi--Yau Structures**|Gustavo Jasso et.al.|[2509.22625](http://arxiv.org/abs/2509.22625)|null|
+|**2025-09-26**|**LongLive: Real-time Interactive Long Video Generation**|Shuai Yang et.al.|[2509.22622](http://arxiv.org/abs/2509.22622)|null|
+|**2025-09-26**|**Voting-Bloc Entropy: A New Metric for DAO Decentralization**|Andrés Fábrega et.al.|[2509.22620](http://arxiv.org/abs/2509.22620)|null|
 |**2025-09-25**|**Two ADI compact difference methods for variable-exponent diffusion wave equations**|Hao Zhang et.al.|[2509.21316](http://arxiv.org/abs/2509.21316)|null|
 |**2025-09-25**|**Air Quality and Greenhouse Gas Emissions Assessment of Data Centers in Texas: Quantifying Impacts and Environmental Tradeoffs**|Ebrahim Eslami et.al.|[2509.21312](http://arxiv.org/abs/2509.21312)|null|
 |**2025-09-25**|**Efficient Quantum Measurements: Computational Max- and Measured Rényi Divergences and Applications**|Álvaro Yángüez et.al.|[2509.21308](http://arxiv.org/abs/2509.21308)|null|
@@ -98,5 +109,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
