@@ -1,4 +1,4 @@
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
 |**2025-09-24**|**DRES: Fake news detection by dynamic representation and ensemble selection**|Faramarz Farhangian et.al.|[2509.16893](http://arxiv.org/abs/2509.16893)|null|
 |**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|Shanghong Li et.al.|[2509.15578](http://arxiv.org/abs/2509.15578)|null|
 |**2025-09-15**|**A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection**|Di Jin et.al.|[2509.11687](http://arxiv.org/abs/2509.11687)|null|
@@ -26,7 +27,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## Rumour
 
@@ -44,7 +45,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -62,12 +63,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory**|Siru Ouyang et.al.|[2509.25140](http://arxiv.org/abs/2509.25140)|null|
+|**2025-09-29**|**Learning in an Echo Chamber: Online Learning with Replay Adversary**|Daniil Dmitriev et.al.|[2509.25135](http://arxiv.org/abs/2509.25135)|null|
+|**2025-09-29**|**A Characterization of Quasi-Einstein Metrics**|Antonio Airton Freitas Filho et.al.|[2509.25132](http://arxiv.org/abs/2509.25132)|null|
+|**2025-09-29**|**Towards a foundation model for astrophysical source detection: An End-to-End Gamma-Ray Data Analysis Pipeline Using Deep Learning**|Judit Pérez-Romero et.al.|[2509.25128](http://arxiv.org/abs/2509.25128)|null|
+|**2025-09-29**|**From $f(x)$ and $g(x)$ to $f(g(x))$ : LLMs Learn New Skills in RL by Composing Old Ones**|Lifan Yuan et.al.|[2509.25123](http://arxiv.org/abs/2509.25123)|null|
+|**2025-09-29**|**Diffuse Domain Methods with Dirichlet Boundary Conditions**|Luke Benfield et.al.|[2509.25115](http://arxiv.org/abs/2509.25115)|null|
+|**2025-09-29**|**From Affine to Polynomial: Synthesizing Loops with Branches via Algebraic Geometry**|Erdenebayar Bayarmagnai et.al.|[2509.25114](http://arxiv.org/abs/2509.25114)|null|
+|**2025-09-29**|**HeDA: An Intelligent Agent System for Heatwave Risk Discovery through Automated Knowledge Graph Construction and Multi-layer Risk Propagation Analysis**|Yiquan Wang et.al.|[2509.25112](http://arxiv.org/abs/2509.25112)|null|
+|**2025-09-29**|**Knowledge Extraction on Semi-Structured Content: Does It Remain Relevant for Question Answering in the Era of LLMs?**|Kai Sun et.al.|[2509.25107](http://arxiv.org/abs/2509.25107)|null|
+|**2025-09-29**|**New insights from the flavor dependence of quark transverse momentum distributions in the pion**|Lorenzo Rossi et.al.|[2509.25098](http://arxiv.org/abs/2509.25098)|null|
 |**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Chih Yao Hu et.al.|[2509.22653](http://arxiv.org/abs/2509.22653)|null|
 |**2025-09-26**|**RefAM: Attention Magnets for Zero-Shot Referral Segmentation**|Anna Kukleva et.al.|[2509.22650](http://arxiv.org/abs/2509.22650)|null|
 |**2025-09-26**|**WoW: Towards a World omniscient World model Through Embodied Interaction**|Xiaowei Chi et.al.|[2509.22642](http://arxiv.org/abs/2509.22642)|null|
@@ -109,5 +120,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
