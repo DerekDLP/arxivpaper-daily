@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-18**|**TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities**|Jiajun Chen et.al.|[2509.19352](http://arxiv.org/abs/2509.19352)|null|
 |**2025-09-11**|**The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election**|Kayla Duskin et.al.|[2509.09826](http://arxiv.org/abs/2509.09826)|null|
 |**2025-09-09**|**Influence Maximization Considering Influence, Cost and Time**|Mingyang Feng et.al.|[2509.07625](http://arxiv.org/abs/2509.07625)|null|
@@ -57,6 +58,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**The Connection between Dusty Star-Forming Galaxies and the First Massive Quenched Galaxies**|Pablo Araya-Araya et.al.|[2509.26646](http://arxiv.org/abs/2509.26646)|null|
+|**2025-09-30**|**TTT3R: 3D Reconstruction as Test-Time Training**|Xingyu Chen et.al.|[2509.26645](http://arxiv.org/abs/2509.26645)|null|
+|**2025-09-30**|**Stitch: Training-Free Position Control in Multimodal Diffusion Transformers**|Jessica Bader et.al.|[2509.26644](http://arxiv.org/abs/2509.26644)|null|
+|**2025-09-30**|**Benchmarking Egocentric Visual-Inertial SLAM at City Scale**|Anusha Krishnan et.al.|[2509.26639](http://arxiv.org/abs/2509.26639)|null|
+|**2025-09-30**|**A Tractable Family of Smooth Copulas with Rotational Dependence: Properties, Inference, and Application**|Michaël Lalancette et.al.|[2509.26635](http://arxiv.org/abs/2509.26635)|null|
+|**2025-09-30**|**Learning Generalizable Shape Completion with SIM(3) Equivariance**|Yuqing Wang et.al.|[2509.26631](http://arxiv.org/abs/2509.26631)|null|
+|**2025-09-30**|**Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training**|Junlin Han et.al.|[2509.26625](http://arxiv.org/abs/2509.26625)|null|
+|**2025-09-30**|**Second order interlaced polynomial lattice rules for integration over $\mathbb{R}^s$**|Tiangang Cui et.al.|[2509.26624](http://arxiv.org/abs/2509.26624)|null|
+|**2025-09-30**|**Direct Measurement of Extinction in a Planet-Hosting Gap**|G. Cugno et.al.|[2509.26617](http://arxiv.org/abs/2509.26617)|null|
+|**2025-09-30**|**Singularities at the vertex of connected angular inhomogeneities under thermal and elastic loading**|Yuanpeng Yang et.al.|[2509.26609](http://arxiv.org/abs/2509.26609)|null|
 |**2025-09-29**|**ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory**|Siru Ouyang et.al.|[2509.25140](http://arxiv.org/abs/2509.25140)|null|
 |**2025-09-29**|**Learning in an Echo Chamber: Online Learning with Replay Adversary**|Daniil Dmitriev et.al.|[2509.25135](http://arxiv.org/abs/2509.25135)|null|
 |**2025-09-29**|**A Characterization of Quasi-Einstein Metrics**|Antonio Airton Freitas Filho et.al.|[2509.25132](http://arxiv.org/abs/2509.25132)|null|
