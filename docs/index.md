@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -58,6 +58,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Improving GUI Grounding with Explicit Position-to-Coordinate Mapping**|Suyuchen Wang et.al.|[2510.03230](http://arxiv.org/abs/2510.03230)|null|
+|**2025-10-03**|**Inferring Stellar Densities with Flexible Models I: The Distribution of RR Lyrae in the Milky Way with $\textit{Gaia}$ DR3**|Madeline Lucey et.al.|[2510.03221](http://arxiv.org/abs/2510.03221)|null|
+|**2025-10-03**|**Sliding multiferroicity in hexagonal stacked CrI3**|Carter Fox et.al.|[2510.03220](http://arxiv.org/abs/2510.03220)|null|
+|**2025-10-03**|**TPM-Based Continuous Remote Attestation and Integrity Verification for 5G VNFs on Kubernetes**|Al Nahian Bin Emran et.al.|[2510.03219](http://arxiv.org/abs/2510.03219)|null|
+|**2025-10-03**|**Cache-to-Cache: Direct Semantic Communication Between Large Language Models**|Tianyu Fu et.al.|[2510.03215](http://arxiv.org/abs/2510.03215)|null|
+|**2025-10-03**|**Advancing the Concept Maturity Level of the Servicing Architecture for Habitable Worlds Observer**|Jonathan W. Arenberg et.al.|[2510.03214](http://arxiv.org/abs/2510.03214)|null|
+|**2025-10-03**|**Tilting Objects via Recollements and $p$ -Cycles on Weighted Projective Lines**|Qiang Dong et.al.|[2510.03208](http://arxiv.org/abs/2510.03208)|null|
+|**2025-10-03**|**To Distill or Decide? Understanding the Algorithmic Trade-off in Partially Observable Reinforcement Learning**|Yuda Song et.al.|[2510.03207](http://arxiv.org/abs/2510.03207)|null|
+|**2025-10-03**|**OpenZL: A Graph-Based Model for Compression**|Yann Collet et.al.|[2510.03203](http://arxiv.org/abs/2510.03203)|null|
+|**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
 |**2025-10-02**|**Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions**|Mengyu Yang et.al.|[2510.02313](http://arxiv.org/abs/2510.02313)|null|
 |**2025-10-02**|**Inferring Dynamic Physical Properties from Video Foundation Models**|Guanqi Zhan et.al.|[2510.02311](http://arxiv.org/abs/2510.02311)|null|
 |**2025-10-02**|**ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation**|Wenye Yu et.al.|[2510.02298](http://arxiv.org/abs/2510.02298)|null|
