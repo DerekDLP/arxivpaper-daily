@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
 |**2025-09-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
 |**2025-09-24**|**DRES: Fake news detection by dynamic representation and ensemble selection**|Faramarz Farhangian et.al.|[2509.16893](http://arxiv.org/abs/2509.16893)|null|
 |**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|Shanghong Li et.al.|[2509.15578](http://arxiv.org/abs/2509.15578)|null|
@@ -42,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
 |**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-03**|**MLSD: A Novel Few-Shot Learning Approach to Enhance Cross-Target and Cross-Domain Stance Detection**|Parush Gera et.al.|[2509.03725](http://arxiv.org/abs/2509.03725)|null|
@@ -58,6 +60,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**On graphical domination for threshold-linear networks with recurrent excitation and global inhibition**|Carina Curto et.al.|[2510.05098](http://arxiv.org/abs/2510.05098)|null|
+|**2025-10-06**|**Pulp Motion: Framing-aware multimodal camera and human motion generation**|Robin Courant et.al.|[2510.05097](http://arxiv.org/abs/2510.05097)|null|
+|**2025-10-06**|**Character Mixing for Video Generation**|Tingting Liao et.al.|[2510.05093](http://arxiv.org/abs/2510.05093)|null|
+|**2025-10-06**|**Learning to Interpret Weight Differences in Language Models**|Avichal Goel et.al.|[2510.05092](http://arxiv.org/abs/2510.05092)|null|
+|**2025-10-06**|**NeoPDF: A fast interpolation library for collinear and transverse momentum-dependent parton distributions**|Tanjona R. Rabemananjara et.al.|[2510.05079](http://arxiv.org/abs/2510.05079)|null|
+|**2025-10-06**|**Spectral Properties of Anomalous Microwave Emission in 144 Galactic Clouds**|Roke Cepeda-Arroita et.al.|[2510.05067](http://arxiv.org/abs/2510.05067)|null|
+|**2025-10-06**|**Barnett effect as a new source of magnetic field in heavy-ion collisions**|Dushmanta Sahu et.al.|[2510.05066](http://arxiv.org/abs/2510.05066)|null|
+|**2025-10-06**|**Staircase Streaming for Low-Latency Multi-Agent Inference**|Junlin Wang et.al.|[2510.05059](http://arxiv.org/abs/2510.05059)|null|
+|**2025-10-06**|**A comprehensive study of $Λ_c^- \to Λ(\to p π) μ^- \bar ν_μ$ incorporating SMEFT implications and right-handed neutrino**|Priyanka Boora et.al.|[2510.05050](http://arxiv.org/abs/2510.05050)|null|
+|**2025-10-06**|**A Unified Optimization Framework for Multiclass Classification with Structured Hyperplane Arrangements**|Víctor Blanco et.al.|[2510.05047](http://arxiv.org/abs/2510.05047)|null|
 |**2025-10-03**|**Improving GUI Grounding with Explicit Position-to-Coordinate Mapping**|Suyuchen Wang et.al.|[2510.03230](http://arxiv.org/abs/2510.03230)|null|
 |**2025-10-03**|**Inferring Stellar Densities with Flexible Models I: The Distribution of RR Lyrae in the Milky Way with $\textit{Gaia}$ DR3**|Madeline Lucey et.al.|[2510.03221](http://arxiv.org/abs/2510.03221)|null|
 |**2025-10-03**|**Sliding multiferroicity in hexagonal stacked CrI3**|Carter Fox et.al.|[2510.03220](http://arxiv.org/abs/2510.03220)|null|
