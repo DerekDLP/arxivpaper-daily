@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality**|Hengyang Zhou et.al.|[2510.05839](http://arxiv.org/abs/2510.05839)|null|
 |**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
 |**2025-09-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
 |**2025-09-24**|**DRES: Fake news detection by dynamic representation and ensemble selection**|Faramarz Farhangian et.al.|[2509.16893](http://arxiv.org/abs/2509.16893)|null|
@@ -26,6 +27,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-18**|**TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities**|Jiajun Chen et.al.|[2509.19352](http://arxiv.org/abs/2509.19352)|null|
 |**2025-09-11**|**The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election**|Kayla Duskin et.al.|[2509.09826](http://arxiv.org/abs/2509.09826)|null|
@@ -48,6 +50,7 @@ layout: default
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-03**|**MLSD: A Novel Few-Shot Learning Approach to Enhance Cross-Target and Cross-Domain Stance Detection**|Parush Gera et.al.|[2509.03725](http://arxiv.org/abs/2509.03725)|null|
 |**2025-08-11**|**Large Language Models for Subjective Language Understanding: A Survey**|Changhao Song et.al.|[2508.07959](http://arxiv.org/abs/2508.07959)|null|
+|**2025-10-07**|**RooseBERT: A New Deal For Political Language Modelling**|Deborah Dore et.al.|[2508.03250](http://arxiv.org/abs/2508.03250)|null|
 |**2025-09-21**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-11**|**Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences**|Selina Heller et.al.|[2507.08440](http://arxiv.org/abs/2507.08440)|null|
 |**2025-07-08**|**LLMs are Introvert**|Litian Zhang et.al.|[2507.05638](http://arxiv.org/abs/2507.05638)|null|
@@ -60,6 +63,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Tensor time series change-point detection in cryptocurrency network data**|Andreas Anastasiou et.al.|[2510.06211](http://arxiv.org/abs/2510.06211)|null|
+|**2025-10-07**|**Geographical inequalities in mortality by age and gender in Italy, 2002-2019: insights from a spatial extension of the Lee-Carter model**|Francesca Fiori et.al.|[2510.06210](http://arxiv.org/abs/2510.06210)|null|
+|**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
+|**2025-10-07**|**Multi-Segment Photonic Power Converters for Energy Harvesting and High-Speed Optical Wireless Communication**|Othman Younus et.al.|[2510.06205](http://arxiv.org/abs/2510.06205)|null|
+|**2025-10-07**|**StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars**|Weijian Li et.al.|[2510.06200](http://arxiv.org/abs/2510.06200)|null|
+|**2025-10-07**|**Relative stability theory and properness of K-moduli spaces**|Harold Blum et.al.|[2510.06197](http://arxiv.org/abs/2510.06197)|null|
+|**2025-10-07**|**Overlap-aware segmentation for topological reconstruction of obscured objects**|J. Schueler et.al.|[2510.06194](http://arxiv.org/abs/2510.06194)|null|
+|**2025-10-07**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
+|**2025-10-07**|**Window categories for a simple $9$ -fold flop of Grassmannian type**|Will Donovan et.al.|[2510.06184](http://arxiv.org/abs/2510.06184)|null|
+|**2025-10-07**|**Quantum $f$ -divergences and Their Local Behaviour: An Analysis via Relative Expansion Coefficients**|Paula Belzig et.al.|[2510.06183](http://arxiv.org/abs/2510.06183)|null|
 |**2025-10-06**|**On graphical domination for threshold-linear networks with recurrent excitation and global inhibition**|Carina Curto et.al.|[2510.05098](http://arxiv.org/abs/2510.05098)|null|
 |**2025-10-06**|**Pulp Motion: Framing-aware multimodal camera and human motion generation**|Robin Courant et.al.|[2510.05097](http://arxiv.org/abs/2510.05097)|null|
 |**2025-10-06**|**Character Mixing for Video Generation**|Tingting Liao et.al.|[2510.05093](http://arxiv.org/abs/2510.05093)|null|
