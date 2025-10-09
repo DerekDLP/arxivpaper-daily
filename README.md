@@ -1,4 +1,4 @@
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Rumour
 
@@ -49,7 +49,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -69,12 +69,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms**|Natacha Kuete Meli et.al.|[2510.07317](http://arxiv.org/abs/2510.07317)|null|
+|**2025-10-08**|**h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning**|Sumeet Ramesh Motwani et.al.|[2510.07312](http://arxiv.org/abs/2510.07312)|null|
+|**2025-10-08**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|Yue Li et.al.|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
+|**2025-10-08**|**Symmetry-breaking bifurcations and sub-harmonic lock-in of a flexible splitter plate in cylinder wake flow**|Baiyang Song et.al.|[2510.07308](http://arxiv.org/abs/2510.07308)|null|
+|**2025-10-08**|**Cocoon: A System Architecture for Differentially Private Training with Correlated Noises**|Donghwan Kim et.al.|[2510.07304](http://arxiv.org/abs/2510.07304)|null|
+|**2025-10-08**|**Agentic generative AI for media content discovery at the national football league**|Henry Wang et.al.|[2510.07297](http://arxiv.org/abs/2510.07297)|null|
+|**2025-10-08**|**Greedy Thiele continued-fraction approximation on continuum domains in the complex plane**|Tobin A. Driscoll et.al.|[2510.07295](http://arxiv.org/abs/2510.07295)|null|
+|**2025-10-08**|**Effects of Wall Roughness on Coupled Flow and Heat Transport in Fractured Media**|Alessandro Lenci et.al.|[2510.07294](http://arxiv.org/abs/2510.07294)|null|
+|**2025-10-08**|**A Genetic Algorithm Approach to Anti-Jamming UAV Swarm Behavior**|Tiago Silva et.al.|[2510.07292](http://arxiv.org/abs/2510.07292)|null|
+|**2025-10-08**|**Real-congruence canonical forms of real matrices**|Fernando De Terán et.al.|[2510.07288](http://arxiv.org/abs/2510.07288)|null|
 |**2025-10-07**|**Tensor time series change-point detection in cryptocurrency network data**|Andreas Anastasiou et.al.|[2510.06211](http://arxiv.org/abs/2510.06211)|null|
 |**2025-10-07**|**Geographical inequalities in mortality by age and gender in Italy, 2002-2019: insights from a spatial extension of the Lee-Carter model**|Francesca Fiori et.al.|[2510.06210](http://arxiv.org/abs/2510.06210)|null|
 |**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
@@ -176,5 +186,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
