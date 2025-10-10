@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -63,6 +63,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-09**|**ArenaBencher: Automatic Benchmark Evolution via Multi-Model Competitive Evaluation**|Qin Liu et.al.|[2510.08569](http://arxiv.org/abs/2510.08569)|null|
+|**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song et.al.|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
+|**2025-10-09**|**How to Teach Large Multimodal Models New Skills**|Zhen Zhu et.al.|[2510.08564](http://arxiv.org/abs/2510.08564)|null|
+|**2025-10-09**|**VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning**|Minghong Cai et.al.|[2510.08555](http://arxiv.org/abs/2510.08555)|null|
+|**2025-10-09**|**Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**|Kevin Rojas et.al.|[2510.08554](http://arxiv.org/abs/2510.08554)|null|
+|**2025-10-09**|**Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints**|Zilin Kang et.al.|[2510.08549](http://arxiv.org/abs/2510.08549)|null|
+|**2025-10-09**|**VideoNorms: Benchmarking Cultural Awareness of Video Language Models**|Nikhil Reddy Varimalla et.al.|[2510.08543](http://arxiv.org/abs/2510.08543)|null|
+|**2025-10-09**|**Computational and statistical lower bounds for low-rank estimation under general inhomogeneous noise**|Debsurya De et.al.|[2510.08541](http://arxiv.org/abs/2510.08541)|null|
+|**2025-10-09**|**Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing**|Rishubh Parihar et.al.|[2510.08532](http://arxiv.org/abs/2510.08532)|null|
+|**2025-10-09**|**High-Rate Surgery: towards constant-overhead logical operations**|Guo Zheng et.al.|[2510.08523](http://arxiv.org/abs/2510.08523)|null|
 |**2025-10-08**|**Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms**|Natacha Kuete Meli et.al.|[2510.07317](http://arxiv.org/abs/2510.07317)|null|
 |**2025-10-08**|**h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning**|Sumeet Ramesh Motwani et.al.|[2510.07312](http://arxiv.org/abs/2510.07312)|null|
 |**2025-10-08**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|Yue Li et.al.|[2510.07309](http://arxiv.org/abs/2510.07309)|null|

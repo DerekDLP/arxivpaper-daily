@@ -1,4 +1,4 @@
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Rumour
 
@@ -49,7 +49,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -69,12 +69,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**ArenaBencher: Automatic Benchmark Evolution via Multi-Model Competitive Evaluation**|Qin Liu et.al.|[2510.08569](http://arxiv.org/abs/2510.08569)|null|
+|**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song et.al.|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
+|**2025-10-09**|**How to Teach Large Multimodal Models New Skills**|Zhen Zhu et.al.|[2510.08564](http://arxiv.org/abs/2510.08564)|null|
+|**2025-10-09**|**VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning**|Minghong Cai et.al.|[2510.08555](http://arxiv.org/abs/2510.08555)|null|
+|**2025-10-09**|**Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization**|Kevin Rojas et.al.|[2510.08554](http://arxiv.org/abs/2510.08554)|null|
+|**2025-10-09**|**Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints**|Zilin Kang et.al.|[2510.08549](http://arxiv.org/abs/2510.08549)|null|
+|**2025-10-09**|**VideoNorms: Benchmarking Cultural Awareness of Video Language Models**|Nikhil Reddy Varimalla et.al.|[2510.08543](http://arxiv.org/abs/2510.08543)|null|
+|**2025-10-09**|**Computational and statistical lower bounds for low-rank estimation under general inhomogeneous noise**|Debsurya De et.al.|[2510.08541](http://arxiv.org/abs/2510.08541)|null|
+|**2025-10-09**|**Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing**|Rishubh Parihar et.al.|[2510.08532](http://arxiv.org/abs/2510.08532)|null|
+|**2025-10-09**|**High-Rate Surgery: towards constant-overhead logical operations**|Guo Zheng et.al.|[2510.08523](http://arxiv.org/abs/2510.08523)|null|
 |**2025-10-08**|**Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms**|Natacha Kuete Meli et.al.|[2510.07317](http://arxiv.org/abs/2510.07317)|null|
 |**2025-10-08**|**h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning**|Sumeet Ramesh Motwani et.al.|[2510.07312](http://arxiv.org/abs/2510.07312)|null|
 |**2025-10-08**|**Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**|Yue Li et.al.|[2510.07309](http://arxiv.org/abs/2510.07309)|null|
@@ -186,5 +196,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
