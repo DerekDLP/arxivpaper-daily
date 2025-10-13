@@ -1,4 +1,4 @@
-## Updated on 2025.10.12
+## Updated on 2025.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,12 +29,13 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
 |**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-18**|**TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities**|Jiajun Chen et.al.|[2509.19352](http://arxiv.org/abs/2509.19352)|null|
@@ -49,7 +50,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -69,12 +70,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|null|
+|**2025-10-10**|**Some new cases of Zilber-Pink in $Y(1)^3$**|Christopher Daw et.al.|[2510.09603](http://arxiv.org/abs/2510.09603)|null|
+|**2025-10-10**|**Anchoring the Universe with Characteristic Redshifts using Raychaudhuri Equation Informed Reconstruction Algorithm (REIRA)**|Shibendu Gupta Choudhury et.al.|[2510.09602](http://arxiv.org/abs/2510.09602)|null|
+|**2025-10-10**|**Simplified Quantum Weight Reduction with Optimal Bounds**|Min-Hsiu Hsieh et.al.|[2510.09601](http://arxiv.org/abs/2510.09601)|null|
+|**2025-10-10**|**BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards**|Sangyun Lee et.al.|[2510.09596](http://arxiv.org/abs/2510.09596)|null|
+|**2025-10-10**|**Ranking Policies Under Loss Aversion and Inequality Aversion**|Martyna Kobus et.al.|[2510.09590](http://arxiv.org/abs/2510.09590)|null|
+|**2025-10-10**|**From Birdwatch to Community Notes, from Twitter to X: four years of community-based content moderation**|Saeedeh Mohammadi et.al.|[2510.09585](http://arxiv.org/abs/2510.09585)|null|
+|**2025-10-10**|**FSP-DETR: Few-Shot Prototypical Parasitic Ova Detection**|Shubham Trehan et.al.|[2510.09583](http://arxiv.org/abs/2510.09583)|null|
+|**2025-10-10**|**SN 2021lwz: Another Exotic Luminous and Fast Evolving Optical Type Ic Broad-Lined Supernova ?**|F. Poidevin et.al.|[2510.09569](http://arxiv.org/abs/2510.09569)|null|
+|**2025-10-10**|**Automated Evolutionary Optimization for Resource-Efficient Neural Network Training**|Ilia Revin et.al.|[2510.09566](http://arxiv.org/abs/2510.09566)|null|
 |**2025-10-09**|**ArenaBencher: Automatic Benchmark Evolution via Multi-Model Competitive Evaluation**|Qin Liu et.al.|[2510.08569](http://arxiv.org/abs/2510.08569)|null|
 |**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song et.al.|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
 |**2025-10-09**|**How to Teach Large Multimodal Models New Skills**|Zhen Zhu et.al.|[2510.08564](http://arxiv.org/abs/2510.08564)|null|
@@ -196,5 +207,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
 
