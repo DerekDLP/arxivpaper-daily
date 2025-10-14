@@ -2,14 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-07**|**Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality**|Hengyang Zhou et.al.|[2510.05839](http://arxiv.org/abs/2510.05839)|null|
+|**2025-10-13**|**Towards Real-Time Fake News Detection under Evidence Scarcity**|Guangyu Wei et.al.|[2510.11277](http://arxiv.org/abs/2510.11277)|null|
+|**2025-10-11**|**Unpacking Hateful Memes: Presupposed Context and False Claims**|Weibin Cai et.al.|[2510.09935](http://arxiv.org/abs/2510.09935)|null|
+|**2025-10-10**|**Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments**|Zhao Tong et.al.|[2510.09712](http://arxiv.org/abs/2510.09712)|null|
+|**2025-10-13**|**Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality**|Hengyang Zhou et.al.|[2510.05839](http://arxiv.org/abs/2510.05839)|null|
 |**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
 |**2025-09-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
 |**2025-09-24**|**DRES: Fake news detection by dynamic representation and ensemble selection**|Faramarz Farhangian et.al.|[2509.16893](http://arxiv.org/abs/2509.16893)|null|
@@ -27,6 +30,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
 |**2025-10-10**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
 |**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
@@ -64,6 +68,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images**|Chengqi Duan et.al.|[2510.11718](http://arxiv.org/abs/2510.11718)|null|
+|**2025-10-13**|**Limit cycles and invariant algebraic curves**|Armengol Gasull et.al.|[2510.11705](http://arxiv.org/abs/2510.11705)|null|
+|**2025-10-13**|**Bayesian Topological Convolutional Neural Nets**|Sarah Harkins Dayton et.al.|[2510.11704](http://arxiv.org/abs/2510.11704)|null|
+|**2025-10-13**|**When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents**|Lingfei Qian et.al.|[2510.11695](http://arxiv.org/abs/2510.11695)|null|
+|**2025-10-13**|**Operand Quant: A Single-Agent Architecture for Autonomous Machine Learning Engineering**|Arjun Sahney et.al.|[2510.11694](http://arxiv.org/abs/2510.11694)|null|
+|**2025-10-13**|**Tight Regret Upper and Lower Bounds for Optimistic Hedge in Two-Player Zero-Sum Games**|Taira Tsuchiya et.al.|[2510.11691](http://arxiv.org/abs/2510.11691)|null|
+|**2025-10-13**|**Diffusion Transformers with Representation Autoencoders**|Boyang Zheng et.al.|[2510.11690](http://arxiv.org/abs/2510.11690)|null|
+|**2025-10-13**|**Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View**|Jinyu Zhang et.al.|[2510.11687](http://arxiv.org/abs/2510.11687)|null|
+|**2025-10-13**|**Representation-Based Exploration for Language Models: From Test-Time to Post-Training**|Jens Tuyls et.al.|[2510.11686](http://arxiv.org/abs/2510.11686)|null|
+|**2025-10-13**|**Observation of ballistic plasma and memory in high-energy gauge theory dynamics**|Daniel K. Mark et.al.|[2510.11679](http://arxiv.org/abs/2510.11679)|null|
 |**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu et.al.|[2510.09608](http://arxiv.org/abs/2510.09608)|null|
 |**2025-10-10**|**Some new cases of Zilber-Pink in $Y(1)^3$**|Christopher Daw et.al.|[2510.09603](http://arxiv.org/abs/2510.09603)|null|
 |**2025-10-10**|**Anchoring the Universe with Characteristic Redshifts using Raychaudhuri Equation Informed Reconstruction Algorithm (REIRA)**|Shibendu Gupta Choudhury et.al.|[2510.09602](http://arxiv.org/abs/2510.09602)|null|
