@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Structure-aware Propagation Generation with Large Language Models for Fake News Detection**|Mengyang Chen et.al.|[2510.12125](http://arxiv.org/abs/2510.12125)|null|
 |**2025-10-13**|**Towards Real-Time Fake News Detection under Evidence Scarcity**|Guangyu Wei et.al.|[2510.11277](http://arxiv.org/abs/2510.11277)|null|
 |**2025-10-11**|**Unpacking Hateful Memes: Presupposed Context and False Claims**|Weibin Cai et.al.|[2510.09935](http://arxiv.org/abs/2510.09935)|null|
 |**2025-10-10**|**Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments**|Zhao Tong et.al.|[2510.09712](http://arxiv.org/abs/2510.09712)|null|
@@ -68,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**CuMPerLay: Learning Cubical Multiparameter Persistence Vectorizations**|Caner Korkmaz et.al.|[2510.12795](http://arxiv.org/abs/2510.12795)|null|
+|**2025-10-14**|**Efficient Real-World Deblurring using Single Images: AIM 2025 Challenge Report**|Daniel Feijoo et.al.|[2510.12788](http://arxiv.org/abs/2510.12788)|null|
+|**2025-10-14**|**Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics**|Marco Del Tredici et.al.|[2510.12787](http://arxiv.org/abs/2510.12787)|null|
+|**2025-10-14**|**Quantum criticality at the end of a pseudogap phase in superconducting infinite-layer nickelates**|C. Iorio-Duval et.al.|[2510.12786](http://arxiv.org/abs/2510.12786)|null|
+|**2025-10-14**|**SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models**|Weiyang Jin et.al.|[2510.12784](http://arxiv.org/abs/2510.12784)|null|
+|**2025-10-14**|**Mapping the Perseus Galaxy Cluster with XRISM: Gas Kinematic Features and their Implications for Turbulence**|Congyao Zhang et.al.|[2510.12782](http://arxiv.org/abs/2510.12782)|null|
+|**2025-10-14**|**Content Anonymization for Privacy in Long-form Audio**|Cristina Aggazzotti et.al.|[2510.12780](http://arxiv.org/abs/2510.12780)|null|
+|**2025-10-14**|**Wavefront Coding for Accommodation-Invariant Near-Eye Displays**|Ugur Akpinar et.al.|[2510.12778](http://arxiv.org/abs/2510.12778)|null|
+|**2025-10-14**|**TopROI: A topology-informed network approach for tissue partitioning**|Sergio Serrano de Haro Iváñez et.al.|[2510.12772](http://arxiv.org/abs/2510.12772)|null|
+|**2025-10-14**|**AnyUp: Universal Feature Upsampling**|Thomas Wimmer et.al.|[2510.12764](http://arxiv.org/abs/2510.12764)|null|
 |**2025-10-13**|**CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images**|Chengqi Duan et.al.|[2510.11718](http://arxiv.org/abs/2510.11718)|null|
 |**2025-10-13**|**Limit cycles and invariant algebraic curves**|Armengol Gasull et.al.|[2510.11705](http://arxiv.org/abs/2510.11705)|null|
 |**2025-10-13**|**Bayesian Topological Convolutional Neural Nets**|Sarah Harkins Dayton et.al.|[2510.11704](http://arxiv.org/abs/2510.11704)|null|
