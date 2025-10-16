@@ -1,4 +1,4 @@
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Rumour
 
@@ -42,7 +42,7 @@
 |**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
 |**2025-10-10**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
 |**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
-|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-10-15**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-18**|**TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities**|Jiajun Chen et.al.|[2509.19352](http://arxiv.org/abs/2509.19352)|null|
 |**2025-09-11**|**The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election**|Kayla Duskin et.al.|[2509.09826](http://arxiv.org/abs/2509.09826)|null|
 |**2025-09-09**|**Influence Maximization Considering Influence, Cost and Time**|Mingyang Feng et.al.|[2509.07625](http://arxiv.org/abs/2509.07625)|null|
@@ -55,7 +55,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -75,12 +75,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Trace Anything: Representing Any Video in 4D via Trajectory Fields**|Xinhang Liu et.al.|[2510.13802](http://arxiv.org/abs/2510.13802)|null|
+|**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|Yi Zhang et.al.|[2510.13795](http://arxiv.org/abs/2510.13795)|null|
+|**2025-10-15**|**MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control**|Xue Bin Peng et.al.|[2510.13794](http://arxiv.org/abs/2510.13794)|null|
+|**2025-10-15**|**Investigating double bump air showers with the SKA-Low**|V. De Henau et.al.|[2510.13788](http://arxiv.org/abs/2510.13788)|null|
+|**2025-10-15**|**PriorGuide: Test-Time Prior Adaptation for Simulation-Based Inference**|Yang Yang et.al.|[2510.13763](http://arxiv.org/abs/2510.13763)|null|
+|**2025-10-15**|**Progressive multi-fidelity learning for physical system predictions**|Paolo Conti et.al.|[2510.13762](http://arxiv.org/abs/2510.13762)|null|
+|**2025-10-15**|**Invited Paper: BitMedViT: Ternary-Quantized Vision Transformer for Medical AI Assistants on the Edge**|Mikolaj Walczak et.al.|[2510.13760](http://arxiv.org/abs/2510.13760)|null|
+|**2025-10-15**|**Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark**|Kai Zou et.al.|[2510.13759](http://arxiv.org/abs/2510.13759)|null|
+|**2025-10-15**|**RECODE: Reasoning Through Code Generation for Visual Question Answering**|Junhong Shen et.al.|[2510.13756](http://arxiv.org/abs/2510.13756)|null|
+|**2025-10-15**|**Uvarov Perturbations for Multiple Orthogonal Polynomials of the Mixed Type on the Step-Line**|Manuel Mañas et.al.|[2510.13754](http://arxiv.org/abs/2510.13754)|null|
 |**2025-10-14**|**CuMPerLay: Learning Cubical Multiparameter Persistence Vectorizations**|Caner Korkmaz et.al.|[2510.12795](http://arxiv.org/abs/2510.12795)|null|
 |**2025-10-14**|**Efficient Real-World Deblurring using Single Images: AIM 2025 Challenge Report**|Daniel Feijoo et.al.|[2510.12788](http://arxiv.org/abs/2510.12788)|null|
 |**2025-10-14**|**Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics**|Marco Del Tredici et.al.|[2510.12787](http://arxiv.org/abs/2510.12787)|null|
@@ -232,5 +242,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
 
