@@ -1,4 +1,4 @@
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Rumour
 
@@ -55,7 +55,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -75,12 +75,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
+|**2025-10-16**|**Efficient and Flexible Multirate Temporal Adaptivity**|Daniel R. Reynolds et.al.|[2510.14964](http://arxiv.org/abs/2510.14964)|null|
+|**2025-10-16**|**Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models**|Jonas Geiping et.al.|[2510.14961](http://arxiv.org/abs/2510.14961)|null|
+|**2025-10-16**|**MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning**|Weikang Shi et.al.|[2510.14958](http://arxiv.org/abs/2510.14958)|null|
+|**2025-10-16**|**On Weighted and Bounded Multidimensional Catalan Numbers**|Ryota Inagaki et.al.|[2510.14956](http://arxiv.org/abs/2510.14956)|null|
+|**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/abs/2510.14949)|null|
+|**2025-10-16**|**Invisible neutron decay and light BSM particles**|J. C. Helo et.al.|[2510.14940](http://arxiv.org/abs/2510.14940)|null|
+|**2025-10-16**|**Nucleon Electric Dipole Moments in Paramagnetic Molecules through Effective Field Theory**|Wouter Dekens et.al.|[2510.14933](http://arxiv.org/abs/2510.14933)|null|
+|**2025-10-16**|**Resonance Engineering via Harnessing Anti-Parallel Dipole Image Coupling**|Dip Sarker et.al.|[2510.14932](http://arxiv.org/abs/2510.14932)|null|
+|**2025-10-16**|**Instruction Set Migration at Warehouse Scale**|Eric Christopher et.al.|[2510.14928](http://arxiv.org/abs/2510.14928)|null|
 |**2025-10-15**|**Trace Anything: Representing Any Video in 4D via Trajectory Fields**|Xinhang Liu et.al.|[2510.13802](http://arxiv.org/abs/2510.13802)|null|
 |**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|Yi Zhang et.al.|[2510.13795](http://arxiv.org/abs/2510.13795)|null|
 |**2025-10-15**|**MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control**|Xue Bin Peng et.al.|[2510.13794](http://arxiv.org/abs/2510.13794)|null|
@@ -242,5 +252,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 

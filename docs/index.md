@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -69,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
+|**2025-10-16**|**Efficient and Flexible Multirate Temporal Adaptivity**|Daniel R. Reynolds et.al.|[2510.14964](http://arxiv.org/abs/2510.14964)|null|
+|**2025-10-16**|**Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models**|Jonas Geiping et.al.|[2510.14961](http://arxiv.org/abs/2510.14961)|null|
+|**2025-10-16**|**MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning**|Weikang Shi et.al.|[2510.14958](http://arxiv.org/abs/2510.14958)|null|
+|**2025-10-16**|**On Weighted and Bounded Multidimensional Catalan Numbers**|Ryota Inagaki et.al.|[2510.14956](http://arxiv.org/abs/2510.14956)|null|
+|**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/abs/2510.14949)|null|
+|**2025-10-16**|**Invisible neutron decay and light BSM particles**|J. C. Helo et.al.|[2510.14940](http://arxiv.org/abs/2510.14940)|null|
+|**2025-10-16**|**Nucleon Electric Dipole Moments in Paramagnetic Molecules through Effective Field Theory**|Wouter Dekens et.al.|[2510.14933](http://arxiv.org/abs/2510.14933)|null|
+|**2025-10-16**|**Resonance Engineering via Harnessing Anti-Parallel Dipole Image Coupling**|Dip Sarker et.al.|[2510.14932](http://arxiv.org/abs/2510.14932)|null|
+|**2025-10-16**|**Instruction Set Migration at Warehouse Scale**|Eric Christopher et.al.|[2510.14928](http://arxiv.org/abs/2510.14928)|null|
 |**2025-10-15**|**Trace Anything: Representing Any Video in 4D via Trajectory Fields**|Xinhang Liu et.al.|[2510.13802](http://arxiv.org/abs/2510.13802)|null|
 |**2025-10-15**|**Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs**|Yi Zhang et.al.|[2510.13795](http://arxiv.org/abs/2510.13795)|null|
 |**2025-10-15**|**MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control**|Xue Bin Peng et.al.|[2510.13794](http://arxiv.org/abs/2510.13794)|null|
