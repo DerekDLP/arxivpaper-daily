@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -31,6 +31,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**The Physics of News, Rumors, and Opinions**|Guido Caldarelli et.al.|[2510.15053](http://arxiv.org/abs/2510.15053)|null|
 |**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
 |**2025-10-10**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
 |**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
@@ -69,6 +70,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction**|Simon Yu et.al.|[2510.15863](http://arxiv.org/abs/2510.15863)|null|
+|**2025-10-17**|**A Unifying Convexification Framework for Chance-Constrained Programs via Bilinear Extended Formulations over a Simplex**|Danial Davarnia et.al.|[2510.15861](http://arxiv.org/abs/2510.15861)|null|
+|**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
+|**2025-10-17**|**SpeechLLMs for Large-scale Contextualized Zero-shot Slot Filling**|Kadri Hacioglu et.al.|[2510.15851](http://arxiv.org/abs/2510.15851)|null|
+|**2025-10-17**|**Bio-inspired Microgrid Management based on Brain's Sensorimotor Gating**|Panos C. Papageorgiou et.al.|[2510.15847](http://arxiv.org/abs/2510.15847)|null|
+|**2025-10-17**|**3DPR: Single Image 3D Portrait Relight using Generative Priors**|Pramod Rao et.al.|[2510.15846](http://arxiv.org/abs/2510.15846)|null|
+|**2025-10-17**|**Enhanced Sentiment Interpretation via a Lexicon-Fuzzy-Transformer Framework**|Shayan Rokhva et.al.|[2510.15843](http://arxiv.org/abs/2510.15843)|null|
+|**2025-10-17**|**Multiwavelength analysis of polarized light in HD 100453**|J. Ma et.al.|[2510.15832](http://arxiv.org/abs/2510.15832)|null|
+|**2025-10-17**|**GENESIS: A Generative Model of Episodic-Semantic Interaction**|Marco D'Alessandro et.al.|[2510.15828](http://arxiv.org/abs/2510.15828)|null|
+|**2025-10-17**|**The kinetic Sunyaev Zeldovich effect as a benchmark for AGN feedback models in hydrodynamical simulations: insights from DESI + ACT**|Leah Bigwood et.al.|[2510.15822](http://arxiv.org/abs/2510.15822)|null|
 |**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari et.al.|[2510.14978](http://arxiv.org/abs/2510.14978)|null|
 |**2025-10-16**|**Efficient and Flexible Multirate Temporal Adaptivity**|Daniel R. Reynolds et.al.|[2510.14964](http://arxiv.org/abs/2510.14964)|null|
 |**2025-10-16**|**Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models**|Jonas Geiping et.al.|[2510.14961](http://arxiv.org/abs/2510.14961)|null|
