@@ -1,4 +1,4 @@
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Rumour
 
@@ -56,7 +56,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -76,12 +76,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[2510.17799](http://arxiv.org/abs/2510.17799)|null|
+|**2025-10-20**|**Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains**|Austin Xu et.al.|[2510.17793](http://arxiv.org/abs/2510.17793)|null|
+|**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis et.al.|[2510.17792](http://arxiv.org/abs/2510.17792)|null|
+|**2025-10-20**|**Searches for new physics breaking the CP and flavor symmetries in the top quark sector at CMS**|Sergio Sánchez Cruz et.al.|[2510.17782](http://arxiv.org/abs/2510.17782)|null|
+|**2025-10-20**|**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**|Samir Khaki et.al.|[2510.17777](http://arxiv.org/abs/2510.17777)|null|
+|**2025-10-20**|**Increased molecular gas velocity dispersion and star formation efficiency in barred galaxy centres**|Jennifer M. Laing et.al.|[2510.17768](http://arxiv.org/abs/2510.17768)|null|
+|**2025-10-20**|**QUIJOTE scientific results XIX. New constraints on the synchrotron spectral index using a semi-blind component separation method**|Debabrata Adak et.al.|[2510.17761](http://arxiv.org/abs/2510.17761)|null|
+|**2025-10-20**|**VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models**|Qilin Liao et.al.|[2510.17759](http://arxiv.org/abs/2510.17759)|null|
+|**2025-10-20**|**When and what to learn in a changing world**|César Barilla et.al.|[2510.17757](http://arxiv.org/abs/2510.17757)|null|
+|**2025-10-20**|**Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network**|Younghyun Koo et.al.|[2510.17756](http://arxiv.org/abs/2510.17756)|null|
 |**2025-10-17**|**PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction**|Simon Yu et.al.|[2510.15863](http://arxiv.org/abs/2510.15863)|null|
 |**2025-10-17**|**A Unifying Convexification Framework for Chance-Constrained Programs via Bilinear Extended Formulations over a Simplex**|Danial Davarnia et.al.|[2510.15861](http://arxiv.org/abs/2510.15861)|null|
 |**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
@@ -263,5 +273,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -70,6 +70,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[2510.17799](http://arxiv.org/abs/2510.17799)|null|
+|**2025-10-20**|**Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains**|Austin Xu et.al.|[2510.17793](http://arxiv.org/abs/2510.17793)|null|
+|**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis et.al.|[2510.17792](http://arxiv.org/abs/2510.17792)|null|
+|**2025-10-20**|**Searches for new physics breaking the CP and flavor symmetries in the top quark sector at CMS**|Sergio Sánchez Cruz et.al.|[2510.17782](http://arxiv.org/abs/2510.17782)|null|
+|**2025-10-20**|**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**|Samir Khaki et.al.|[2510.17777](http://arxiv.org/abs/2510.17777)|null|
+|**2025-10-20**|**Increased molecular gas velocity dispersion and star formation efficiency in barred galaxy centres**|Jennifer M. Laing et.al.|[2510.17768](http://arxiv.org/abs/2510.17768)|null|
+|**2025-10-20**|**QUIJOTE scientific results XIX. New constraints on the synchrotron spectral index using a semi-blind component separation method**|Debabrata Adak et.al.|[2510.17761](http://arxiv.org/abs/2510.17761)|null|
+|**2025-10-20**|**VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models**|Qilin Liao et.al.|[2510.17759](http://arxiv.org/abs/2510.17759)|null|
+|**2025-10-20**|**When and what to learn in a changing world**|César Barilla et.al.|[2510.17757](http://arxiv.org/abs/2510.17757)|null|
+|**2025-10-20**|**Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network**|Younghyun Koo et.al.|[2510.17756](http://arxiv.org/abs/2510.17756)|null|
 |**2025-10-17**|**PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction**|Simon Yu et.al.|[2510.15863](http://arxiv.org/abs/2510.15863)|null|
 |**2025-10-17**|**A Unifying Convexification Framework for Chance-Constrained Programs via Bilinear Extended Formulations over a Simplex**|Danial Davarnia et.al.|[2510.15861](http://arxiv.org/abs/2510.15861)|null|
 |**2025-10-17**|**BLIP3o-NEXT: Next Frontier of Native Image Generation**|Jiuhai Chen et.al.|[2510.15857](http://arxiv.org/abs/2510.15857)|null|
