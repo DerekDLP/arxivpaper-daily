@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -33,7 +33,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-16**|**The Physics of News, Rumors, and Opinions**|Guido Caldarelli et.al.|[2510.15053](http://arxiv.org/abs/2510.15053)|null|
 |**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
-|**2025-10-10**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
+|**2025-10-20**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
 |**2025-10-06**|**Critical thresholds in stochastic rumors on trees**|Jhon F. Puerres et.al.|[2510.05352](http://arxiv.org/abs/2510.05352)|null|
 |**2025-10-15**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-18**|**TriSPrompt: A Hierarchical Soft Prompt Model for Multimodal Rumor Detection with Incomplete Modalities**|Jiajun Chen et.al.|[2509.19352](http://arxiv.org/abs/2509.19352)|null|
@@ -70,6 +70,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**|Howard Chen et.al.|[2510.18874](http://arxiv.org/abs/2510.18874)|null|
+|**2025-10-21**|**LightMem: Lightweight and Efficient Memory-Augmented Generation**|Jizhan Fang et.al.|[2510.18866](http://arxiv.org/abs/2510.18866)|null|
+|**2025-10-21**|**New flexible and inexact Golub-Kahan algorithms for inverse problems**|Malena Sabaté Landman et.al.|[2510.18865](http://arxiv.org/abs/2510.18865)|null|
+|**2025-10-21**|**Evolution of recursive trees with limited memory**|Omer Angel et.al.|[2510.18856](http://arxiv.org/abs/2510.18856)|null|
+|**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
+|**2025-10-21**|**Flexible inner-product free Krylov methods for inverse problems**|Malena Sabaté Landman et.al.|[2510.18853](http://arxiv.org/abs/2510.18853)|null|
+|**2025-10-21**|**Quadratic Supercontinuum Generation from UV to Mid-IR in Lithium Niobate Nanophotonics**|Selina Zhou et.al.|[2510.18844](http://arxiv.org/abs/2510.18844)|null|
+|**2025-10-21**|**Can black holes evaporate past extremality?**|Samuel E. Gralla et.al.|[2510.18839](http://arxiv.org/abs/2510.18839)|null|
+|**2025-10-21**|**PCMS: Parallel Coupler For Multimodel Simulations**|Jacob S. Merson et.al.|[2510.18838](http://arxiv.org/abs/2510.18838)|null|
+|**2025-10-21**|**Scale-bridging dislocation plasticity in MgO at room temperature**|Jiawen Zhang et.al.|[2510.18831](http://arxiv.org/abs/2510.18831)|null|
 |**2025-10-20**|**Dynamic Dyck and Tree Edit Distance: Decompositions and Reductions to String Edit Distance**|Debarati Das et.al.|[2510.17799](http://arxiv.org/abs/2510.17799)|null|
 |**2025-10-20**|**Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains**|Austin Xu et.al.|[2510.17793](http://arxiv.org/abs/2510.17793)|null|
 |**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis et.al.|[2510.17792](http://arxiv.org/abs/2510.17792)|null|
