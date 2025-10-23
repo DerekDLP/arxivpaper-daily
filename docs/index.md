@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**CrossNews-UA: A Cross-lingual News Semantic Similarity Benchmark for Ukrainian, Polish, Russian, and English**|Daryna Dementieva et.al.|[2510.19628](http://arxiv.org/abs/2510.19628)|null|
+|**2025-10-21**|**Misinformation Detection using Large Language Models with Explainability**|Jainee Patel et.al.|[2510.18918](http://arxiv.org/abs/2510.18918)|null|
 |**2025-10-14**|**Structure-aware Propagation Generation with Large Language Models for Fake News Detection**|Mengyang Chen et.al.|[2510.12125](http://arxiv.org/abs/2510.12125)|null|
 |**2025-10-13**|**Towards Real-Time Fake News Detection under Evidence Scarcity**|Guangyu Wei et.al.|[2510.11277](http://arxiv.org/abs/2510.11277)|null|
 |**2025-10-11**|**Unpacking Hateful Memes: Presupposed Context and False Claims**|Weibin Cai et.al.|[2510.09935](http://arxiv.org/abs/2510.09935)|null|
@@ -70,6 +72,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Is This Tracker On? A Benchmark Protocol for Dynamic Tracking**|Ilona Demler et.al.|[2510.19819](http://arxiv.org/abs/2510.19819)|null|
+|**2025-10-22**|**Explaining the Inherent Tradeoffs for Suffix Array Functionality: Equivalences between String Problems and Prefix Range Queries**|Dominik Kempa et.al.|[2510.19815](http://arxiv.org/abs/2510.19815)|null|
+|**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
+|**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
+|**2025-10-22**|**Transformers are almost optimal metalearners for linear classification**|Roey Magen et.al.|[2510.19797](http://arxiv.org/abs/2510.19797)|null|
+|**2025-10-22**|**On Controlled Change: Generative AI's Impact on Professional Authority in Journalism**|Tomás Dodds et.al.|[2510.19792](http://arxiv.org/abs/2510.19792)|null|
+|**2025-10-22**|**First Observation of Dispersive Shock Waves in an Electron Beam**|H. McCright et.al.|[2510.19786](http://arxiv.org/abs/2510.19786)|null|
+|**2025-10-22**|**Strongly Polynomial Parallel Work-Depth Tradeoffs for Directed SSSP**|Adam Karczmarz et.al.|[2510.19780](http://arxiv.org/abs/2510.19780)|null|
+|**2025-10-22**|**Under Pressure: Security Analysis and Process Impacts of a Commercial Smart Air Compressor**|Jad Zarzour et.al.|[2510.19772](http://arxiv.org/abs/2510.19772)|null|
+|**2025-10-22**|**Quantum Coherence in Superconducting Vortex States**|Ameya Nambisan et.al.|[2510.19769](http://arxiv.org/abs/2510.19769)|null|
 |**2025-10-21**|**Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**|Howard Chen et.al.|[2510.18874](http://arxiv.org/abs/2510.18874)|null|
 |**2025-10-21**|**LightMem: Lightweight and Efficient Memory-Augmented Generation**|Jizhan Fang et.al.|[2510.18866](http://arxiv.org/abs/2510.18866)|null|
 |**2025-10-21**|**New flexible and inexact Golub-Kahan algorithms for inverse problems**|Malena Sabaté Landman et.al.|[2510.18865](http://arxiv.org/abs/2510.18865)|null|
