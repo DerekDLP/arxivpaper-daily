@@ -1,4 +1,4 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Rumour
 
@@ -58,12 +58,13 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
 |**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
 |**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
@@ -78,12 +79,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Doubling the Number of Blue Large-Amlitude Pulsators: Final Results of Searches for BLAPs in the OGLE Inner Galactic Bulge Fields**|J. Borowicz et.al.|[2510.20823](http://arxiv.org/abs/2510.20823)|null|
+|**2025-10-23**|**HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives**|Yihao Meng et.al.|[2510.20822](http://arxiv.org/abs/2510.20822)|null|
+|**2025-10-23**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
+|**2025-10-23**|**Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge**|Nimrod Berman et.al.|[2510.20819](http://arxiv.org/abs/2510.20819)|null|
+|**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Guangqi Jiang et.al.|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
+|**2025-10-23**|**Simulation-calibrated Bayesian inference for progenitor properties of the microquasar SS 433**|Nathan Steinle et.al.|[2510.20811](http://arxiv.org/abs/2510.20811)|null|
+|**2025-10-23**|**Real Deep Research for AI, Robotics and Beyond**|Xueyan Zou et.al.|[2510.20809](http://arxiv.org/abs/2510.20809)|null|
+|**2025-10-23**|**Testing the AGN Paradigm, Part I: a generic SED for Seyfert 1 galaxies**|Paulina Alejandra Roco-Avilez et.al.|[2510.20806](http://arxiv.org/abs/2510.20806)|null|
+|**2025-10-23**|**Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples**|Shiva Sreeram et.al.|[2510.20800](http://arxiv.org/abs/2510.20800)|null|
+|**2025-10-23**|**BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation**|Liang Ye et.al.|[2510.20792](http://arxiv.org/abs/2510.20792)|null|
 |**2025-10-22**|**Is This Tracker On? A Benchmark Protocol for Dynamic Tracking**|Ilona Demler et.al.|[2510.19819](http://arxiv.org/abs/2510.19819)|null|
 |**2025-10-22**|**Explaining the Inherent Tradeoffs for Suffix Array Functionality: Equivalences between String Problems and Prefix Range Queries**|Dominik Kempa et.al.|[2510.19815](http://arxiv.org/abs/2510.19815)|null|
 |**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|null|
@@ -295,5 +306,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
