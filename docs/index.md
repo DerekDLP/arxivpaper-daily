@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -73,6 +73,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Connecting Chemical Enrichment with Resolved Star Formation Histories**|Christopher T. Garling et.al.|[2510.21707](http://arxiv.org/abs/2510.21707)|null|
+|**2025-10-24**|**Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent**|Christy Li et.al.|[2510.21704](http://arxiv.org/abs/2510.21704)|null|
+|**2025-10-24**|**Kosmic Field Theories: Towards Holographic Duals for Unitary String Cosmologies**|Ayngaran Thavanesan et.al.|[2510.21701](http://arxiv.org/abs/2510.21701)|null|
+|**2025-10-24**|**HOLISMOKES XIX: SN 2025wny at $z=2$ , the first strongly lensed superluminous supernova**|Stefan Taubenberger et.al.|[2510.21694](http://arxiv.org/abs/2510.21694)|null|
+|**2025-10-24**|**The Piezochiral Effect**|Z. Zeng et.al.|[2510.21674](http://arxiv.org/abs/2510.21674)|null|
+|**2025-10-24**|**Energy storage in a continuous-variable quantum battery with nonlinear coupling**|C. A. Downing et.al.|[2510.21672](http://arxiv.org/abs/2510.21672)|null|
+|**2025-10-24**|**AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite**|Jonathan Bragg et.al.|[2510.21652](http://arxiv.org/abs/2510.21652)|null|
+|**2025-10-24**|**Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning**|Inbazhagan Ravikumar et.al.|[2510.21648](http://arxiv.org/abs/2510.21648)|null|
+|**2025-10-24**|**New classes of compact-type spaces**|Saak Gabriyelyan et.al.|[2510.21642](http://arxiv.org/abs/2510.21642)|null|
+|**2025-10-24**|**Search for dijet resonances with data scouting in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2510.21641](http://arxiv.org/abs/2510.21641)|null|
 |**2025-10-23**|**Doubling the Number of Blue Large-Amlitude Pulsators: Final Results of Searches for BLAPs in the OGLE Inner Galactic Bulge Fields**|J. Borowicz et.al.|[2510.20823](http://arxiv.org/abs/2510.20823)|null|
 |**2025-10-23**|**HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives**|Yihao Meng et.al.|[2510.20822](http://arxiv.org/abs/2510.20822)|null|
 |**2025-10-23**|**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**|Guocheng Gordon Qian et.al.|[2510.20820](http://arxiv.org/abs/2510.20820)|null|
