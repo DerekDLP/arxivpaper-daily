@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-26**|**OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models**|Hao Zheng et.al.|[2510.22535](http://arxiv.org/abs/2510.22535)|null|
 |**2025-10-16**|**The Physics of News, Rumors, and Opinions**|Guido Caldarelli et.al.|[2510.15053](http://arxiv.org/abs/2510.15053)|null|
 |**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
 |**2025-10-20**|**Cross-Platform Narrative Prediction: Leveraging Platform-Invariant Discourse Networks**|Patrick Gerard et.al.|[2510.09464](http://arxiv.org/abs/2510.09464)|null|
@@ -54,6 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts**|Nikesh Gyawali et.al.|[2510.23464](http://arxiv.org/abs/2510.23464)|null|
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
 |**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
 |**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
@@ -73,6 +75,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations**|Yujia Zhang et.al.|[2510.23607](http://arxiv.org/abs/2510.23607)|null|
+|**2025-10-27**|**Alita-G: Self-Evolving Generative Agent for Agent Generation**|Jiahao Qiu et.al.|[2510.23601](http://arxiv.org/abs/2510.23601)|null|
+|**2025-10-27**|**The Benjamin-Ono equation with quasi-periodic data**|Hagen Papenburg et.al.|[2510.23599](http://arxiv.org/abs/2510.23599)|null|
+|**2025-10-27**|**The Compressed 3D Lyman-Alpha Forest Bispectrum**|Roger de Belsunce et.al.|[2510.23597](http://arxiv.org/abs/2510.23597)|null|
+|**2025-10-27**|**Hope Speech Detection in Social Media English Corpora: Performance of Traditional and Transformer Models**|Luis Ramos et.al.|[2510.23585](http://arxiv.org/abs/2510.23585)|null|
+|**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir et.al.|[2510.23571](http://arxiv.org/abs/2510.23571)|null|
+|**2025-10-27**|**Dark Energy Survey Year 6 Results: Redshift Calibration of the Weak Lensing Source Galaxies**|B. Yin et.al.|[2510.23566](http://arxiv.org/abs/2510.23566)|null|
+|**2025-10-27**|**Briot-Bouquet differential subordinations of analytic functions involving the Mittag-Leffler function defined in Cardioid domain**|Asena Cetinkaya et.al.|[2510.23560](http://arxiv.org/abs/2510.23560)|null|
+|**2025-10-27**|**ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models**|Bohan Li et.al.|[2510.23558](http://arxiv.org/abs/2510.23558)|null|
+|**2025-10-27**|**Potential-based formalism for electrodynamics of media with weak spatial dispersion**|Yury Solyaev et.al.|[2510.23556](http://arxiv.org/abs/2510.23556)|null|
 |**2025-10-24**|**Connecting Chemical Enrichment with Resolved Star Formation Histories**|Christopher T. Garling et.al.|[2510.21707](http://arxiv.org/abs/2510.21707)|null|
 |**2025-10-24**|**Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent**|Christy Li et.al.|[2510.21704](http://arxiv.org/abs/2510.21704)|null|
 |**2025-10-24**|**Kosmic Field Theories: Towards Holographic Duals for Unitary String Cosmologies**|Ayngaran Thavanesan et.al.|[2510.21701](http://arxiv.org/abs/2510.21701)|null|
