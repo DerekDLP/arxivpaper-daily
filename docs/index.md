@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -75,6 +75,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Machine-Learning-Assisted Comparison of Regression Functions**|Jian Yan et.al.|[2510.24714](http://arxiv.org/abs/2510.24714)|null|
+|**2025-10-28**|**Memory-induced long-range order drag**|Yuan-Hang Zhang et.al.|[2510.24712](http://arxiv.org/abs/2510.24712)|null|
+|**2025-10-28**|**MetricX-25 and GemSpanEval: Google Translate Submissions to the WMT25 Evaluation Shared Task**|Juraj Juraska et.al.|[2510.24707](http://arxiv.org/abs/2510.24707)|null|
+|**2025-10-28**|**Dipole-lets: a new multiscale decomposition for MR phase and quantitative susceptibility mapping**|Ignacio Contreras-Zúñiga et.al.|[2510.24705](http://arxiv.org/abs/2510.24705)|null|
+|**2025-10-28**|**Fast algorithms enabling optimization and deep learning for photoacoustic tomography in a circular detection geometry**|Andreas Hauptmann et.al.|[2510.24687](http://arxiv.org/abs/2510.24687)|null|
+|**2025-10-28**|**Selfless Reduced Free Products and Graph Products of $\mathrm{C}^\ast$ -algebras**|Felipe Flores et.al.|[2510.24675](http://arxiv.org/abs/2510.24675)|null|
+|**2025-10-28**|**Pearl: A Foundation Model for Placing Every Atom in the Right Location**|Genesis Research Team et.al.|[2510.24670](http://arxiv.org/abs/2510.24670)|null|
+|**2025-10-28**|**Structurally balanced growing network as randomized Pólya urn process**|Krishnadas Mohandas et.al.|[2510.24659](http://arxiv.org/abs/2510.24659)|null|
+|**2025-10-28**|**Higgs-Boson Decays: Updates**|Emanuele Bagnaschi et.al.|[2510.24658](http://arxiv.org/abs/2510.24658)|null|
+|**2025-10-28**|**Higgs Inflation: Particle Factory**|Tammi Chowdhury et.al.|[2510.24651](http://arxiv.org/abs/2510.24651)|null|
 |**2025-10-27**|**Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations**|Yujia Zhang et.al.|[2510.23607](http://arxiv.org/abs/2510.23607)|null|
 |**2025-10-27**|**Alita-G: Self-Evolving Generative Agent for Agent Generation**|Jiahao Qiu et.al.|[2510.23601](http://arxiv.org/abs/2510.23601)|null|
 |**2025-10-27**|**The Benjamin-Ono equation with quasi-periodic data**|Hagen Papenburg et.al.|[2510.23599](http://arxiv.org/abs/2510.23599)|null|
