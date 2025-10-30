@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
 |**2025-10-22**|**CrossNews-UA: A Cross-lingual News Semantic Similarity Benchmark for Ukrainian, Polish, Russian, and English**|Daryna Dementieva et.al.|[2510.19628](http://arxiv.org/abs/2510.19628)|null|
 |**2025-10-21**|**Misinformation Detection using Large Language Models with Explainability**|Jainee Patel et.al.|[2510.18918](http://arxiv.org/abs/2510.18918)|null|
 |**2025-10-14**|**Structure-aware Propagation Generation with Large Language Models for Fake News Detection**|Mengyang Chen et.al.|[2510.12125](http://arxiv.org/abs/2510.12125)|null|
@@ -17,7 +18,7 @@ layout: default
 |**2025-10-10**|**Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments**|Zhao Tong et.al.|[2510.09712](http://arxiv.org/abs/2510.09712)|null|
 |**2025-10-13**|**Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality**|Hengyang Zhou et.al.|[2510.05839](http://arxiv.org/abs/2510.05839)|null|
 |**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
-|**2025-09-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
+|**2025-10-28**|**Graph Mixing Additive Networks**|Maya Bechler-Speicher et.al.|[2509.23923](http://arxiv.org/abs/2509.23923)|null|
 |**2025-09-24**|**DRES: Fake news detection by dynamic representation and ensemble selection**|Faramarz Farhangian et.al.|[2509.16893](http://arxiv.org/abs/2509.16893)|null|
 |**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|Shanghong Li et.al.|[2509.15578](http://arxiv.org/abs/2509.15578)|null|
 |**2025-09-15**|**A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection**|Di Jin et.al.|[2509.11687](http://arxiv.org/abs/2509.11687)|null|
@@ -75,6 +76,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
+|**2025-10-29**|**STITCH 2.0: Extending Augmented Suturing with EKF Needle Estimation and Thread Management**|Kush Hari et.al.|[2510.25768](http://arxiv.org/abs/2510.25768)|null|
+|**2025-10-29**|**FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion**|Chuhao Chen et.al.|[2510.25765](http://arxiv.org/abs/2510.25765)|null|
+|**2025-10-29**|**Derived induction theory for the K-theory of modular group algebras**|Chase Vogeli et.al.|[2510.25763](http://arxiv.org/abs/2510.25763)|null|
+|**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|Chumeng Liang et.al.|[2510.25761](http://arxiv.org/abs/2510.25761)|null|
+|**2025-10-29**|**Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks**|Xu Zheng et.al.|[2510.25760](http://arxiv.org/abs/2510.25760)|null|
+|**2025-10-29**|**GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions**|Bohan Wu et.al.|[2510.25754](http://arxiv.org/abs/2510.25754)|null|
+|**2025-10-29**|**How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs**|Samet Demir et.al.|[2510.25753](http://arxiv.org/abs/2510.25753)|null|
+|**2025-10-29**|**A New Class of Relations for Homogeneous Symmetric Polynomials**|Boris Y. Rubinstein et.al.|[2510.25749](http://arxiv.org/abs/2510.25749)|null|
+|**2025-10-29**|**Crystallization Behavior of ZBLAN Glass Under Combined Thermal and Vibrational Effects: Part I -- Experimental Investigation**|Ayush Subedi et.al.|[2510.25748](http://arxiv.org/abs/2510.25748)|null|
 |**2025-10-28**|**Machine-Learning-Assisted Comparison of Regression Functions**|Jian Yan et.al.|[2510.24714](http://arxiv.org/abs/2510.24714)|null|
 |**2025-10-28**|**Memory-induced long-range order drag**|Yuan-Hang Zhang et.al.|[2510.24712](http://arxiv.org/abs/2510.24712)|null|
 |**2025-10-28**|**MetricX-25 and GemSpanEval: Google Translate Submissions to the WMT25 Evaluation Shared Task**|Juraj Juraska et.al.|[2510.24707](http://arxiv.org/abs/2510.24707)|null|
