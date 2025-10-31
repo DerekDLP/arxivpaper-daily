@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
 |**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
 |**2025-10-22**|**CrossNews-UA: A Cross-lingual News Semantic Similarity Benchmark for Ukrainian, Polish, Russian, and English**|Daryna Dementieva et.al.|[2510.19628](http://arxiv.org/abs/2510.19628)|null|
 |**2025-10-21**|**Misinformation Detection using Large Language Models with Explainability**|Jainee Patel et.al.|[2510.18918](http://arxiv.org/abs/2510.18918)|null|
@@ -56,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**LASTIST: LArge-Scale Target-Independent STance dataset**|DongJae Kim et.al.|[2510.25783](http://arxiv.org/abs/2510.25783)|null|
 |**2025-10-27**|**Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts**|Nikesh Gyawali et.al.|[2510.23464](http://arxiv.org/abs/2510.23464)|null|
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
 |**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
@@ -76,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes**|Yukun Huang et.al.|[2510.26800](http://arxiv.org/abs/2510.26800)|null|
+|**2025-10-30**|**Boosting the cosmic 21-cm signal with exotic Lyman- $α$ from dark matter**|Dominic Agius et.al.|[2510.26791](http://arxiv.org/abs/2510.26791)|null|
+|**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Aniruddh Bansal et.al.|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
+|**2025-10-30**|**Nonunital prime rings graded by ordered groups**|Daniel Lännström et.al.|[2510.26734](http://arxiv.org/abs/2510.26734)|null|
+|**2025-10-30**|**The Weighing Halos Accurately, Locally, and Efficiently with Supernovae (WHALES) Survey Overview and Initial Data Release**|Maria Acevedo et.al.|[2510.26731](http://arxiv.org/abs/2510.26731)|null|
+|**2025-10-30**|**Sharp Fuss-Catalan thresholds in graph bootstrap percolation**|Zsolt Bartha et.al.|[2510.26724](http://arxiv.org/abs/2510.26724)|null|
+|**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
+|**2025-10-30**|**Pareto-Optimal Sampling and Resource Allocation for Timely Communication in Shared-Spectrum Low-Altitude Networks**|Bowen Li et.al.|[2510.26708](http://arxiv.org/abs/2510.26708)|null|
+|**2025-10-30**|**Budgeted Multiple-Expert Deferral**|Giulia DeSalvo et.al.|[2510.26706](http://arxiv.org/abs/2510.26706)|null|
+|**2025-10-30**|**ProstNFound+: A Prospective Study using Medical Foundation Models for Prostate Cancer Detection**|Paul F. R. Wilson et.al.|[2510.26703](http://arxiv.org/abs/2510.26703)|null|
 |**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
 |**2025-10-29**|**STITCH 2.0: Extending Augmented Suturing with EKF Needle Estimation and Thread Management**|Kush Hari et.al.|[2510.25768](http://arxiv.org/abs/2510.25768)|null|
 |**2025-10-29**|**FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion**|Chuhao Chen et.al.|[2510.25765](http://arxiv.org/abs/2510.25765)|null|
