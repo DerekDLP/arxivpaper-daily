@@ -1,4 +1,4 @@
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,12 +37,13 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-31**|**Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained**|Yan Zhu et.al.|[2510.27165](http://arxiv.org/abs/2510.27165)|null|
 |**2025-10-26**|**OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models**|Hao Zheng et.al.|[2510.22535](http://arxiv.org/abs/2510.22535)|null|
 |**2025-10-16**|**The Physics of News, Rumors, and Opinions**|Guido Caldarelli et.al.|[2510.15053](http://arxiv.org/abs/2510.15053)|null|
 |**2025-10-12**|**I2E2S2R Rumor Spreading Model in Homogeneous Network with Hesitating and Forgetting Mechanisms**|Md. Nahid Hasan et.al.|[2510.10672](http://arxiv.org/abs/2510.10672)|null|
@@ -61,7 +62,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -84,12 +85,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-31**|**Continuous Autoregressive Language Models**|Chenze Shao et.al.|[2510.27688](http://arxiv.org/abs/2510.27688)|null|
+|**2025-10-31**|**Accretion-Driven Turbulence in the Circumgalactic Medium**|Roy Goldner et.al.|[2510.27678](http://arxiv.org/abs/2510.27678)|null|
+|**2025-10-31**|**Renormalisation Group approach to General Relativity**|F. Gutiérrez et.al.|[2510.27676](http://arxiv.org/abs/2510.27676)|null|
+|**2025-10-31**|**Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping**|Dong Heon Han et.al.|[2510.27666](http://arxiv.org/abs/2510.27666)|null|
+|**2025-10-31**|**Challenges in Credit Assignment for Multi-Agent Reinforcement Learning in Open Agent Systems**|Alireza Saleh Abadi et.al.|[2510.27659](http://arxiv.org/abs/2510.27659)|null|
+|**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
+|**2025-10-31**|**Testing Inequalities Linear in Nuisance Parameters**|Gregory Fletcher Cox et.al.|[2510.27633](http://arxiv.org/abs/2510.27633)|null|
+|**2025-10-31**|**Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation**|Riccardo Brioschi et.al.|[2510.27632](http://arxiv.org/abs/2510.27632)|null|
+|**2025-10-31**|**Validity Is What You Need**|Sebastian Benthall et.al.|[2510.27628](http://arxiv.org/abs/2510.27628)|null|
+|**2025-10-31**|**Hiring Intrinsically Motivated Agents: A Principal's Dilemma**|Andrew Leal et.al.|[2510.27625](http://arxiv.org/abs/2510.27625)|null|
 |**2025-10-30**|**OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes**|Yukun Huang et.al.|[2510.26800](http://arxiv.org/abs/2510.26800)|null|
 |**2025-10-30**|**Boosting the cosmic 21-cm signal with exotic Lyman- $α$ from dark matter**|Dominic Agius et.al.|[2510.26791](http://arxiv.org/abs/2510.26791)|null|
 |**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Aniruddh Bansal et.al.|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
@@ -361,5 +372,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
 
