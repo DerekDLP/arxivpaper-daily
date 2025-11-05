@@ -1,4 +1,4 @@
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-03**|**ZoFia: Zero-Shot Fake News Detection with Entity-Guided Retrieval and Multi-LLM Interaction**|Lvhua Wu et.al.|[2511.01188](http://arxiv.org/abs/2511.01188)|null|
 |**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
 |**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
 |**2025-10-22**|**CrossNews-UA: A Cross-lingual News Semantic Similarity Benchmark for Ukrainian, Polish, Russian, and English**|Daryna Dementieva et.al.|[2510.19628](http://arxiv.org/abs/2510.19628)|null|
@@ -37,12 +38,13 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Asymptotic behavior for a general class of spreading models**|K. M. D. Chan et.al.|[2511.02437](http://arxiv.org/abs/2511.02437)|null|
 |**2025-10-31**|**Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained**|Yan Zhu et.al.|[2510.27165](http://arxiv.org/abs/2510.27165)|null|
 |**2025-10-26**|**OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models**|Hao Zheng et.al.|[2510.22535](http://arxiv.org/abs/2510.22535)|null|
 |**2025-10-16**|**The Physics of News, Rumors, and Opinions**|Guido Caldarelli et.al.|[2510.15053](http://arxiv.org/abs/2510.15053)|null|
@@ -62,7 +64,7 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -85,12 +87,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**GeoCrossBench: Cross-Band Generalization for Remote Sensing**|Hakob Tamazyan et.al.|[2511.02831](http://arxiv.org/abs/2511.02831)|null|
+|**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
+|**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[2511.02826](http://arxiv.org/abs/2511.02826)|null|
+|**2025-11-04**|**Neurosymbolic Deep Learning Semantics**|Artur d'Avila Garcez et.al.|[2511.02825](http://arxiv.org/abs/2511.02825)|null|
+|**2025-11-04**|**Accelerated Frank-Wolfe Algorithms: Complementarity Conditions and Sparsity**|Dan Garber et.al.|[2511.02821](http://arxiv.org/abs/2511.02821)|null|
+|**2025-11-04**|**Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning**|Mohamed Bouadi et.al.|[2511.02818](http://arxiv.org/abs/2511.02818)|null|
+|**2025-11-04**|**Fixed points of semi-simple supersymmetric gauge theories**|Andrew D. Bond et.al.|[2511.02804](http://arxiv.org/abs/2511.02804)|null|
+|**2025-11-04**|**Cesam2k20: A code for a new generation of stellar evolution models. I. Description of the code**|L. Manchon et.al.|[2511.02801](http://arxiv.org/abs/2511.02801)|null|
+|**2025-11-04**|**AI-Generated Image Detection: An Empirical Study and Future Research Directions**|Nusrat Tasnim et.al.|[2511.02791](http://arxiv.org/abs/2511.02791)|null|
+|**2025-11-04**|**A Hard-Analytic Proof of "Most" Polynomial Wiener-Wintner Theorems for Infinite Measure Spaces**|Ben Krause et.al.|[2511.02786](http://arxiv.org/abs/2511.02786)|null|
 |**2025-10-31**|**Continuous Autoregressive Language Models**|Chenze Shao et.al.|[2510.27688](http://arxiv.org/abs/2510.27688)|null|
 |**2025-10-31**|**Accretion-Driven Turbulence in the Circumgalactic Medium**|Roy Goldner et.al.|[2510.27678](http://arxiv.org/abs/2510.27678)|null|
 |**2025-10-31**|**Renormalisation Group approach to General Relativity**|F. Gutiérrez et.al.|[2510.27676](http://arxiv.org/abs/2510.27676)|null|
@@ -372,5 +384,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
