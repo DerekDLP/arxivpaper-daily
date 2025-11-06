@@ -1,4 +1,4 @@
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## Rumour
 
@@ -64,12 +64,13 @@
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
 |**2025-10-28**|**LASTIST: LArge-Scale Target-Independent STance dataset**|DongJae Kim et.al.|[2510.25783](http://arxiv.org/abs/2510.25783)|null|
 |**2025-10-27**|**Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts**|Nikesh Gyawali et.al.|[2510.23464](http://arxiv.org/abs/2510.23464)|null|
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
@@ -87,12 +88,22 @@
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**An Improved Quality Hierarchical Congestion Approximator in Near-Linear Time**|Monika Henzinger et.al.|[2511.03716](http://arxiv.org/abs/2511.03716)|null|
+|**2025-11-05**|**The Adaptivity Barrier in Batched Nonparametric Bandits: Sharp Characterization of the Price of Unknown Margin**|Rong Jiang et.al.|[2511.03708](http://arxiv.org/abs/2511.03708)|null|
+|**2025-11-05**|**LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol**|Yu-Erh Pan et.al.|[2511.03706](http://arxiv.org/abs/2511.03706)|null|
+|**2025-11-05**|**Ideals, Gröbner Bases, and PCPs**|Prashanth Amireddy et.al.|[2511.03703](http://arxiv.org/abs/2511.03703)|null|
+|**2025-11-05**|**A non-iterative straightening algorithm and orthogonality for skew Schur modules**|Reuven Hodges et.al.|[2511.03702](http://arxiv.org/abs/2511.03702)|null|
+|**2025-11-05**|**AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and Sample-Efficient Analog Circuit Sizing**|Mohsen Ahmadzadeh et.al.|[2511.03697](http://arxiv.org/abs/2511.03697)|null|
+|**2025-11-05**|**Introducing Quantum Computing into Statistical Physics: Random Walks and the Ising Model with Qiskit**|Zihan Li et.al.|[2511.03696](http://arxiv.org/abs/2511.03696)|null|
+|**2025-11-05**|**Behavior-Adaptive Q-Learning: A Unifying Framework for Offline-to-Online RL**|Lipeng Zu et.al.|[2511.03695](http://arxiv.org/abs/2511.03695)|null|
+|**2025-11-05**|**Source-Free Bistable Fluidic Gripper for Size-Selective and Stiffness-Adaptive Grasping**|Zhihang Qin et.al.|[2511.03691](http://arxiv.org/abs/2511.03691)|null|
+|**2025-11-05**|**The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents**|Xingyao Wang et.al.|[2511.03690](http://arxiv.org/abs/2511.03690)|null|
 |**2025-11-04**|**GeoCrossBench: Cross-Band Generalization for Remote Sensing**|Hakob Tamazyan et.al.|[2511.02831](http://arxiv.org/abs/2511.02831)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-11-04**|**PLUTO-4: Frontier Pathology Foundation Models**|Harshith Padigela et.al.|[2511.02826](http://arxiv.org/abs/2511.02826)|null|
@@ -384,5 +395,5 @@
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
 
-<p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
 
