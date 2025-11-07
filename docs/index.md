@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection**|Alamgir Munir Qazi et.al.|[2511.04643](http://arxiv.org/abs/2511.04643)|null|
 |**2025-11-03**|**ZoFia: Zero-Shot Fake News Detection with Entity-Guided Retrieval and Multi-LLM Interaction**|Lvhua Wu et.al.|[2511.01188](http://arxiv.org/abs/2511.01188)|null|
 |**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
 |**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
@@ -82,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Carousel: A High-Resolution Dataset for Multi-Target Automatic Image Cropping**|Rafe Loya et.al.|[2511.04680](http://arxiv.org/abs/2511.04680)|null|
+|**2025-11-06**|**Tracking and Understanding Object Transformations**|Yihong Sun et.al.|[2511.04678](http://arxiv.org/abs/2511.04678)|null|
+|**2025-11-06**|**Quantum Search With Generalized Wildcards**|Arjan Cornelissen et.al.|[2511.04669](http://arxiv.org/abs/2511.04669)|null|
+|**2025-11-06**|**Forgetting is Everywhere**|Ben Sanati et.al.|[2511.04666](http://arxiv.org/abs/2511.04666)|null|
+|**2025-11-06**|**$\texttt{unimpeded}$ : A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis**|Dily Duan Yi Ong et.al.|[2511.04661](http://arxiv.org/abs/2511.04661)|null|
+|**2025-11-06**|**Finite time blow-up for a multi-dimensional model of the Kiselev-Sarsam equation**|Wanwan Zhang et.al.|[2511.04660](http://arxiv.org/abs/2511.04660)|null|
+|**2025-11-06**|**Where to Experiment? Site Selection Under Distribution Shift via Optimal Transport and Wasserstein DRO**|Adam Bouyamourn et.al.|[2511.04658](http://arxiv.org/abs/2511.04658)|null|
+|**2025-11-06**|**Arithmetic Geometric Model for the Renormalisation of Bi-critical Irrationally Indifferent Attractors**|Jocelyn Finbar Russell et.al.|[2511.04656](http://arxiv.org/abs/2511.04656)|null|
+|**2025-11-06**|**TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2511.04653](http://arxiv.org/abs/2511.04653)|null|
+|**2025-11-06**|**Twist and higher modes of a complex scalar field at the threshold of collapse**|Krinio Marouda et.al.|[2511.04649](http://arxiv.org/abs/2511.04649)|null|
 |**2025-11-05**|**An Improved Quality Hierarchical Congestion Approximator in Near-Linear Time**|Monika Henzinger et.al.|[2511.03716](http://arxiv.org/abs/2511.03716)|null|
 |**2025-11-05**|**The Adaptivity Barrier in Batched Nonparametric Bandits: Sharp Characterization of the Price of Unknown Margin**|Rong Jiang et.al.|[2511.03708](http://arxiv.org/abs/2511.03708)|null|
 |**2025-11-05**|**LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol**|Yu-Erh Pan et.al.|[2511.03706](http://arxiv.org/abs/2511.03706)|null|
