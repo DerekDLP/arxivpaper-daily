@@ -93,7 +93,7 @@ layout: default
 |**2025-11-07**|**Photo Dating by Facial Age Aggregation**|Jakub Paplham et.al.|[2511.05464](http://arxiv.org/abs/2511.05464)|null|
 |**2025-11-07**|**Parameter-Efficient Conditioning for Material Generalization in Graph-Based Simulators**|Naveen Raj Manoharan et.al.|[2511.05456](http://arxiv.org/abs/2511.05456)|null|
 |**2025-11-07**|**Double soft graviton factors from the gravitational Wilson line**|Karan Fernandes et.al.|[2511.05455](http://arxiv.org/abs/2511.05455)|null|
-|**2025-11-07**|**The $Zα^2$ correction to superallowed beta decays in effective field theory and implications for $|V_{ud}|$**|Zehua Cao et.al.|[2511.05446](http://arxiv.org/abs/2511.05446)|null|
+|**2025-11-07**|**The $Zα^2$ correction to superallowed beta decays in effective field theory and implications for $|V_{ud}|$**|Zehua Cao et.al.|
 |**2025-11-06**|**Carousel: A High-Resolution Dataset for Multi-Target Automatic Image Cropping**|Rafe Loya et.al.|[2511.04680](http://arxiv.org/abs/2511.04680)|null|
 |**2025-11-06**|**Tracking and Understanding Object Transformations**|Yihong Sun et.al.|[2511.04678](http://arxiv.org/abs/2511.04678)|null|
 |**2025-11-06**|**Quantum Search With Generalized Wildcards**|Arjan Cornelissen et.al.|[2511.04669](http://arxiv.org/abs/2511.04669)|null|
