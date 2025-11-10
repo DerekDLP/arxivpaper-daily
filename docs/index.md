@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection**|Jingqing Wang et.al.|[2511.04692](http://arxiv.org/abs/2511.04692)|null|
 |**2025-11-06**|**When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection**|Alamgir Munir Qazi et.al.|[2511.04643](http://arxiv.org/abs/2511.04643)|null|
 |**2025-11-03**|**ZoFia: Zero-Shot Fake News Detection with Entity-Guided Retrieval and Multi-LLM Interaction**|Lvhua Wu et.al.|[2511.01188](http://arxiv.org/abs/2511.01188)|null|
 |**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
@@ -83,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning**|Junwen Pan et.al.|[2511.05489](http://arxiv.org/abs/2511.05489)|null|
+|**2025-11-07**|**Rediscovering shallow water equations from experimental data**|Kjell S. Heinrich et.al.|[2511.05486](http://arxiv.org/abs/2511.05486)|null|
+|**2025-11-07**|**Further improvements to stabilizer simulation theory: classical rewriting of CSS-preserving stabilizer circuits, quadratic form expansions of stabilizer operations, and framed hidden variable models**|Vsevolod I. Yashin et.al.|[2511.05478](http://arxiv.org/abs/2511.05478)|null|
+|**2025-11-07**|**Semantic-Guided Natural Language and Visual Fusion for Cross-Modal Interaction Based on Tiny Object Detection**|Xian-Hong Huang et.al.|[2511.05474](http://arxiv.org/abs/2511.05474)|null|
+|**2025-11-07**|**The Cost of Optimally Acquired Information**|Alexander W. Bloedel et.al.|[2511.05466](http://arxiv.org/abs/2511.05466)|null|
+|**2025-11-07**|**Helios: A 98-qubit trapped-ion quantum computer**|Anthony Ransford et.al.|[2511.05465](http://arxiv.org/abs/2511.05465)|null|
+|**2025-11-07**|**Photo Dating by Facial Age Aggregation**|Jakub Paplham et.al.|[2511.05464](http://arxiv.org/abs/2511.05464)|null|
+|**2025-11-07**|**Parameter-Efficient Conditioning for Material Generalization in Graph-Based Simulators**|Naveen Raj Manoharan et.al.|[2511.05456](http://arxiv.org/abs/2511.05456)|null|
+|**2025-11-07**|**Double soft graviton factors from the gravitational Wilson line**|Karan Fernandes et.al.|[2511.05455](http://arxiv.org/abs/2511.05455)|null|
+|**2025-11-07**|**The $Zα^2$ correction to superallowed beta decays in effective field theory and implications for $|V_{ud}|$**|Zehua Cao et.al.|[2511.05446](http://arxiv.org/abs/2511.05446)|null|
 |**2025-11-06**|**Carousel: A High-Resolution Dataset for Multi-Target Automatic Image Cropping**|Rafe Loya et.al.|[2511.04680](http://arxiv.org/abs/2511.04680)|null|
 |**2025-11-06**|**Tracking and Understanding Object Transformations**|Yihong Sun et.al.|[2511.04678](http://arxiv.org/abs/2511.04678)|null|
 |**2025-11-06**|**Quantum Search With Generalized Wildcards**|Arjan Cornelissen et.al.|[2511.04669](http://arxiv.org/abs/2511.04669)|null|
