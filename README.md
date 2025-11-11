@@ -1,4 +1,4 @@
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,8 +39,18 @@
 |**2025-08-31**|**Do small language models generate realistic variable-quality fake news headlines?**|Austin McCutcheon et.al.|[2509.00680](http://arxiv.org/abs/2509.00680)|null|
 |**2025-08-29**|**HSFN: Hierarchical Selection for Fake News Detection building Heterogeneous Ensemble**|Sara B. Coutinho et.al.|[2508.21482](http://arxiv.org/abs/2508.21482)|null|
 |**2025-08-27**|**Contesting fake news**|Daniel Rehsmann et.al.|[2508.19837](http://arxiv.org/abs/2508.19837)|null|
+|**2023-11-01**|**FakeSwarm: Improving Fake News Detection with Swarming Characteristics**|Jun Wu et.al.|[2305.19194](http://arxiv.org/abs/2305.19194)|null|
+|**2021-02-05**|**Assessing Individual and Community Vulnerability to Fake News in Social Networks**|Bhavtosh Rath et.al.|[2102.02434](http://arxiv.org/abs/2102.02434)|null|
+|**2022-05-05**|**TIB's Visual Analytics Group at MediaEval '20: Detecting Fake News on Corona Virus and 5G Conspiracy**|Gullal S. Cheema et.al.|[2101.03529](http://arxiv.org/abs/2101.03529)|null|
+|**2021-09-24**|**Exploring Text-transformers in AAAI 2021 Shared Task: COVID-19 Fake News Detection in English**|Xiangyang Li et.al.|[2101.02359](http://arxiv.org/abs/2101.02359)|null|
+|**2020-08-12**|**Can We Spot the "Fake News" Before It Was Even Written?**|Preslav Nakov et.al.|[2008.04374](http://arxiv.org/abs/2008.04374)|null|
+|**2020-03-16**|**Exploring the Role of Visual Content in Fake News Detection**|Juan Cao et.al.|[2003.05096](http://arxiv.org/abs/2003.05096)|null|
+|**2020-01-06**|**Mining Disinformation and Fake News: Concepts, Methods, and Recent Advancements**|Kai Shu et.al.|[2001.00623](http://arxiv.org/abs/2001.00623)|null|
+|**2020-05-18**|**Localization of Fake News Detection via Multitask Transfer Learning**|Jan Christian Blaise Cruz et.al.|[1910.09295](http://arxiv.org/abs/1910.09295)|null|
+|**2020-08-18**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
+|**2018-11-13**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 ## Rumour
 
@@ -65,8 +75,18 @@
 |**2025-08-15**|**A Cross-Modal Rumor Detection Scheme via Contrastive Learning by Exploring Text and Image internal Correlations**|Bin Ma et.al.|[2508.11141](http://arxiv.org/abs/2508.11141)|null|
 |**2025-08-15**|**CLMIR: A Textual Dataset for Rumor Identification and Marking**|Bin Ma et.al.|[2508.11138](http://arxiv.org/abs/2508.11138)|null|
 |**2025-08-10**|**Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model**|Chaoqun Cui et.al.|[2508.07209](http://arxiv.org/abs/2508.07209)|null|
+|**2023-10-18**|**A Unified Contrastive Transfer Framework with Propagation Structure for Boosting Low-Resource Rumor Detection**|Hongzhan Lin et.al.|[2304.01492](http://arxiv.org/abs/2304.01492)|null|
+|**2022-04-20**|**Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning**|Hongzhan Lin et.al.|[2204.08143](http://arxiv.org/abs/2204.08143)|null|
+|**2021-12-07**|**What goes on inside rumour and non-rumour tweets and their reactions: A Psycholinguistic Analyses**|Sabur Butt et.al.|[2112.03003](http://arxiv.org/abs/2112.03003)|null|
+|**2018-12-05**|**On rumour propagation among sceptics**|Farkhondeh Alsadat Sajadi et.al.|[1706.02858](http://arxiv.org/abs/1706.02858)|null|
+|**2017-05-31**|**On the effectiveness of the truth-spreading/rumor-blocking strategy for restraining rumors**|Lu-Xing Yang et.al.|[1705.10618](http://arxiv.org/abs/1705.10618)|null|
+|**2017-04-25**|**Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM**|Elena Kochkina et.al.|[1704.07221](http://arxiv.org/abs/1704.07221)|null|
+|**2018-04-04**|**Detection and Resolution of Rumours in Social Media: A Survey**|Arkaitz Zubiaga et.al.|[1704.00656](http://arxiv.org/abs/1704.00656)|null|
+|**2015-09-17**|**On the push&pull protocol for rumour spreading**|Huseyin Acan et.al.|[1411.0948](http://arxiv.org/abs/1411.0948)|null|
+|**2014-10-23**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
+|**2019-03-05**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -89,8 +109,18 @@
 |**2025-07-04**|**MT2-CSD: A New Dataset and Multi-Semantic Knowledge Fusion Method for Conversational Stance Detection**|Fuqiang Niu et.al.|[2506.21053](http://arxiv.org/abs/2506.21053)|null|
 |**2025-06-25**|**Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems**|Benedetta Muscato et.al.|[2506.20209](http://arxiv.org/abs/2506.20209)|null|
 |**2025-06-21**|**Zero-Shot Conversational Stance Detection: Dataset and Approaches**|Yuzhe Ding et.al.|[2506.17693](http://arxiv.org/abs/2506.17693)|null|
+|**2023-06-16**|**Voting Booklet Bias: Stance Detection in Swiss Federal Communication**|Eric Egli et.al.|[2306.08999](http://arxiv.org/abs/2306.08999)|null|
+|**2023-05-26**|**Contextual information integration for stance detection via cross-attention**|Tilman Beck et.al.|[2211.01874](http://arxiv.org/abs/2211.01874)|null|
+|**2022-10-25**|**Stance Detection and Open Research Avenues**|Dilek Küçük et.al.|[2210.12383](http://arxiv.org/abs/2210.12383)|null|
+|**2023-01-26**|**Adversarial Learning-based Stance Classifier for COVID-19-related Health Policies**|Feng Xie et.al.|[2209.04631](http://arxiv.org/abs/2209.04631)|null|
+|**2021-01-29**|**Semi-automatic Generation of Multilingual Datasets for Stance Detection in Twitter**|Elena Zotova et.al.|[2101.11978](http://arxiv.org/abs/2101.11978)|null|
+|**2021-04-16**|**Stance Detection on Social Media: State of the Art and Trends**|Abeer AlDayel et.al.|[2006.03644](http://arxiv.org/abs/2006.03644)|null|
+|**2019-02-08**|**Adversarial Domain Adaptation for Stance Detection**|Brian Xu et.al.|[1902.02401](http://arxiv.org/abs/1902.02401)|null|
+|**2018-04-24**|**Integrating Stance Detection and Fact Checking in a Unified Corpus**|Ramy Baly et.al.|[1804.08012](http://arxiv.org/abs/1804.08012)|null|
+|**2018-04-23**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
+|**2018-01-29**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
 ## News Media
 
@@ -416,6 +446,16 @@
 |**2025-09-23**|**Policy Gradient Bounds in Multitask LQR**|Charis Stamouli et.al.|[2509.19266](http://arxiv.org/abs/2509.19266)|null|
 |**2025-09-23**|**Discovering strategies for coastal resilience with AI-based prediction and optimization**|Jared Markowitz et.al.|[2509.19263](http://arxiv.org/abs/2509.19263)|null|
 |**2025-09-23**|**Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies**|Dheerendranath Battalapalli et.al.|[2509.19258](http://arxiv.org/abs/2509.19258)|null|
+|**2025-02-28**|**LlamaLens: Specialized Multilingual LLM for Analyzing News and Social Media Content**|Mohamed Bayan Kmainasi et.al.|[2410.15308](http://arxiv.org/abs/2410.15308)|null|
+|**2024-06-21**|**Framing Social Movements on Social Media: Unpacking Diagnostic, Prognostic, and Motivational Strategies**|Julia Mendelsohn et.al.|[2406.13820](http://arxiv.org/abs/2406.13820)|null|
+|**2024-06-14**|**Topic Shifts as a Proxy for Assessing Politicization in Social Media**|Marcelo Sartori Locatelli et.al.|[2312.11326](http://arxiv.org/abs/2312.11326)|null|
+|**2023-11-07**|**Multitask learning for recognizing stress and depression in social media**|Loukas Ilias et.al.|[2305.18907](http://arxiv.org/abs/2305.18907)|null|
+|**2021-03-24**|**A Survey on Predicting the Factuality and the Bias of News Media**|Preslav Nakov et.al.|[2103.12506](http://arxiv.org/abs/2103.12506)|null|
+|**2020-05-12**|**What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context**|Ramy Baly et.al.|[2005.04518](http://arxiv.org/abs/2005.04518)|null|
+|**2020-03-16**|**Exploring the Role of Visual Content in Fake News Detection**|Juan Cao et.al.|[2003.05096](http://arxiv.org/abs/2003.05096)|null|
+|**2019-04-02**|**Multi-Task Ordinal Regression for Jointly Predicting the Trustworthiness and the Leading Political Ideology of News Media**|Ramy Baly et.al.|[1904.00542](http://arxiv.org/abs/1904.00542)|null|
+|**2018-10-04**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
+|**2016-11-17**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
 
