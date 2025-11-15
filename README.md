@@ -1,4 +1,4 @@
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,11 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
 |**2025-10-28**|**SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection**|Jingqing Wang et.al.|[2511.04692](http://arxiv.org/abs/2511.04692)|null|
 |**2025-11-06**|**When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection**|Alamgir Munir Qazi et.al.|[2511.04643](http://arxiv.org/abs/2511.04643)|null|
 |**2025-11-03**|**ZoFia: Zero-Shot Fake News Detection with Entity-Guided Retrieval and Multi-LLM Interaction**|Lvhua Wu et.al.|[2511.01188](http://arxiv.org/abs/2511.01188)|null|
 |**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
 |**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
+|**2025-10-28**|**Causal-Aware Generative Adversarial Networks with Reinforcement Learning**|Tu Anh Hoang Nguyen et.al.|[2510.24046](http://arxiv.org/abs/2510.24046)|null|
+|**2025-10-27**|**M4FC: a Multimodal, Multilingual, Multicultural, Multitask Real-World Fact-Checking Dataset**|Jiahui Geng et.al.|[2510.23508](http://arxiv.org/abs/2510.23508)|null|
+|**2025-10-22**|**A new wave of vehicle insurance fraud fueled by generative AI**|Amir Hever et.al.|[2510.19957](http://arxiv.org/abs/2510.19957)|null|
 |**2025-10-22**|**CrossNews-UA: A Cross-lingual News Semantic Similarity Benchmark for Ukrainian, Polish, Russian, and English**|Daryna Dementieva et.al.|[2510.19628](http://arxiv.org/abs/2510.19628)|null|
 |**2025-10-21**|**Misinformation Detection using Large Language Models with Explainability**|Jainee Patel et.al.|[2510.18918](http://arxiv.org/abs/2510.18918)|null|
 |**2025-10-14**|**Structure-aware Propagation Generation with Large Language Models for Fake News Detection**|Mengyang Chen et.al.|[2510.12125](http://arxiv.org/abs/2510.12125)|null|
@@ -50,12 +54,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions**|Dhrubajyoti Biswas et.al.|[2511.06766](http://arxiv.org/abs/2511.06766)|null|
 |**2025-11-04**|**Asymptotic behavior for a general class of spreading models**|K. M. D. Chan et.al.|[2511.02437](http://arxiv.org/abs/2511.02437)|null|
 |**2025-10-31**|**Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained**|Yan Zhu et.al.|[2510.27165](http://arxiv.org/abs/2510.27165)|null|
 |**2025-10-26**|**OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models**|Hao Zheng et.al.|[2510.22535](http://arxiv.org/abs/2510.22535)|null|
@@ -86,16 +91,20 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-08**|**ReMoD: Rethinking Modality Contribution in Multimodal Stance Detection via Dual Reasoning**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
 |**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
+|**2025-11-04**|**Academics and Generative AI: Empirical and Epistemic Indicators of Policy-Practice Voids**|R. Yamamoto Ravenor et.al.|[2511.02875](http://arxiv.org/abs/2511.02875)|null|
 |**2025-10-28**|**LASTIST: LArge-Scale Target-Independent STance dataset**|DongJae Kim et.al.|[2510.25783](http://arxiv.org/abs/2510.25783)|null|
 |**2025-10-27**|**Evaluating Large Language Models for Stance Detection on Financial Targets from SEC Filing Reports and Earnings Call Transcripts**|Nikesh Gyawali et.al.|[2510.23464](http://arxiv.org/abs/2510.23464)|null|
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
+|**2025-10-20**|**When AI companions become witty: Can human brain recognize AI-generated irony?**|Xiaohui Rao et.al.|[2510.17168](http://arxiv.org/abs/2510.17168)|null|
+|**2025-10-02**|**User to Video: A Model for Spammer Detection Inspired by Video Classification Technology**|Haoyang Zhang et.al.|[2510.06233](http://arxiv.org/abs/2510.06233)|null|
 |**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
 |**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
@@ -120,12 +129,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|null|
+|**2025-11-13**|**Supernematic**|Dan Mao et.al.|[2511.10642](http://arxiv.org/abs/2511.10642)|null|
+|**2025-11-13**|**Flexible Simulation Based Inference for Galaxy Photometric Fitting with Synthesizer**|Thomas Harvey et.al.|[2511.10640](http://arxiv.org/abs/2511.10640)|null|
+|**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|null|
+|**2025-11-13**|**Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity**|Ilyas Fatkhullin et.al.|[2511.10626](http://arxiv.org/abs/2511.10626)|null|
+|**2025-11-13**|**Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem**|Avrim Blum et.al.|[2511.10619](http://arxiv.org/abs/2511.10619)|null|
+|**2025-11-13**|**A new multiprobe analysis of modified gravity and evolving dark energy**|Zhiyu Lu et.al.|[2511.10616](http://arxiv.org/abs/2511.10616)|null|
+|**2025-11-13**|**The Unitary Architecture of Renormalization**|Ameya Chavda et.al.|[2511.10613](http://arxiv.org/abs/2511.10613)|null|
+|**2025-11-13**|**On the Rigidity of Projected Perturbed Lattices**|Youssef Djellouli et.al.|[2511.10610](http://arxiv.org/abs/2511.10610)|null|
+|**2025-11-13**|**Regular Games -- an Automata-Based General Game Playing Language**|Radosław Miernik et.al.|[2511.10593](http://arxiv.org/abs/2511.10593)|null|
 |**2025-11-07**|**TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning**|Junwen Pan et.al.|[2511.05489](http://arxiv.org/abs/2511.05489)|null|
 |**2025-11-07**|**Rediscovering shallow water equations from experimental data**|Kjell S. Heinrich et.al.|[2511.05486](http://arxiv.org/abs/2511.05486)|null|
 |**2025-11-07**|**Further improvements to stabilizer simulation theory: classical rewriting of CSS-preserving stabilizer circuits, quadratic form expansions of stabilizer operations, and framed hidden variable models**|Vsevolod I. Yashin et.al.|[2511.05478](http://arxiv.org/abs/2511.05478)|null|
@@ -457,5 +476,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
