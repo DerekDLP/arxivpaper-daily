@@ -1,4 +1,4 @@
-## Updated on 2025.11.16
+## Updated on 2025.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |**2025-10-28**|**SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection**|Jingqing Wang et.al.|[2511.04692](http://arxiv.org/abs/2511.04692)|null|
 |**2025-11-06**|**When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection**|Alamgir Munir Qazi et.al.|[2511.04643](http://arxiv.org/abs/2511.04643)|null|
 |**2025-11-03**|**ZoFia: Zero-Shot Fake News Detection with Entity-Guided Retrieval and Multi-LLM Interaction**|Lvhua Wu et.al.|[2511.01188](http://arxiv.org/abs/2511.01188)|null|
-|**2025-10-29**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
+|**2025-11-14**|**FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X**|Soufiane Essahli et.al.|[2510.25932](http://arxiv.org/abs/2510.25932)|null|
 |**2025-10-28**|**Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection**|Cui Yakun et.al.|[2510.24816](http://arxiv.org/abs/2510.24816)|null|
 |**2025-10-28**|**Causal-Aware Generative Adversarial Networks with Reinforcement Learning**|Tu Anh Hoang Nguyen et.al.|[2510.24046](http://arxiv.org/abs/2510.24046)|null|
 |**2025-10-27**|**M4FC: a Multimodal, Multilingual, Multicultural, Multitask Real-World Fact-Checking Dataset**|Jiahui Geng et.al.|[2510.23508](http://arxiv.org/abs/2510.23508)|null|
@@ -54,7 +54,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
 
 ## Rumour
 
@@ -91,7 +91,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -129,12 +129,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Structure theory of parabolic nodal and singular sets**|Max Hallgren et.al.|[2511.11570](http://arxiv.org/abs/2511.11570)|null|
+|**2025-11-14**|**Private Frequency Estimation Via Residue Number Systems**|Héber H. Arcolezi et.al.|[2511.11569](http://arxiv.org/abs/2511.11569)|null|
+|**2025-11-14**|**Implicit inference of the reionization history with higher-order statistics of the 21-cm signal**|Nicolas Cerardi et.al.|[2511.11568](http://arxiv.org/abs/2511.11568)|null|
+|**2025-11-14**|**$CPT$ -Symmetric Kähler-Dirac Fermions**|Latham Boyle et.al.|[2511.11548](http://arxiv.org/abs/2511.11548)|null|
+|**2025-11-14**|**Incremental Data-Driven Policy Synthesis via Game Abstractions**|Irmak Sağlam et.al.|[2511.11545](http://arxiv.org/abs/2511.11545)|null|
+|**2025-11-14**|**Incentive Attacks in BTC: Short-Term Revenue Changes and Long-Term Efficiencies**|Mustafa Doger et.al.|[2511.11538](http://arxiv.org/abs/2511.11538)|null|
+|**2025-11-14**|**Volumetric Ergodic Control**|Jueun Kwon et.al.|[2511.11533](http://arxiv.org/abs/2511.11533)|null|
+|**2025-11-14**|**Distracting from the Epstein files? Media attention and short-run shifts in Trump's Truth Social posts**|Andrew J. Peterson et.al.|[2511.11532](http://arxiv.org/abs/2511.11532)|null|
+|**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
+|**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
 |**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|null|
 |**2025-11-13**|**Supernematic**|Dan Mao et.al.|[2511.10642](http://arxiv.org/abs/2511.10642)|null|
 |**2025-11-13**|**Flexible Simulation Based Inference for Galaxy Photometric Fitting with Synthesizer**|Thomas Harvey et.al.|[2511.10640](http://arxiv.org/abs/2511.10640)|null|
@@ -476,5 +486,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
 
