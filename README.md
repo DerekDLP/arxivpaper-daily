@@ -1,4 +1,4 @@
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-16**|**SAGA: Source Attribution of Generative AI Videos**|Rohit Kundu et.al.|[2511.12834](http://arxiv.org/abs/2511.12834)|null|
 |**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
 |**2025-10-28**|**SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection**|Jingqing Wang et.al.|[2511.04692](http://arxiv.org/abs/2511.04692)|null|
 |**2025-11-06**|**When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection**|Alamgir Munir Qazi et.al.|[2511.04643](http://arxiv.org/abs/2511.04643)|null|
@@ -54,12 +55,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
 |**2025-11-10**|**Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions**|Dhrubajyoti Biswas et.al.|[2511.06766](http://arxiv.org/abs/2511.06766)|null|
 |**2025-11-04**|**Asymptotic behavior for a general class of spreading models**|K. M. D. Chan et.al.|[2511.02437](http://arxiv.org/abs/2511.02437)|null|
 |**2025-10-31**|**Structure-Aware Optimal Intervention for Rumor Dynamics on Networks: Node-Level, Time-Varying, and Resource-Constrained**|Yan Zhu et.al.|[2510.27165](http://arxiv.org/abs/2510.27165)|null|
@@ -91,12 +93,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
 |**2025-11-08**|**ReMoD: Rethinking Modality Contribution in Multimodal Stance Detection via Dual Reasoning**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
 |**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
 |**2025-11-04**|**Academics and Generative AI: Empirical and Epistemic Indicators of Policy-Practice Voids**|R. Yamamoto Ravenor et.al.|[2511.02875](http://arxiv.org/abs/2511.02875)|null|
@@ -105,7 +108,7 @@
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
 |**2025-10-20**|**When AI companions become witty: Can human brain recognize AI-generated irony?**|Xiaohui Rao et.al.|[2510.17168](http://arxiv.org/abs/2510.17168)|null|
 |**2025-10-02**|**User to Video: A Model for Spammer Detection Inspired by Video Classification Technology**|Haoyang Zhang et.al.|[2510.06233](http://arxiv.org/abs/2510.06233)|null|
-|**2025-10-04**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
+|**2025-11-17**|**Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles**|Nusrat Jahan Lia et.al.|[2510.03898](http://arxiv.org/abs/2510.03898)|null|
 |**2025-09-26**|**Debiasing Large Language Models in Thai Political Stance Detection via Counterfactual Calibration**|Kasidit Sermsri et.al.|[2509.21946](http://arxiv.org/abs/2509.21946)|null|
 |**2025-09-09**|**Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change**|Lata Pangtey et.al.|[2509.08024](http://arxiv.org/abs/2509.08024)|null|
 |**2025-09-03**|**MLSD: A Novel Few-Shot Learning Approach to Enhance Cross-Target and Cross-Domain Stance Detection**|Parush Gera et.al.|[2509.03725](http://arxiv.org/abs/2509.03725)|null|
@@ -129,12 +132,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|null|
+|**2025-11-17**|**The Scatter of the Many Outweighs the Scatter of the Few: Systematic Error Asymmetry in Steeply-Falling Mass Functions for High-Redshift JWST Galaxies**|Jay R. Krishnan et.al.|[2511.13708](http://arxiv.org/abs/2511.13708)|null|
+|**2025-11-17**|**Learning stochasticity: a nonparametric framework for intrinsic noise estimation**|Gianluigi Pillonetto et.al.|[2511.13701](http://arxiv.org/abs/2511.13701)|null|
+|**2025-11-17**|**Ultra Low Overhead Syndrome Extraction for the Steane code**|Boldizsár Poór et.al.|[2511.13700](http://arxiv.org/abs/2511.13700)|null|
+|**2025-11-17**|**Efficient Calibration for Decision Making**|Parikshit Gopalan et.al.|[2511.13699](http://arxiv.org/abs/2511.13699)|null|
+|**2025-11-17**|**The Role of Gyrating Ions in Reformation of a Quasi-parallel Supercritical Shock**|Hadi Madanian et.al.|[2511.13697](http://arxiv.org/abs/2511.13697)|null|
+|**2025-11-17**|**Generalized Global Symmetries of $T[M]$ Theories: Part II**|Sergei Gukov et.al.|[2511.13696](http://arxiv.org/abs/2511.13696)|null|
+|**2025-11-17**|**Novel Stability Criteria for Discrete and Hybrid Systems via Ramanujan Inner Products**|Shyam Kamal et.al.|[2511.13690](http://arxiv.org/abs/2511.13690)|null|
+|**2025-11-17**|**Damping of phonons in one-dimensional quantum fluids**|Federica Cataldini et.al.|[2511.13681](http://arxiv.org/abs/2511.13681)|null|
+|**2025-11-17**|**Bounds on Exotic Couplings from a New $ν$ -Background**|Indra Kumar Banerjee et.al.|[2511.13673](http://arxiv.org/abs/2511.13673)|null|
 |**2025-11-14**|**Structure theory of parabolic nodal and singular sets**|Max Hallgren et.al.|[2511.11570](http://arxiv.org/abs/2511.11570)|null|
 |**2025-11-14**|**Private Frequency Estimation Via Residue Number Systems**|Héber H. Arcolezi et.al.|[2511.11569](http://arxiv.org/abs/2511.11569)|null|
 |**2025-11-14**|**Implicit inference of the reionization history with higher-order statistics of the 21-cm signal**|Nicolas Cerardi et.al.|[2511.11568](http://arxiv.org/abs/2511.11568)|null|
@@ -486,5 +499,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
 
