@@ -1,4 +1,4 @@
-## Updated on 2025.11.18
+## Updated on 2025.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,7 +55,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## Rumour
 
@@ -93,7 +93,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -132,12 +132,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Look-Ahead Reasoning on Learning Platforms**|Haiqing Zhu et.al.|[2511.14745](http://arxiv.org/abs/2511.14745)|null|
+|**2025-11-18**|**A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments**|Stefan Cobeli et.al.|[2511.14742](http://arxiv.org/abs/2511.14742)|null|
+|**2025-11-18**|**Filtrations and cohomology II: the Gauss-Manin connection**|Benjamin Antieau et.al.|[2511.14731](http://arxiv.org/abs/2511.14731)|null|
+|**2025-11-18**|**Automated proving in planar geometry based on the complex number identity method and elimination**|Zoltán Kovács et.al.|[2511.14728](http://arxiv.org/abs/2511.14728)|null|
+|**2025-11-18**|**Diffusion As Self-Distillation: End-to-End Latent Diffusion In One Model**|Xiyuan Wang et.al.|[2511.14716](http://arxiv.org/abs/2511.14716)|null|
+|**2025-11-18**|**Seeing Beyond the Image: ECG and Anatomical Knowledge-Guided Myocardial Scar Segmentation from Late Gadolinium-Enhanced Images**|Farheen Ramzan et.al.|[2511.14702](http://arxiv.org/abs/2511.14702)|null|
+|**2025-11-18**|**Uncharted Logarithmic Structures in QCD Transverse-Energy Flow**|Mrinal Dasgupta et.al.|[2511.14681](http://arxiv.org/abs/2511.14681)|null|
+|**2025-11-18**|**Giant enhancement of attosecond tunnel ionization competes with disorder-driven decoherence in silicon**|D. N. Purschke et.al.|[2511.14678](http://arxiv.org/abs/2511.14678)|null|
+|**2025-11-18**|**Exploring AlphaFold 3 for CD47 Antibody-Antigen Binding Affinity: An Unexpected Discovery of Reverse docking**|Yiyang Xu et.al.|[2511.14676](http://arxiv.org/abs/2511.14676)|null|
+|**2025-11-18**|**Closing in on $α$ -attractors**|Laura Iacconi et.al.|[2511.14673](http://arxiv.org/abs/2511.14673)|null|
 |**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|null|
 |**2025-11-17**|**The Scatter of the Many Outweighs the Scatter of the Few: Systematic Error Asymmetry in Steeply-Falling Mass Functions for High-Redshift JWST Galaxies**|Jay R. Krishnan et.al.|[2511.13708](http://arxiv.org/abs/2511.13708)|null|
 |**2025-11-17**|**Learning stochasticity: a nonparametric framework for intrinsic noise estimation**|Gianluigi Pillonetto et.al.|[2511.13701](http://arxiv.org/abs/2511.13701)|null|
@@ -499,5 +509,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
