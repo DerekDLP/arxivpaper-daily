@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -126,6 +126,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|null|
+|**2025-11-19**|**Semiparametric Estimation of Fractional Integration: An Evaluation of Local Whittle Methods**|Jason R. Blevins et.al.|[2511.15689](http://arxiv.org/abs/2511.15689)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**Infrastructuring Pop-Up Cities with "Social Layer": Designing Serendipitous Co-Livings for Temporary Intentional Communities**|Danwen Ji et.al.|[2511.15680](http://arxiv.org/abs/2511.15680)|null|
+|**2025-11-19**|**From Qubits to Couplings: A Hybrid Quantum Machine Learning Framework for LHC Physics**|Marwan Ait Haddou et.al.|[2511.15672](http://arxiv.org/abs/2511.15672)|null|
+|**2025-11-19**|**The JWST weather report from the nearest brown dwarfs III: Heterogeneous clouds and Thermochemical instabilities as possible drivers of WISE 1049AB's spectroscopic variability**|Natalia Oliveros-Gomez et.al.|[2511.15667](http://arxiv.org/abs/2511.15667)|null|
+|**2025-11-19**|**INQUIRE-Search: A Framework for Interactive Discovery in Large-Scale Biodiversity Databases**|Edward Vendrow et.al.|[2511.15656](http://arxiv.org/abs/2511.15656)|null|
+|**2025-11-19**|**New features in the Z2xZ2 3HDM two component DM model**|Jorge C. Romão et.al.|[2511.15655](http://arxiv.org/abs/2511.15655)|null|
+|**2025-11-19**|**The dga of planar loops when $2n=4$**|Guy Boyde et.al.|[2511.15653](http://arxiv.org/abs/2511.15653)|null|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
 |**2025-11-18**|**Look-Ahead Reasoning on Learning Platforms**|Haiqing Zhu et.al.|[2511.14745](http://arxiv.org/abs/2511.14745)|null|
 |**2025-11-18**|**A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments**|Stefan Cobeli et.al.|[2511.14742](http://arxiv.org/abs/2511.14742)|null|
 |**2025-11-18**|**Filtrations and cohomology II: the Gauss-Manin connection**|Benjamin Antieau et.al.|[2511.14731](http://arxiv.org/abs/2511.14731)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,7 +55,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## Rumour
 
@@ -93,7 +93,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -132,12 +132,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|null|
+|**2025-11-19**|**Semiparametric Estimation of Fractional Integration: An Evaluation of Local Whittle Methods**|Jason R. Blevins et.al.|[2511.15689](http://arxiv.org/abs/2511.15689)|null|
+|**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
+|**2025-11-19**|**Infrastructuring Pop-Up Cities with "Social Layer": Designing Serendipitous Co-Livings for Temporary Intentional Communities**|Danwen Ji et.al.|[2511.15680](http://arxiv.org/abs/2511.15680)|null|
+|**2025-11-19**|**From Qubits to Couplings: A Hybrid Quantum Machine Learning Framework for LHC Physics**|Marwan Ait Haddou et.al.|[2511.15672](http://arxiv.org/abs/2511.15672)|null|
+|**2025-11-19**|**The JWST weather report from the nearest brown dwarfs III: Heterogeneous clouds and Thermochemical instabilities as possible drivers of WISE 1049AB's spectroscopic variability**|Natalia Oliveros-Gomez et.al.|[2511.15667](http://arxiv.org/abs/2511.15667)|null|
+|**2025-11-19**|**INQUIRE-Search: A Framework for Interactive Discovery in Large-Scale Biodiversity Databases**|Edward Vendrow et.al.|[2511.15656](http://arxiv.org/abs/2511.15656)|null|
+|**2025-11-19**|**New features in the Z2xZ2 3HDM two component DM model**|Jorge C. Romão et.al.|[2511.15655](http://arxiv.org/abs/2511.15655)|null|
+|**2025-11-19**|**The dga of planar loops when $2n=4$**|Guy Boyde et.al.|[2511.15653](http://arxiv.org/abs/2511.15653)|null|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
 |**2025-11-18**|**Look-Ahead Reasoning on Learning Platforms**|Haiqing Zhu et.al.|[2511.14745](http://arxiv.org/abs/2511.14745)|null|
 |**2025-11-18**|**A Neural Field-Based Approach for View Computation & Data Exploration in 3D Urban Environments**|Stefan Cobeli et.al.|[2511.14742](http://arxiv.org/abs/2511.14742)|null|
 |**2025-11-18**|**Filtrations and cohomology II: the Gauss-Manin connection**|Benjamin Antieau et.al.|[2511.14731](http://arxiv.org/abs/2511.14731)|null|
@@ -509,5 +519,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
 
