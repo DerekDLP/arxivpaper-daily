@@ -1,4 +1,4 @@
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,12 +55,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
 |**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
 |**2025-11-10**|**Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions**|Dhrubajyoti Biswas et.al.|[2511.06766](http://arxiv.org/abs/2511.06766)|null|
 |**2025-11-04**|**Asymptotic behavior for a general class of spreading models**|K. M. D. Chan et.al.|[2511.02437](http://arxiv.org/abs/2511.02437)|null|
@@ -93,7 +94,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -132,12 +133,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|null|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Cognitive Foundations for Reasoning and Their Manifestation in LLMs**|Priyanka Kargupta et.al.|[2511.16660](http://arxiv.org/abs/2511.16660)|null|
+|**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](http://arxiv.org/abs/2511.16659)|null|
+|**2025-11-20**|**Eigenvalue-accelerated LDOS optimization of high-Q optical resonances**|George Shaker et.al.|[2511.16643](http://arxiv.org/abs/2511.16643)|null|
+|**2025-11-20**|**SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction**|Guolin Huang et.al.|[2511.16635](http://arxiv.org/abs/2511.16635)|null|
+|**2025-11-20**|**MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support**|Elias Hossain et.al.|[2511.16625](http://arxiv.org/abs/2511.16625)|null|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**Quantifying Twist Angles in Cuprate Heterostructures with Anisotropic Raman Signatures**|Flavia Lo Sardo et.al.|[2511.16610](http://arxiv.org/abs/2511.16610)|null|
 |**2025-11-19**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|null|
 |**2025-11-19**|**Semiparametric Estimation of Fractional Integration: An Evaluation of Local Whittle Methods**|Jason R. Blevins et.al.|[2511.15689](http://arxiv.org/abs/2511.15689)|null|
 |**2025-11-19**|**Walrus: A Cross-Domain Foundation Model for Continuum Dynamics**|Michael McCabe et.al.|[2511.15684](http://arxiv.org/abs/2511.15684)|null|
@@ -519,5 +530,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
