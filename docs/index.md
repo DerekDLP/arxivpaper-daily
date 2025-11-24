@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -127,6 +127,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Native 3D Editing with Full Attention**|Weiwei Cai et.al.|[2511.17501](http://arxiv.org/abs/2511.17501)|null|
+|**2025-11-21**|**How Significant are Cosmological Collider Signals in the Planck Data?**|Petar Suman et.al.|[2511.17500](http://arxiv.org/abs/2511.17500)|null|
+|**2025-11-21**|**Local equations for the generalized Lotka-Volterra model on sparse asymmetric graphs**|David Machado et.al.|[2511.17499](http://arxiv.org/abs/2511.17499)|null|
+|**2025-11-21**|**Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization**|Vinay Kanakeri et.al.|[2511.17489](http://arxiv.org/abs/2511.17489)|null|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|null|
+|**2025-11-21**|**Fast and Continuous Detection of Single Microwave Photons via Photo-assisted Quasiparticle Tunneling to a Superconducting Island**|Julien Basset et.al.|[2511.17470](http://arxiv.org/abs/2511.17470)|null|
+|**2025-11-21**|**Stabilization and control of the nonlinear plate equation**|Cristóbal Loyola et.al.|[2511.17468](http://arxiv.org/abs/2511.17468)|null|
+|**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|null|
+|**2025-11-21**|**Extending the Accelerated Failure Conditionals Model to Location-Scale Families**|Jared N. Lakhani et.al.|[2511.17463](http://arxiv.org/abs/2511.17463)|null|
+|**2025-11-21**|**Laminar and Turbulent Flow in Wavy Pipes under Strong Wall Modulations**|Ismail El Mellas et.al.|[2511.17458](http://arxiv.org/abs/2511.17458)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
 |**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
