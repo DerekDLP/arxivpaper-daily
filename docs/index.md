@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**Tu crois que c'est vrai ? Diversite des regimes d'enonciation face aux fake news et mecanismes d'autoregulation conversationnelle**|Manon Berriche et.al.|[2511.18369](http://arxiv.org/abs/2511.18369)|null|
+|**2025-11-21**|**A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa**|Tim Schlippe et.al.|[2511.17682](http://arxiv.org/abs/2511.17682)|null|
+|**2025-11-21**|**Chatbots to strengthen democracy: An interdisciplinary seminar to train identifying argumentation techniques of science denial**|Ingo Siegert et.al.|[2511.17678](http://arxiv.org/abs/2511.17678)|null|
 |**2025-11-16**|**SAGA: Source Attribution of Generative AI Videos**|Rohit Kundu et.al.|[2511.12834](http://arxiv.org/abs/2511.12834)|null|
 |**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
 |**2025-10-28**|**SARC: Sentiment-Augmented Deep Role Clustering for Fake News Detection**|Jingqing Wang et.al.|[2511.04692](http://arxiv.org/abs/2511.04692)|null|
@@ -53,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**The Maki-Thompson Model with Spontaneous Stifling on Symmetric Networks**|Nancy Lopes Garcia et.al.|[2511.19259](http://arxiv.org/abs/2511.19259)|null|
 |**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
 |**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
 |**2025-11-10**|**Emergent synchrony in oscillator networks with adaptive arbitrary-order interactions**|Dhrubajyoti Biswas et.al.|[2511.06766](http://arxiv.org/abs/2511.06766)|null|
@@ -90,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
 |**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
 |**2025-11-08**|**ReMoD: Rethinking Modality Contribution in Multimodal Stance Detection via Dual Reasoning**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
 |**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
@@ -127,6 +132,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Dong Jing et.al.|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Dingkang Liang et.al.|[2511.19430](http://arxiv.org/abs/2511.19430)|null|
+|**2025-11-24**|**Axion Cosmology with Multi-Branch Yang-Mills**|Tsubasa Sugeno et.al.|[2511.19429](http://arxiv.org/abs/2511.19429)|null|
+|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|null|
+|**2025-11-24**|**SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation**|Tianrun Chen et.al.|[2511.19425](http://arxiv.org/abs/2511.19425)|null|
+|**2025-11-24**|**Gamma-ray Time Delay and Magnification Ratio in the Gravitationally-Lensed Blazar PKS 1830-211**|S. Buson et.al.|[2511.19419](http://arxiv.org/abs/2511.19419)|null|
+|**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
+|**2025-11-24**|**Probing the Formation Environment of Strongly Lensed Black Hole Mergers: Implications for the AGN-disk Channel**|Johan Samsing et.al.|[2511.19407](http://arxiv.org/abs/2511.19407)|null|
+|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
+|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
 |**2025-11-21**|**Native 3D Editing with Full Attention**|Weiwei Cai et.al.|[2511.17501](http://arxiv.org/abs/2511.17501)|null|
 |**2025-11-21**|**How Significant are Cosmological Collider Signals in the Planck Data?**|Petar Suman et.al.|[2511.17500](http://arxiv.org/abs/2511.17500)|null|
 |**2025-11-21**|**Local equations for the generalized Lotka-Volterra model on sparse asymmetric graphs**|David Machado et.al.|[2511.17499](http://arxiv.org/abs/2511.17499)|null|
