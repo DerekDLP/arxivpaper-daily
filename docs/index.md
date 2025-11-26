@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -132,6 +132,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities**|Tooba Tehreem Sheikh et.al.|[2511.20650](http://arxiv.org/abs/2511.20650)|null|
+|**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
+|**2025-11-25**|**Dimension-counting bounds for equi-isoclinic subspaces**|Joseph W. Iverson et.al.|[2511.20642](http://arxiv.org/abs/2511.20642)|null|
+|**2025-11-25**|**Latent Collaboration in Multi-Agent Systems**|Jiaru Zou et.al.|[2511.20639](http://arxiv.org/abs/2511.20639)|null|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Jiahui Zhang et.al.|[2511.20633](http://arxiv.org/abs/2511.20633)|null|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**ROOT: Robust Orthogonalized Optimizer for Neural Network Training**|Wei He et.al.|[2511.20626](http://arxiv.org/abs/2511.20626)|null|
+|**2025-11-25**|**ShapeGen: Towards High-Quality 3D Shape Synthesis**|Yangguang Li et.al.|[2511.20624](http://arxiv.org/abs/2511.20624)|null|
+|**2025-11-25**|**Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI**|Xinhao Liu et.al.|[2511.20620](http://arxiv.org/abs/2511.20620)|null|
+|**2025-11-25**|**Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities**|Seyede Niloofar Hosseini et.al.|[2511.20615](http://arxiv.org/abs/2511.20615)|null|
 |**2025-11-24**|**Mixture of Horizons in Action Chunking**|Dong Jing et.al.|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
 |**2025-11-24**|**Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**|Dingkang Liang et.al.|[2511.19430](http://arxiv.org/abs/2511.19430)|null|
 |**2025-11-24**|**Axion Cosmology with Multi-Branch Yang-Mills**|Tsubasa Sugeno et.al.|[2511.19429](http://arxiv.org/abs/2511.19429)|null|
