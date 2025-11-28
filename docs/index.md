@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-23**|**Tu crois que c'est vrai ? Diversite des regimes d'enonciation face aux fake news et mecanismes d'autoregulation conversationnelle**|Manon Berriche et.al.|[2511.18369](http://arxiv.org/abs/2511.18369)|null|
 |**2025-11-21**|**A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa**|Tim Schlippe et.al.|[2511.17682](http://arxiv.org/abs/2511.17682)|null|
 |**2025-11-21**|**Chatbots to strengthen democracy: An interdisciplinary seminar to train identifying argumentation techniques of science denial**|Ingo Siegert et.al.|[2511.17678](http://arxiv.org/abs/2511.17678)|null|
@@ -132,6 +133,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**New Obstacles to Multiple Recurrence**|Ryan Alweiss et.al.|[2511.21680](http://arxiv.org/abs/2511.21680)|null|
+|**2025-11-26**|**Axion Constraints from White Dwarf Cooling in 47 Tucanae**|Leesa Fleury et.al.|[2511.21676](http://arxiv.org/abs/2511.21676)|null|
+|**2025-11-26**|**Nearly Tight Lower Bounds for Relaxed Locally Decodable Codes via Robust Daisies**|Guy Goldberg et.al.|[2511.21659](http://arxiv.org/abs/2511.21659)|null|
+|**2025-11-26**|**The Need for Benchmarks to Advance AI-Enabled Player Risk Detection in Gambling**|Kasra Ghaharian et.al.|[2511.21658](http://arxiv.org/abs/2511.21658)|null|
+|**2025-11-26**|**Edge-Dependent Superconductivity in Twisted Bismuth Bilayers**|Isaías Rodríguez et.al.|[2511.21657](http://arxiv.org/abs/2511.21657)|null|
+|**2025-11-26**|**The hydrodynamic limit of viscoelastic granular gases**|R. Alonso et.al.|[2511.21645](http://arxiv.org/abs/2511.21645)|null|
+|**2025-11-26**|**Spectral Density and Eigenvector Nonorthogonality in Complex Symmetric Random Matrices**|Gernot Akemann et.al.|[2511.21643](http://arxiv.org/abs/2511.21643)|null|
+|**2025-11-26**|**Dynamics of generalized abcd Boussinesq solitary waves under a slowly variable bottom**|André de Laire et.al.|[2511.21632](http://arxiv.org/abs/2511.21632)|null|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-25**|**MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities**|Tooba Tehreem Sheikh et.al.|[2511.20650](http://arxiv.org/abs/2511.20650)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**Dimension-counting bounds for equi-isoclinic subspaces**|Joseph W. Iverson et.al.|[2511.20642](http://arxiv.org/abs/2511.20642)|null|
