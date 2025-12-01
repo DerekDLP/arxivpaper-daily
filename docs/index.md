@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Pooling Attention: Evaluating Pretrained Transformer Embeddings for Deception Classification**|Sumit Mamtani et.al.|[2511.22977](http://arxiv.org/abs/2511.22977)|null|
+|**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
+|**2025-11-27**|**Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition**|Maheswar Bora et.al.|[2511.22443](http://arxiv.org/abs/2511.22443)|null|
 |**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-23**|**Tu crois que c'est vrai ? Diversite des regimes d'enonciation face aux fake news et mecanismes d'autoregulation conversationnelle**|Manon Berriche et.al.|[2511.18369](http://arxiv.org/abs/2511.18369)|null|
 |**2025-11-21**|**A Cross-Cultural Assessment of Human Ability to Detect LLM-Generated Fake News about South Africa**|Tim Schlippe et.al.|[2511.17682](http://arxiv.org/abs/2511.17682)|null|
@@ -57,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
 |**2025-11-24**|**The Maki-Thompson Model with Spontaneous Stifling on Symmetric Networks**|Nancy Lopes Garcia et.al.|[2511.19259](http://arxiv.org/abs/2511.19259)|null|
 |**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
 |**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
@@ -133,6 +137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
+|**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
+|**2025-11-28**|**Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**|Suman Aich et.al.|[2511.23471](http://arxiv.org/abs/2511.23471)|null|
+|**2025-11-28**|**Visual Generation Tuning**|Jiahao Guo et.al.|[2511.23469](http://arxiv.org/abs/2511.23469)|null|
+|**2025-11-28**|**The $L$-test: Increasing the Linear Model $F$ -test's Power Under Sparsity Without Sacrificing Validity**|Danielle Paulson et.al.|[2511.23466](http://arxiv.org/abs/2511.23466)|null|
+|**2025-11-28**|**New Particles at the Z-Pole: Tera-Z factories as discovery and precision machines**|Marco Drewes et.al.|[2511.23461](http://arxiv.org/abs/2511.23461)|null|
+|**2025-11-28**|**Baryon fraction from the BAO amplitude: a consistent approach to parameterizing perturbation growth**|Andrea Crespi et.al.|[2511.23459](http://arxiv.org/abs/2511.23459)|null|
+|**2025-11-28**|**From metallicity distributions to mutual information: A new perspective on stellar halo assembly**|Amit Mondal et.al.|[2511.23452](http://arxiv.org/abs/2511.23452)|null|
+|**2025-11-28**|**Random purification channel made simple**|Filippo Girardi et.al.|[2511.23451](http://arxiv.org/abs/2511.23451)|null|
+|**2025-11-28**|**Object-Centric Data Synthesis for Category-level Object Detection**|Vikhyat Agarwal et.al.|[2511.23450](http://arxiv.org/abs/2511.23450)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**New Obstacles to Multiple Recurrence**|Ryan Alweiss et.al.|[2511.21680](http://arxiv.org/abs/2511.21680)|null|
 |**2025-11-26**|**Axion Constraints from White Dwarf Cooling in 47 Tucanae**|Leesa Fleury et.al.|[2511.21676](http://arxiv.org/abs/2511.21676)|null|
