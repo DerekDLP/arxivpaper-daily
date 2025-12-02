@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[2512.01845](http://arxiv.org/abs/2512.01845)|null|
 |**2025-11-28**|**Pooling Attention: Evaluating Pretrained Transformer Embeddings for Deception Classification**|Sumit Mamtani et.al.|[2511.22977](http://arxiv.org/abs/2511.22977)|null|
 |**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
 |**2025-11-27**|**Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition**|Maheswar Bora et.al.|[2511.22443](http://arxiv.org/abs/2511.22443)|null|
@@ -99,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
 |**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
 |**2025-11-08**|**ReMoD: Rethinking Modality Contribution in Multimodal Stance Detection via Dual Reasoning**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
@@ -137,6 +139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Generative Video Motion Editing with 3D Point Tracks**|Yao-Chih Lee et.al.|[2512.02015](http://arxiv.org/abs/2512.02015)|null|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
+|**2025-12-01**|**Adaptive Matrix Sparsification and Applications to Empirical Risk Minimization**|Yang P. Liu et.al.|[2512.02003](http://arxiv.org/abs/2512.02003)|null|
+|**2025-12-01**|**LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation**|Wenhao Wang et.al.|[2512.02002](http://arxiv.org/abs/2512.02002)|null|
+|**2025-12-01**|**JWST & the Waz Arc I: Spatially Resolving the Physical Conditions within a Post-Starburst Galaxy at Redshift 5 with NIRSpec IFS**|Taylor A. Hutchison et.al.|[2512.02000](http://arxiv.org/abs/2512.02000)|null|
+|**2025-12-01**|**Consistent Synthetic Sequences Unlock Structural Diversity in Fully Atomistic De Novo Protein Design**|Danny Reidenbach et.al.|[2512.01976](http://arxiv.org/abs/2512.01976)|null|
+|**2025-12-01**|**SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning**|Xu Zhang et.al.|[2512.01975](http://arxiv.org/abs/2512.01975)|null|
+|**2025-12-01**|**A List of Complexity Bounds for Property Testing by Quantum Sample-to-Query Lifting**|Kean Chen et.al.|[2512.01971](http://arxiv.org/abs/2512.01971)|null|
+|**2025-12-01**|**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**|Sitao Cheng et.al.|[2512.01970](http://arxiv.org/abs/2512.01970)|null|
+|**2025-12-01**|**Predicting Onsets and Dry Spells of the West African Monsoon Season Using Machine Learning Methods**|Colin Bobocea et.al.|[2512.01965](http://arxiv.org/abs/2512.01965)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-28**|**ThetaEvolve: Test-time Learning on Open Problems**|Yiping Wang et.al.|[2511.23473](http://arxiv.org/abs/2511.23473)|null|
 |**2025-11-28**|**Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**|Suman Aich et.al.|[2511.23471](http://arxiv.org/abs/2511.23471)|null|
