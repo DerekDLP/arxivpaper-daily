@@ -1,4 +1,4 @@
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**What Signals Really Matter for Misinformation Tasks? Evaluating Fake-News Detection and Virality Prediction under Real-World Constraints**|Francesco Paolo Savatteri et.al.|[2512.02552](http://arxiv.org/abs/2512.02552)|null|
 |**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[2512.01845](http://arxiv.org/abs/2512.01845)|null|
 |**2025-11-28**|**Pooling Attention: Evaluating Pretrained Transformer Embeddings for Deception Classification**|Sumit Mamtani et.al.|[2511.22977](http://arxiv.org/abs/2511.22977)|null|
 |**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
@@ -63,7 +64,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Rumour
 
@@ -104,7 +105,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -145,12 +146,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**A new constraint on the $y$ -distortion with FIRAS: implications for feedback models in galaxy formation and cosmic shear measurements**|Giulio Fabbian et.al.|[2512.03038](http://arxiv.org/abs/2512.03038)|null|
+|**2025-12-02**|**The Gamma-disordered Aztec diamond**|Maurice Duits et.al.|[2512.03033](http://arxiv.org/abs/2512.03033)|null|
+|**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
+|**2025-12-02**|**Semiparametric Robust Estimation of Population Location**|Ananyabrata Barua et.al.|[2512.03021](http://arxiv.org/abs/2512.03021)|null|
+|**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
+|**2025-12-02**|**MIRI spectrophotometry of GN-z11: Detection and nature of an optical red continuum component**|A. Crespo Gómez et.al.|[2512.02997](http://arxiv.org/abs/2512.02997)|null|
+|**2025-12-02**|**Dualities and trialities in $\mathcal{N}=2$ supersymmetric gauged quantum mechanics**|Cyril Closset et.al.|[2512.02984](http://arxiv.org/abs/2512.02984)|null|
+|**2025-12-02**|**Tunable polarization-entangled near-infrared photons from orthogonal GaAs nanowires**|Elise Bailly-Rioufreyt et.al.|[2512.02980](http://arxiv.org/abs/2512.02980)|null|
+|**2025-12-02**|**New insights into hydrogen-assisted intergranular cracking in nickel**|S. Quan et.al.|[2512.02979](http://arxiv.org/abs/2512.02979)|null|
+|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
 |**2025-12-01**|**Generative Video Motion Editing with 3D Point Tracks**|Yao-Chih Lee et.al.|[2512.02015](http://arxiv.org/abs/2512.02015)|null|
 |**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
 |**2025-12-01**|**Adaptive Matrix Sparsification and Applications to Empirical Risk Minimization**|Yang P. Liu et.al.|[2512.02003](http://arxiv.org/abs/2512.02003)|null|
@@ -602,5 +613,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
