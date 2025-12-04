@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Finding equations of the fake projective plane $(C18,p=3,\{2I\})$**|Lev Borisov et.al.|[2512.03213](http://arxiv.org/abs/2512.03213)|null|
 |**2025-12-02**|**What Signals Really Matter for Misinformation Tasks? Evaluating Fake-News Detection and Virality Prediction under Real-World Constraints**|Francesco Paolo Savatteri et.al.|[2512.02552](http://arxiv.org/abs/2512.02552)|null|
 |**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[2512.01845](http://arxiv.org/abs/2512.01845)|null|
 |**2025-11-28**|**Pooling Attention: Evaluating Pretrained Transformer Embeddings for Deception Classification**|Sumit Mamtani et.al.|[2511.22977](http://arxiv.org/abs/2511.22977)|null|
@@ -140,6 +141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
+|**2025-12-03**|**Screening of dipolar emission in two-scale Gauss-Bonnet gravity**|Farid Thaalba et.al.|[2512.04083](http://arxiv.org/abs/2512.04083)|null|
+|**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
+|**2025-12-03**|**Radiance Meshes for Volumetric Reconstruction**|Alexander Mai et.al.|[2512.04076](http://arxiv.org/abs/2512.04076)|null|
+|**2025-12-03**|**Noise-induced stop-and-go traffic dynamics: Modelling and control**|Raphael Korbmacher et.al.|[2512.04073](http://arxiv.org/abs/2512.04073)|null|
+|**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[2512.04066](http://arxiv.org/abs/2512.04066)|null|
+|**2025-12-03**|**New insights into two-loop running in effective field theories**|Mikael Chala et.al.|[2512.04064](http://arxiv.org/abs/2512.04064)|null|
+|**2025-12-03**|**Extremal couplings and gluon scattering in M-theory**|Shai M. Chester et.al.|[2512.04057](http://arxiv.org/abs/2512.04057)|null|
+|**2025-12-03**|**Convergence for Discrete Parameter Updates**|Paul Wilson et.al.|[2512.04051](http://arxiv.org/abs/2512.04051)|null|
+|**2025-12-03**|**High-order two-component fractional quantum Hall states around filling factor $ν= 1$**|E. Bell et.al.|[2512.04050](http://arxiv.org/abs/2512.04050)|null|
 |**2025-12-02**|**A new constraint on the $y$ -distortion with FIRAS: implications for feedback models in galaxy formation and cosmic shear measurements**|Giulio Fabbian et.al.|[2512.03038](http://arxiv.org/abs/2512.03038)|null|
 |**2025-12-02**|**The Gamma-disordered Aztec diamond**|Maurice Duits et.al.|[2512.03033](http://arxiv.org/abs/2512.03033)|null|
 |**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
