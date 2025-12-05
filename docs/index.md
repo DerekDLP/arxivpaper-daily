@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](http://arxiv.org/abs/2512.04837)|null|
+|**2025-12-04**|**When GenAI Meets Fake News: Understanding Image Cascade Dynamics on Reddit**|Saumya Chauhan et.al.|[2512.04639](http://arxiv.org/abs/2512.04639)|null|
+|**2025-12-03**|**Open Set Face Forgery Detection via Dual-Level Evidence Collection**|Zhongyi Cai et.al.|[2512.04331](http://arxiv.org/abs/2512.04331)|null|
 |**2025-12-02**|**Finding equations of the fake projective plane $(C18,p=3,\{2I\})$**|Lev Borisov et.al.|[2512.03213](http://arxiv.org/abs/2512.03213)|null|
 |**2025-12-02**|**What Signals Really Matter for Misinformation Tasks? Evaluating Fake-News Detection and Virality Prediction under Real-World Constraints**|Francesco Paolo Savatteri et.al.|[2512.02552](http://arxiv.org/abs/2512.02552)|null|
 |**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[2512.01845](http://arxiv.org/abs/2512.01845)|null|
@@ -102,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
 |**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
@@ -141,6 +145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.|[2512.05117](http://arxiv.org/abs/2512.05117)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**PSR J0952-0607: Tightening a Record-High Neutron Star Mass**|Roger W. Romani et.al.|[2512.05099](http://arxiv.org/abs/2512.05099)|null|
+|**2025-12-04**|**SA-IQA: Redefining Image Quality Assessment for Spatial Aesthetics with Multi-Dimensional Rewards**|Yuan Gao et.al.|[2512.05098](http://arxiv.org/abs/2512.05098)|null|
+|**2025-12-04**|**Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark**|Haobo Yuan et.al.|[2512.05091](http://arxiv.org/abs/2512.05091)|null|
+|**2025-12-04**|**Performance Analysis of Fluid Reconfigurable Intelligent Surface over Covert Communications**|Farshad Rostami Ghadi et.al.|[2512.05085](http://arxiv.org/abs/2512.05085)|null|
+|**2025-12-04**|**First Study of the Nuclear Response to Fast Hadrons via Angular Correlations between Pions and Slow Protons in Electron-Nucleus Scattering**|S. J. Paul et.al.|[2512.05083](http://arxiv.org/abs/2512.05083)|null|
+|**2025-12-04**|**Anisotropic Response in Metamaterials with Elliptically Perforated Plates: Applications to Near-Field Radiative Heat Transfer**|J. E. P'erez-Rodr'iguez et.al.|[2512.05075](http://arxiv.org/abs/2512.05075)|null|
+|**2025-12-04**|**The Evolving Landscape of Interactive Surface Sensing Technologies**|David Wang et.al.|[2512.05071](http://arxiv.org/abs/2512.05071)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
 |**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
 |**2025-12-03**|**Screening of dipolar emission in two-scale Gauss-Bonnet gravity**|Farid Thaalba et.al.|[2512.04083](http://arxiv.org/abs/2512.04083)|null|
 |**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
