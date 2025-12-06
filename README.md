@@ -1,4 +1,4 @@
-## Updated on 2025.12.05
+## Updated on 2025.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -68,7 +68,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 ## Rumour
 
@@ -109,7 +109,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -151,7 +151,7 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
 ## News Media
 
@@ -638,5 +638,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
 
