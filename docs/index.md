@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -145,6 +145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Minimal two band model and experimental proposals to distinguish pairing mechanisms of the high-T $_c$ superconductor La$_3$Ni$_2$O$_7$**|Zheng-Duo Fan et.al.|[2512.05956](http://arxiv.org/abs/2512.05956)|null|
+|**2025-12-05**|**Removing correlated noise stripes from the Nancy Grace Roman Space Telescope survey images**|Katherine Laliotis et.al.|[2512.05949](http://arxiv.org/abs/2512.05949)|null|
+|**2025-12-05**|**On cable-graph percolation between dimensions 2 and 3**|Pierre-François Rodriguez et.al.|[2512.05947](http://arxiv.org/abs/2512.05947)|null|
+|**2025-12-05**|**Spectroscopy and Coherent Control of Two-Level System Defect Ensembles Using a Broadband 3D Waveguide**|Qianxu Wang et.al.|[2512.05934](http://arxiv.org/abs/2512.05934)|null|
+|**2025-12-05**|**On the Bayes Inconsistency of Disagreement Discrepancy Surrogates**|Neil G. Marchant et.al.|[2512.05931](http://arxiv.org/abs/2512.05931)|null|
+|**2025-12-05**|**To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis**|Federico Bianchi et.al.|[2512.05925](http://arxiv.org/abs/2512.05925)|null|
+|**2025-12-05**|**LDLT $\mathcal{L}$ -Lipschitz Network: Generalized Deep End-To-End Lipschitz Network Construction**|Marius F. R. Juston et.al.|[2512.05915](http://arxiv.org/abs/2512.05915)|null|
+|**2025-12-05**|**Interplay of Rashba and Dresselhaus Spin-Orbit Couplings on the Stability of Topological FFLO Phases in 1D Fermi Gases**|Hamid Mosadeq et.al.|[2512.05901](http://arxiv.org/abs/2512.05901)|null|
+|**2025-12-05**|**A Machine Learning Framework for Predicting Glass-Forming Ability in Ternary Alloy Systems**|Fatemeh Mahmoudi et.al.|[2512.05895](http://arxiv.org/abs/2512.05895)|null|
+|**2025-12-05**|**The Effective Reproduction Number in the Kermack-McKendrick model with age of infection and reinfection**|Jiayi Li et.al.|[2512.05889](http://arxiv.org/abs/2512.05889)|null|
 |**2025-12-04**|**The Universal Weight Subspace Hypothesis**|Prakhar Kaushik et.al.|[2512.05117](http://arxiv.org/abs/2512.05117)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**PSR J0952-0607: Tightening a Record-High Neutron Star Mass**|Roger W. Romani et.al.|[2512.05099](http://arxiv.org/abs/2512.05099)|null|
