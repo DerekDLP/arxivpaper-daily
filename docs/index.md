@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-07**|**The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News**|Isha Karn et.al.|[2512.06638](http://arxiv.org/abs/2512.06638)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](http://arxiv.org/abs/2512.04837)|null|
 |**2025-12-04**|**When GenAI Meets Fake News: Understanding Image Cascade Dynamics on Reddit**|Saumya Chauhan et.al.|[2512.04639](http://arxiv.org/abs/2512.04639)|null|
 |**2025-12-03**|**Open Set Face Forgery Detection via Dual-Level Evidence Collection**|Zhongyi Cai et.al.|[2512.04331](http://arxiv.org/abs/2512.04331)|null|
@@ -145,6 +146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Voxify3D: Pixel Art Meets Volumetric Rendering**|Yi-Chuan Huang et.al.|[2512.07834](http://arxiv.org/abs/2512.07834)|null|
+|**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[2512.07828](http://arxiv.org/abs/2512.07828)|null|
+|**2025-12-08**|**OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing**|Haoyang He et.al.|[2512.07826](http://arxiv.org/abs/2512.07826)|null|
+|**2025-12-08**|**Novel thermodynamic inequality for charged and rotating AdS black holes**|Hamid R. Bakhtiarizadeh et.al.|[2512.07825](http://arxiv.org/abs/2512.07825)|null|
+|**2025-12-08**|**WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling**|Shaoheng Fang et.al.|[2512.07821](http://arxiv.org/abs/2512.07821)|null|
+|**2025-12-08**|**Integral constraints on the linear instability of stratified flow with planar shear at an arbitrary angle to the vertical**|Miguel A. C. Teixeira et.al.|[2512.07817](http://arxiv.org/abs/2512.07817)|null|
+|**2025-12-08**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
+|**2025-12-08**|**LLM Use for Mental Health: Crowdsourcing Users' Sentiment-based Perspectives and Values from Social Discussions**|Lingyao Li et.al.|[2512.07797](http://arxiv.org/abs/2512.07797)|null|
+|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](http://arxiv.org/abs/2512.07796)|null|
+|**2025-12-08**|**Hot, Photoionized X-ray Gas in Two Luminous Type 2 Quasars: Chandra-HST Evidence for a Wind-Driven Sequence**|Anna Trindade Falcão et.al.|[2512.07793](http://arxiv.org/abs/2512.07793)|null|
 |**2025-12-05**|**Minimal two band model and experimental proposals to distinguish pairing mechanisms of the high-T $_c$ superconductor La$_3$Ni$_2$O$_7$**|Zheng-Duo Fan et.al.|[2512.05956](http://arxiv.org/abs/2512.05956)|null|
 |**2025-12-05**|**Removing correlated noise stripes from the Nancy Grace Roman Space Telescope survey images**|Katherine Laliotis et.al.|[2512.05949](http://arxiv.org/abs/2512.05949)|null|
 |**2025-12-05**|**On cable-graph percolation between dimensions 2 and 3**|Pierre-François Rodriguez et.al.|[2512.05947](http://arxiv.org/abs/2512.05947)|null|
