@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -146,6 +146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
+|**2025-12-09**|**On a cross-diffusion hybrid model: Cancer Invasion Tissue with Normal Cell Involved**|Guanjun Pan et.al.|[2512.08929](http://arxiv.org/abs/2512.08929)|null|
+|**2025-12-09**|**Toward Practical Forecasts of Public Sentiments via Convexification for Mean Field Games: Evidence from Real World COVID-19 Discussion Data**|Shi Chen et.al.|[2512.08925](http://arxiv.org/abs/2512.08925)|null|
+|**2025-12-09**|**Efficiently Reconstructing Dynamic Scenes One D4RT at a Time**|Chuhan Zhang et.al.|[2512.08924](http://arxiv.org/abs/2512.08924)|null|
+|**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
+|**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](http://arxiv.org/abs/2512.08918)|null|
+|**2025-12-09**|**Open Polymer Challenge: Post-Competition Report**|Gang Liu et.al.|[2512.08896](http://arxiv.org/abs/2512.08896)|null|
+|**2025-12-09**|**Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders**|Guangzhi Xiong et.al.|[2512.08892](http://arxiv.org/abs/2512.08892)|null|
+|**2025-12-09**|**A Fast Broadband Beamspace Transformation**|Nakul Singh et.al.|[2512.08887](http://arxiv.org/abs/2512.08887)|null|
+|**2025-12-09**|**Multifractal behavior of price changes in the Green Bonds funds**|Wenderson Gomes Barbosa et.al.|[2512.08886](http://arxiv.org/abs/2512.08886)|null|
 |**2025-12-08**|**Voxify3D: Pixel Art Meets Volumetric Rendering**|Yi-Chuan Huang et.al.|[2512.07834](http://arxiv.org/abs/2512.07834)|null|
 |**2025-12-08**|**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**|Jeremy Yang et.al.|[2512.07828](http://arxiv.org/abs/2512.07828)|null|
 |**2025-12-08**|**OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing**|Haoyang He et.al.|[2512.07826](http://arxiv.org/abs/2512.07826)|null|
