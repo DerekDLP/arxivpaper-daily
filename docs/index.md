@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -146,6 +146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Splatent: Splatting Diffusion Latents for Novel View Synthesis**|Or Hirschorn et.al.|[2512.09923](http://arxiv.org/abs/2512.09923)|null|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**VisualActBench: Can VLMs See and Act like a Human?**|Daoan Zhang et.al.|[2512.09907](http://arxiv.org/abs/2512.09907)|null|
+|**2025-12-10**|**A 0.8395-approximation algorithm for the EPR problem**|Anuj Apte et.al.|[2512.09896](http://arxiv.org/abs/2512.09896)|null|
+|**2025-12-10**|**Self-consistent secondary cosmic microwave background anisotropies and extragalactic foregrounds in the FLAMINGO simulations**|Tianyi Yang et.al.|[2512.09891](http://arxiv.org/abs/2512.09891)|null|
+|**2025-12-10**|**Crosscap numbers of alternating links via state codes**|Isaias Bahena et.al.|[2512.09887](http://arxiv.org/abs/2512.09887)|null|
+|**2025-12-10**|**A weakly non-abelian decay channel**|Vincent Menet et.al.|[2512.09884](http://arxiv.org/abs/2512.09884)|null|
+|**2025-12-10**|**Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing**|Justin W. Lin et.al.|[2512.09882](http://arxiv.org/abs/2512.09882)|null|
+|**2025-12-10**|**Symmetry for the wave equation on torus: sharp unique continuation and observability conditions for spacetime regions**|Jingrui Niu et.al.|[2512.09873](http://arxiv.org/abs/2512.09873)|null|
+|**2025-12-10**|**Colouring Graphs Without a Subdivided H-Graph: A Full Complexity Classification**|Tala Eagling-Vose et.al.|[2512.09859](http://arxiv.org/abs/2512.09859)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
 |**2025-12-09**|**On a cross-diffusion hybrid model: Cancer Invasion Tissue with Normal Cell Involved**|Guanjun Pan et.al.|[2512.08929](http://arxiv.org/abs/2512.08929)|null|
 |**2025-12-09**|**Toward Practical Forecasts of Public Sentiments via Convexification for Mean Field Games: Evidence from Real World COVID-19 Discussion Data**|Shi Chen et.al.|[2512.08925](http://arxiv.org/abs/2512.08925)|null|
