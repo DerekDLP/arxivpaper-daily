@@ -1,4 +1,4 @@
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,12 +70,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
 |**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
 |**2025-11-24**|**The Maki-Thompson Model with Spontaneous Stifling on Symmetric Networks**|Nancy Lopes Garcia et.al.|[2511.19259](http://arxiv.org/abs/2511.19259)|null|
 |**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
@@ -111,7 +112,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -154,12 +155,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
+|**2025-12-12**|**Particulate: Feed-Forward 3D Object Articulation**|Ruining Li et.al.|[2512.11798](http://arxiv.org/abs/2512.11798)|null|
+|**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
+|**2025-12-12**|**Solving the Cosmological Vlasov-Poisson Equations with Physics-Informed Kolmogorov-Arnold Networks**|Nicolas Cerardi et.al.|[2512.11795](http://arxiv.org/abs/2512.11795)|null|
+|**2025-12-12**|**Quantum Krylov algorithm using unitary decomposition for exact eigenstates of fermionic systems using quantum computers**|Ayush Asthana et.al.|[2512.11788](http://arxiv.org/abs/2512.11788)|null|
+|**2025-12-12**|**Conditional Coverage Diagnostics for Conformal Prediction**|Sacha Braun et.al.|[2512.11779](http://arxiv.org/abs/2512.11779)|null|
+|**2025-12-12**|**A Doubled Adjacency Spectral Embedding Approach to Graph Clustering**|Sinyoung Park et.al.|[2512.11777](http://arxiv.org/abs/2512.11777)|null|
+|**2025-12-12**|**The Adaptive Vekua Cascade: A Differentiable Spectral-Analytic Solver for Physics-Informed Representation**|Vladimer Khasia et.al.|[2512.11776](http://arxiv.org/abs/2512.11776)|null|
+|**2025-12-12**|**Hypergraph based Multi-Party Payment Channel**|Ayush Nainwal et.al.|[2512.11775](http://arxiv.org/abs/2512.11775)|null|
+|**2025-12-12**|**Leptophilic Interactions in Nuclear Energy Density Functional Theory**|S. O. Kara et.al.|[2512.11770](http://arxiv.org/abs/2512.11770)|null|
 |**2025-12-11**|**Evidence of galaxy cluster rotation in the cosmic microwave background**|Samuel Goldstein et.al.|[2512.10951](http://arxiv.org/abs/2512.10951)|null|
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](http://arxiv.org/abs/2512.10950)|null|
 |**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[2512.10945](http://arxiv.org/abs/2512.10945)|null|
@@ -691,5 +702,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
