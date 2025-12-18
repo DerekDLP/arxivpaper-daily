@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**CODE ACROSTIC: Robust Watermarking for Code Generation**|Li Lin et.al.|[2512.14753](http://arxiv.org/abs/2512.14753)|null|
 |**2025-12-10**|**Enhancing Fake-News Detection with Node-Level Topological Features**|Kaiyuan Xu et.al.|[2512.09974](http://arxiv.org/abs/2512.09974)|null|
 |**2025-12-07**|**The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News**|Isha Karn et.al.|[2512.06638](http://arxiv.org/abs/2512.06638)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](http://arxiv.org/abs/2512.04837)|null|
@@ -70,7 +71,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## Rumour
 
@@ -113,7 +114,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -156,12 +157,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Artism: AI-Driven Dual-Engine System for Art Generation and Critique**|Shuai Liu et.al.|[2512.15710](http://arxiv.org/abs/2512.15710)|null|
+|**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](http://arxiv.org/abs/2512.15707)|null|
+|**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
+|**2025-12-17**|**Physics-informed Neural Operators for Predicting 3D Electromagnetic Fields Transformed by Metasurfaces**|Orkun Furat et.al.|[2512.15694](http://arxiv.org/abs/2512.15694)|null|
+|**2025-12-17**|**Combinatorial structures in quantum correlation: A new perspective**|Rohit kumar et.al.|[2512.15686](http://arxiv.org/abs/2512.15686)|null|
+|**2025-12-17**|**Expressibility and inexpressibility in propositional team logics**|Matilda Häggblom et.al.|[2512.15680](http://arxiv.org/abs/2512.15680)|null|
+|**2025-12-17**|**A High-level Synthesis Toolchain for the Julia Language**|Benedict Short et.al.|[2512.15679](http://arxiv.org/abs/2512.15679)|null|
+|**2025-12-17**|**Observational constraints on the spin/anisotropy of the CCOs of Cassiopeia A, Vela Jr. and G347.3-0.5 and a single surviving continuous gravitational wave candidate**|Jing Ming et.al.|[2512.15672](http://arxiv.org/abs/2512.15672)|null|
+|**2025-12-17**|**Searching potential astronomical sites in Ethiopia**|SS Akalu et.al.|[2512.15669](http://arxiv.org/abs/2512.15669)|null|
+|**2025-12-17**|**Revisiting the Phase Diagram of Hard Sphere Dumbbells with Nested Sampling: Known Phases and New Packing Variants**|Omar-Farouk Adesida et.al.|[2512.15665](http://arxiv.org/abs/2512.15665)|null|
 |**2025-12-16**|**MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives**|Sihui Ji et.al.|[2512.14699](http://arxiv.org/abs/2512.14699)|null|
 |**2025-12-16**|**Native and Compact Structured Latents for 3D Generation**|Jianfeng Xiang et.al.|[2512.14692](http://arxiv.org/abs/2512.14692)|null|
 |**2025-12-16**|**Bias-Variance Trade-off for Clipped Stochastic First-Order Methods: From Bounded Variance to Infinite Mean**|Chuan He et.al.|[2512.14686](http://arxiv.org/abs/2512.14686)|null|
@@ -723,5 +734,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
