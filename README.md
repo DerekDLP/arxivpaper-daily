@@ -1,4 +1,4 @@
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-12-14**|**CODE ACROSTIC: Robust Watermarking for Code Generation**|Li Lin et.al.|[2512.14753](http://arxiv.org/abs/2512.14753)|null|
-|**2025-12-10**|**Enhancing Fake-News Detection with Node-Level Topological Features**|Kaiyuan Xu et.al.|[2512.09974](http://arxiv.org/abs/2512.09974)|null|
+|**2025-12-18**|**Enhancing Fake-News Detection with Node-Level Topological Features**|Kaiyuan Xu et.al.|[2512.09974](http://arxiv.org/abs/2512.09974)|null|
 |**2025-12-07**|**The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News**|Isha Karn et.al.|[2512.06638](http://arxiv.org/abs/2512.06638)|null|
 |**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](http://arxiv.org/abs/2512.04837)|null|
 |**2025-12-04**|**When GenAI Meets Fake News: Understanding Image Cascade Dynamics on Reddit**|Saumya Chauhan et.al.|[2512.04639](http://arxiv.org/abs/2512.04639)|null|
@@ -71,7 +71,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
 
 ## Rumour
 
@@ -114,7 +114,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -157,12 +157,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/abs/2512.16908)|null|
+|**2025-12-18**|**Probing scalar and pseudoscalar new physics using rare kaon decays**|G. D'Ambrosio et.al.|[2512.16903](http://arxiv.org/abs/2512.16903)|null|
+|**2025-12-18**|**In-Context Algebra**|Eric Todd et.al.|[2512.16902](http://arxiv.org/abs/2512.16902)|null|
+|**2025-12-18**|**Impacts of Racial Bias in Historical Training Data for News AI**|Rahul Bhargava et.al.|[2512.16901](http://arxiv.org/abs/2512.16901)|null|
+|**2025-12-18**|**On the Edge of Core (Non-)Emptiness: An Automated Reasoning Approach to Approval-Based Multi-Winner Voting**|Ratip Emin Berker et.al.|[2512.16895](http://arxiv.org/abs/2512.16895)|null|
+|**2025-12-18**|**Machine learning assisted high throughput prediction of moiré materials**|Daniel Kaplan et.al.|[2512.16892](http://arxiv.org/abs/2512.16892)|null|
+|**2025-12-18**|**Anomalous Dimension of a General Effective Gauge Theory II: Fermionic Sector**|Jason Aebischer et.al.|[2512.16890](http://arxiv.org/abs/2512.16890)|null|
+|**2025-12-18**|**The Motile Josephson Array: Bridging Active Turbulence and Superconductivity**|Magnus F Ivarsen et.al.|[2512.16884](http://arxiv.org/abs/2512.16884)|null|
+|**2025-12-18**|**Cartesian-nj: Extending e3nn to Irreducible Cartesian Tensor Product and Contracion**|Zemin Xu et.al.|[2512.16882](http://arxiv.org/abs/2512.16882)|null|
+|**2025-12-18**|**Training Together, Diagnosing Better: Federated Learning for Collagen VI-Related Dystrophies**|Astrid Brull et.al.|[2512.16876](http://arxiv.org/abs/2512.16876)|null|
 |**2025-12-17**|**Artism: AI-Driven Dual-Engine System for Art Generation and Critique**|Shuai Liu et.al.|[2512.15710](http://arxiv.org/abs/2512.15710)|null|
 |**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](http://arxiv.org/abs/2512.15707)|null|
 |**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
@@ -734,5 +744,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251220>back to top</a>)</p>
 
