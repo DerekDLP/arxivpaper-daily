@@ -1,4 +1,4 @@
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,12 +71,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
 |**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
@@ -114,7 +115,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -157,12 +158,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|null|
+|**2025-12-19**|**Visualization of The Content of Surah al Fiil using Marker-Based Augmented Reality**|Ahmad Badru Al Husaeni et.al.|[2512.17895](http://arxiv.org/abs/2512.17895)|null|
+|**2025-12-19**|**Visualizing Detection Efficiency in Optomechanical Scattering**|Youssef Tawfik et.al.|[2512.17894](http://arxiv.org/abs/2512.17894)|null|
+|**2025-12-19**|**Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training**|Kristoffer Wickstrøm et.al.|[2512.17891](http://arxiv.org/abs/2512.17891)|null|
+|**2025-12-19**|**Tuna-Like Swimmers Experience a Fluid-Mediated Stable Side-by-Side Formation**|Pedro C. Ormonde et.al.|[2512.17888](http://arxiv.org/abs/2512.17888)|null|
+|**2025-12-19**|**The role of charm and unflavored mesons in prompt atmospheric lepton fluxes**|Laksha Pradip Das et.al.|[2512.17886](http://arxiv.org/abs/2512.17886)|null|
+|**2025-12-19**|**Probing new physics in the Boosted $HH \to b\bar{b}γγ$ channel at the LHC**|Mohamed Belfkir et.al.|[2512.17874](http://arxiv.org/abs/2512.17874)|null|
+|**2025-12-19**|**Cellular free resolutions for normalizations of toric ideals**|Christine Berkesch et.al.|[2512.17871](http://arxiv.org/abs/2512.17871)|null|
+|**2025-12-19**|**Delayed Acceptance Slice Sampling**|Kevin Bitterlich et.al.|[2512.17868](http://arxiv.org/abs/2512.17868)|null|
+|**2025-12-19**|**Witnessing Entanglement in Mixed-Particle Quantum Systems**|Irma Avdic et.al.|[2512.17860](http://arxiv.org/abs/2512.17860)|null|
 |**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/abs/2512.16908)|null|
 |**2025-12-18**|**Probing scalar and pseudoscalar new physics using rare kaon decays**|G. D'Ambrosio et.al.|[2512.16903](http://arxiv.org/abs/2512.16903)|null|
 |**2025-12-18**|**In-Context Algebra**|Eric Todd et.al.|[2512.16902](http://arxiv.org/abs/2512.16902)|null|
@@ -744,5 +755,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 

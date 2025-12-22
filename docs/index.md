@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -69,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
 |**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
@@ -151,6 +152,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|null|
+|**2025-12-19**|**Visualization of The Content of Surah al Fiil using Marker-Based Augmented Reality**|Ahmad Badru Al Husaeni et.al.|[2512.17895](http://arxiv.org/abs/2512.17895)|null|
+|**2025-12-19**|**Visualizing Detection Efficiency in Optomechanical Scattering**|Youssef Tawfik et.al.|[2512.17894](http://arxiv.org/abs/2512.17894)|null|
+|**2025-12-19**|**Keypoint Counting Classifiers: Turning Vision Transformers into Self-Explainable Models Without Training**|Kristoffer Wickstrøm et.al.|[2512.17891](http://arxiv.org/abs/2512.17891)|null|
+|**2025-12-19**|**Tuna-Like Swimmers Experience a Fluid-Mediated Stable Side-by-Side Formation**|Pedro C. Ormonde et.al.|[2512.17888](http://arxiv.org/abs/2512.17888)|null|
+|**2025-12-19**|**The role of charm and unflavored mesons in prompt atmospheric lepton fluxes**|Laksha Pradip Das et.al.|[2512.17886](http://arxiv.org/abs/2512.17886)|null|
+|**2025-12-19**|**Probing new physics in the Boosted $HH \to b\bar{b}γγ$ channel at the LHC**|Mohamed Belfkir et.al.|[2512.17874](http://arxiv.org/abs/2512.17874)|null|
+|**2025-12-19**|**Cellular free resolutions for normalizations of toric ideals**|Christine Berkesch et.al.|[2512.17871](http://arxiv.org/abs/2512.17871)|null|
+|**2025-12-19**|**Delayed Acceptance Slice Sampling**|Kevin Bitterlich et.al.|[2512.17868](http://arxiv.org/abs/2512.17868)|null|
+|**2025-12-19**|**Witnessing Entanglement in Mixed-Particle Quantum Systems**|Irma Avdic et.al.|[2512.17860](http://arxiv.org/abs/2512.17860)|null|
 |**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/abs/2512.16908)|null|
 |**2025-12-18**|**Probing scalar and pseudoscalar new physics using rare kaon decays**|G. D'Ambrosio et.al.|[2512.16903](http://arxiv.org/abs/2512.16903)|null|
 |**2025-12-18**|**In-Context Algebra**|Eric Todd et.al.|[2512.16902](http://arxiv.org/abs/2512.16902)|null|
