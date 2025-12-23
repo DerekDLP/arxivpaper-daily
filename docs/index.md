@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-20**|**Generalization Gaps in Political Fake News Detection: An Empirical Study on the LIAR Dataset**|S Mahmudul Hasan et.al.|[2512.18533](http://arxiv.org/abs/2512.18533)|null|
 |**2025-12-14**|**CODE ACROSTIC: Robust Watermarking for Code Generation**|Li Lin et.al.|[2512.14753](http://arxiv.org/abs/2512.14753)|null|
 |**2025-12-18**|**Enhancing Fake-News Detection with Node-Level Topological Features**|Kaiyuan Xu et.al.|[2512.09974](http://arxiv.org/abs/2512.09974)|null|
 |**2025-12-07**|**The Impact of Data Characteristics on GNN Evaluation for Detecting Fake News**|Isha Karn et.al.|[2512.06638](http://arxiv.org/abs/2512.06638)|null|
@@ -69,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
 |**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
@@ -152,6 +154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning**|Apoorv Vyas et.al.|[2512.19687](http://arxiv.org/abs/2512.19687)|null|
+|**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
+|**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
+|**2025-12-22**|**Extremizing Measures of Magic on Pure States by Clifford-stabilizer States**|Muhammad Erew et.al.|[2512.19657](http://arxiv.org/abs/2512.19657)|null|
+|**2025-12-22**|**Clustering with Label Consistency**|Diptarka Chakraborty et.al.|[2512.19654](http://arxiv.org/abs/2512.19654)|null|
+|**2025-12-22**|**Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**|Filippos Ventirozos et.al.|[2512.19651](http://arxiv.org/abs/2512.19651)|null|
+|**2025-12-22**|**A Composite Theory of Higgs and Flavour**|Joe Davighi et.al.|[2512.19650](http://arxiv.org/abs/2512.19650)|null|
+|**2025-12-22**|**Heavy neutral bosons and dark matter in the 3-3-1 model with axionlike particle**|T. T. Hieu et.al.|[2512.19636](http://arxiv.org/abs/2512.19636)|null|
+|**2025-12-22**|**A Markov Chain Modeling Approach for Predicting Relative Risks of Spatial Clusters in Public Health**|Lyza Iamrache et.al.|[2512.19635](http://arxiv.org/abs/2512.19635)|null|
+|**2025-12-22**|**InterACTing dark radiation models after ACT**|William Cvetko et.al.|[2512.19633](http://arxiv.org/abs/2512.19633)|null|
 |**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|null|
 |**2025-12-19**|**Visualization of The Content of Surah al Fiil using Marker-Based Augmented Reality**|Ahmad Badru Al Husaeni et.al.|[2512.17895](http://arxiv.org/abs/2512.17895)|null|
 |**2025-12-19**|**Visualizing Detection Efficiency in Optomechanical Scattering**|Youssef Tawfik et.al.|[2512.17894](http://arxiv.org/abs/2512.17894)|null|
