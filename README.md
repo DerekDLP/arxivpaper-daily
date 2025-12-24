@@ -1,4 +1,4 @@
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](http://arxiv.org/abs/2512.20097)|null|
 |**2025-12-20**|**Generalization Gaps in Political Fake News Detection: An Empirical Study on the LIAR Dataset**|S Mahmudul Hasan et.al.|[2512.18533](http://arxiv.org/abs/2512.18533)|null|
 |**2025-12-14**|**CODE ACROSTIC: Robust Watermarking for Code Generation**|Li Lin et.al.|[2512.14753](http://arxiv.org/abs/2512.14753)|null|
 |**2025-12-18**|**Enhancing Fake-News Detection with Node-Level Topological Features**|Kaiyuan Xu et.al.|[2512.09974](http://arxiv.org/abs/2512.09974)|null|
@@ -72,7 +73,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## Rumour
 
@@ -117,7 +118,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -160,12 +161,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-23**|**Elementwise conservative actions and new constructions of boomerang subgroups**|Yair Glasner et.al.|[2512.20596](http://arxiv.org/abs/2512.20596)|null|
+|**2025-12-23**|**Brane Symmetries Revisited: Symmetries of Tensile and Tensionless Branes in Possibly Degenerate Metrics and their Manifestations**|Leron Borsten et.al.|[2512.20590](http://arxiv.org/abs/2512.20590)|null|
+|**2025-12-23**|**Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information**|İbrahim Oğuz Çetinkaya et.al.|[2512.20589](http://arxiv.org/abs/2512.20589)|null|
+|**2025-12-23**|**A human-centered approach to reframing job satisfaction in the BIM-enabled construction industry**|Sharareh Mirzaei et.al.|[2512.20584](http://arxiv.org/abs/2512.20584)|null|
+|**2025-12-23**|**Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem**|Kyle Hogan et.al.|[2512.20583](http://arxiv.org/abs/2512.20583)|null|
+|**2025-12-23**|**MERGE-RNA: a physics-based model to predict RNA secondary structure ensembles with chemical probing**|Giuseppe Sacco et.al.|[2512.20581](http://arxiv.org/abs/2512.20581)|null|
+|**2025-12-23**|**An ultraslow optical centrifuge with arbitrarily low rotational acceleration**|Kevin Wang et.al.|[2512.20568](http://arxiv.org/abs/2512.20568)|null|
+|**2025-12-23**|**Classification using quantum kernels in a radial basis function network**|Emily Micklethwaite et.al.|[2512.20567](http://arxiv.org/abs/2512.20567)|null|
+|**2025-12-23**|**LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving**|Long Nguyen et.al.|[2512.20563](http://arxiv.org/abs/2512.20563)|null|
 |**2025-12-22**|**Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning**|Apoorv Vyas et.al.|[2512.19687](http://arxiv.org/abs/2512.19687)|null|
 |**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
 |**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
@@ -767,5 +778,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
 
