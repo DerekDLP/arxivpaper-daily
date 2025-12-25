@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection**|Roopa Bukke et.al.|[2512.21039](http://arxiv.org/abs/2512.21039)|null|
+|**2025-12-19**|**Disentangling Fact from Sentiment: A Dynamic Conflict-Consensus Framework for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2512.20670](http://arxiv.org/abs/2512.20670)|null|
 |**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](http://arxiv.org/abs/2512.20097)|null|
 |**2025-12-20**|**Generalization Gaps in Political Fake News Detection: An Empirical Study on the LIAR Dataset**|S Mahmudul Hasan et.al.|[2512.18533](http://arxiv.org/abs/2512.18533)|null|
 |**2025-12-14**|**CODE ACROSTIC: Robust Watermarking for Code Generation**|Li Lin et.al.|[2512.14753](http://arxiv.org/abs/2512.14753)|null|
@@ -71,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
 |**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
 |**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
@@ -155,6 +158,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
+|**2025-12-24**|**Autonomous Uncertainty Quantification for Computational Point-of-care Sensors**|Artem Goncharov et.al.|[2512.21335](http://arxiv.org/abs/2512.21335)|null|
+|**2025-12-24**|**C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling**|Jin Qin et.al.|[2512.21332](http://arxiv.org/abs/2512.21332)|null|
+|**2025-12-24**|**TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning**|Varun Belagali et.al.|[2512.21331](http://arxiv.org/abs/2512.21331)|null|
+|**2025-12-24**|**Aspects of holographic timelike entanglement entropy in black hole backgrounds**|Mir Afrasiar et.al.|[2512.21327](http://arxiv.org/abs/2512.21327)|null|
+|**2025-12-24**|**Large time behavior of the solution to the Cauchy problem for the discrete p-Laplacian with density on infinite graphs**|Alan A. Tedeev et.al.|[2512.21321](http://arxiv.org/abs/2512.21321)|null|
+|**2025-12-24**|**Regularity of Einstein 5-manifolds via 4-dimensional gap theorems**|Yiqi Huang et.al.|[2512.21317](http://arxiv.org/abs/2512.21317)|null|
+|**2025-12-24**|**The Patterson-Sullivan construction and global leaf geometry for Anosov flows**|Clark Butler et.al.|[2512.21308](http://arxiv.org/abs/2512.21308)|null|
+|**2025-12-24**|**Closed-form empirical Bernstein confidence sequences for scalars and matrices**|Ben Chugg et.al.|[2512.21300](http://arxiv.org/abs/2512.21300)|null|
+|**2025-12-24**|**Model Merging via Multi-Teacher Knowledge Distillation**|Seyed Arshan Dalili et.al.|[2512.21288](http://arxiv.org/abs/2512.21288)|null|
 |**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
 |**2025-12-23**|**Elementwise conservative actions and new constructions of boomerang subgroups**|Yair Glasner et.al.|[2512.20596](http://arxiv.org/abs/2512.20596)|null|
 |**2025-12-23**|**Brane Symmetries Revisited: Symmetries of Tensile and Tensionless Branes in Possibly Degenerate Metrics and their Manifestations**|Leron Borsten et.al.|[2512.20590](http://arxiv.org/abs/2512.20590)|null|
