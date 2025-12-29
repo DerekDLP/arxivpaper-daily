@@ -1,4 +1,4 @@
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -75,7 +75,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Rumour
 
@@ -83,7 +83,7 @@
 |---|---|---|---|---|
 |**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
 |**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
-|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
+|**2025-12-25**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
 |**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
@@ -121,7 +121,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -164,12 +164,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Radio Supernovae**|Esha Kundu et.al.|[2512.22117](http://arxiv.org/abs/2512.22117)|null|
+|**2025-12-26**|**The Lepton-Gluon Portal Beyond Lepto-Gluons**|Linda M. Carpenter et.al.|[2512.22112](http://arxiv.org/abs/2512.22112)|null|
+|**2025-12-26**|**Keffer-like form of the symmetric Heisenberg exchange integral: Contribution to the Landau--Lifshitz--Gilbert equation and spin wave dispersion dependence**|Pavel A. Andreev et.al.|[2512.22108](http://arxiv.org/abs/2512.22108)|null|
+|**2025-12-26**|**Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models**|Marco Dalla Pria et.al.|[2512.22098](http://arxiv.org/abs/2512.22098)|null|
+|**2025-12-26**|**Decay of Mass of the Solution to the Cauchy Problem of the p-Laplacian with Absorption on Infinite Graphs**|Alan A. Tedeev et.al.|[2512.22095](http://arxiv.org/abs/2512.22095)|null|
+|**2025-12-26**|**Schwarz Information Criterion Aided Multi-Armed Bandit for Decentralized Resource Allocation in Dynamic LoRa Networks**|Ryotai Ariyoshi et.al.|[2512.22089](http://arxiv.org/abs/2512.22089)|null|
+|**2025-12-26**|**Context as a Tool: Context Management for Long-Horizon SWE-Agents**|Shukai Liu et.al.|[2512.22087](http://arxiv.org/abs/2512.22087)|null|
+|**2025-12-26**|**Agent-based simulation of online social networks and disinformation**|Alejandro Buitrago López et.al.|[2512.22082](http://arxiv.org/abs/2512.22082)|null|
+|**2025-12-26**|**Lax pairs for BKM hierarchy**|Andrey Yu. Konyaev et.al.|[2512.22064](http://arxiv.org/abs/2512.22064)|null|
+|**2025-12-26**|**Enhanced Distributed Variational Quantum Eigensolver for Large-Scale MaxCut Problem**|Yuefeng Lin et.al.|[2512.22056](http://arxiv.org/abs/2512.22056)|null|
 |**2025-12-24**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
 |**2025-12-24**|**Autonomous Uncertainty Quantification for Computational Point-of-care Sensors**|Artem Goncharov et.al.|[2512.21335](http://arxiv.org/abs/2512.21335)|null|
 |**2025-12-24**|**C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling**|Jin Qin et.al.|[2512.21332](http://arxiv.org/abs/2512.21332)|null|
@@ -791,5 +801,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
