@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language**|Muhammad Zain Ali et.al.|[2512.22778](http://arxiv.org/abs/2512.22778)|null|
 |**2025-12-24**|**Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection**|Roopa Bukke et.al.|[2512.21039](http://arxiv.org/abs/2512.21039)|null|
 |**2025-12-19**|**Disentangling Fact from Sentiment: A Dynamic Conflict-Consensus Framework for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2512.20670](http://arxiv.org/abs/2512.20670)|null|
 |**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](http://arxiv.org/abs/2512.20097)|null|
@@ -73,9 +74,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks**|Soham Padia et.al.|[2512.22860](http://arxiv.org/abs/2512.22860)|null|
 |**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
 |**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
-|**2025-12-25**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
+|**2025-12-29**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
 |**2025-11-28**|**On quasi-stationary distributions for stochastic rumor models**|Iddo Ben-Ari et.al.|[2511.23390](http://arxiv.org/abs/2511.23390)|null|
@@ -158,6 +160,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
+|**2025-12-29**|**Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**|Saranesh Prembabu et.al.|[2512.23706](http://arxiv.org/abs/2512.23706)|null|
+|**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
+|**2025-12-29**|**Twisted de Rham theory for string double copy in AdS**|Hiren Kakkad et.al.|[2512.23699](http://arxiv.org/abs/2512.23699)|null|
+|**2025-12-29**|**Galaxy Zoo Evo: 1 million human-annotated images of galaxies**|Mike Walmsley et.al.|[2512.23691](http://arxiv.org/abs/2512.23691)|null|
+|**2025-12-29**|**Rethinking conditioning in polarimetry: a new framework beyond $\ell^2$ -based metrics**|Yuxi Cai et.al.|[2512.23689](http://arxiv.org/abs/2512.23689)|null|
+|**2025-12-29**|**Diamond lift of Hirose--Sato's formula involving the Hoffman basis**|Shin-ichiro Seki et.al.|[2512.23668](http://arxiv.org/abs/2512.23668)|null|
+|**2025-12-29**|**Limits of applicability of holographic dual descriptions to QCD: virtuality and coherence**|Guy F. de Teramond et.al.|[2512.23663](http://arxiv.org/abs/2512.23663)|null|
+|**2025-12-29**|**The 24 Aqr triple system: A closer look at its unique high-eccentricity hierarchical architecture**|Ahmad Abushattal et.al.|[2512.23645](http://arxiv.org/abs/2512.23645)|null|
+|**2025-12-29**|**A Dataset and Benchmark for Consumer Healthcare Question Summarization**|Abhishek Basu et.al.|[2512.23637](http://arxiv.org/abs/2512.23637)|null|
 |**2025-12-26**|**Radio Supernovae**|Esha Kundu et.al.|[2512.22117](http://arxiv.org/abs/2512.22117)|null|
 |**2025-12-26**|**The Lepton-Gluon Portal Beyond Lepto-Gluons**|Linda M. Carpenter et.al.|[2512.22112](http://arxiv.org/abs/2512.22112)|null|
 |**2025-12-26**|**Keffer-like form of the symmetric Heisenberg exchange integral: Contribution to the Landau--Lifshitz--Gilbert equation and spin wave dispersion dependence**|Pavel A. Andreev et.al.|[2512.22108](http://arxiv.org/abs/2512.22108)|null|
