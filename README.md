@@ -1,4 +1,4 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**WISE: Web Information Satire and Fakeness Evaluation**|Gaurab Chhetri et.al.|[2512.24000](http://arxiv.org/abs/2512.24000)|null|
 |**2025-12-28**|**Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language**|Muhammad Zain Ali et.al.|[2512.22778](http://arxiv.org/abs/2512.22778)|null|
 |**2025-12-24**|**Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection**|Roopa Bukke et.al.|[2512.21039](http://arxiv.org/abs/2512.21039)|null|
 |**2025-12-19**|**Disentangling Fact from Sentiment: A Dynamic Conflict-Consensus Framework for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2512.20670](http://arxiv.org/abs/2512.20670)|null|
@@ -76,7 +77,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Rumour
 
@@ -123,7 +124,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -166,12 +167,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073](http://arxiv.org/abs/2512.25073)|null|
+|**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
+|**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[2512.25066](http://arxiv.org/abs/2512.25066)|null|
+|**2025-12-31**|**Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search**|Rohit Dwivedula et.al.|[2512.25065](http://arxiv.org/abs/2512.25065)|null|
+|**2025-12-31**|**Feeling Blue: Constructing a Robust SALT3 UV Template and Constraining its Redshift Dependency**|Qinan Wang et.al.|[2512.25064](http://arxiv.org/abs/2512.25064)|null|
+|**2025-12-31**|**The PDE-ODI principle and cylindrical mean curvature flows**|Richard H. Bamler et.al.|[2512.25050](http://arxiv.org/abs/2512.25050)|null|
+|**2025-12-31**|**Arithmetic with spatiotemporal optical vortex of integer and fractional topological charges**|Hsiao-Chih Huang et.al.|[2512.25049](http://arxiv.org/abs/2512.25049)|null|
+|**2025-12-31**|**Bayesian Elastic Net Regression with Structured Prior Dependence**|Christopher M. Hans et.al.|[2512.25045](http://arxiv.org/abs/2512.25045)|null|
+|**2025-12-31**|**Towards precision cosmology with Voids x CMB correlations (I): Roman-Agora mock catalogs and pipeline validation**|Mar Pérez Sar et.al.|[2512.25040](http://arxiv.org/abs/2512.25040)|null|
+|**2025-12-31**|**Universal polar dual pairs of spherical codes found in $E_8$ and $Λ_{24}$**|S. V. Borodachov et.al.|[2512.25037](http://arxiv.org/abs/2512.25037)|null|
 |**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
 |**2025-12-29**|**Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**|Saranesh Prembabu et.al.|[2512.23706](http://arxiv.org/abs/2512.23706)|null|
 |**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
@@ -813,5 +824,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
