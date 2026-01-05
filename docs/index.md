@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**Quantifying correlations between information overload and fake news during COVID-19 pandemic: a Reddit study with BERT model approach**|Jan Rawa et.al.|[2601.00496](http://arxiv.org/abs/2601.00496)|null|
 |**2025-12-30**|**WISE: Web Information Satire and Fakeness Evaluation**|Gaurab Chhetri et.al.|[2512.24000](http://arxiv.org/abs/2512.24000)|null|
 |**2025-12-28**|**Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language**|Muhammad Zain Ali et.al.|[2512.22778](http://arxiv.org/abs/2512.22778)|null|
 |**2025-12-24**|**Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection**|Roopa Bukke et.al.|[2512.21039](http://arxiv.org/abs/2512.21039)|null|
@@ -161,6 +162,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Color symmetry breaking in a nonlinear optical microcavity**|Luca O. Trinchão et.al.|[2601.00792](http://arxiv.org/abs/2601.00792)|null|
+|**2026-01-02**|**Mind the Gap. Doubling Constant Parametrization of Weighted Problems: TSP, Max-Cut, and More**|Mihail Stoian et.al.|[2601.00768](http://arxiv.org/abs/2601.00768)|null|
+|**2026-01-02**|**Memory Bank Compression for Continual Adaptation of Large Language Models**|Thomas Katraouras et.al.|[2601.00756](http://arxiv.org/abs/2601.00756)|null|
+|**2026-01-02**|**Early-Stage Prediction of Review Effort in AI-Generated Pull Requests**|Dao Sy Duy Minh et.al.|[2601.00753](http://arxiv.org/abs/2601.00753)|null|
+|**2026-01-02**|**Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI**|Turab Lookman et.al.|[2601.00742](http://arxiv.org/abs/2601.00742)|null|
+|**2026-01-02**|**Stochastic Actor-Critic: Mitigating Overestimation via Temporal Aleatoric Uncertainty**|Uğurcan Özalp et.al.|[2601.00737](http://arxiv.org/abs/2601.00737)|null|
+|**2026-01-02**|**Multi-Level Feature Fusion for Continual Learning in Visual Quality Inspection**|Johannes C. Bauer et.al.|[2601.00725](http://arxiv.org/abs/2601.00725)|null|
+|**2026-01-02**|**Gravitational instability in partially ionized plasmas: A two-fluid approach**|A. P. Misra et.al.|[2601.00719](http://arxiv.org/abs/2601.00719)|null|
+|**2026-01-02**|**PDPL Metric: Validating a Scale to Measure Personal Data Privacy Literacy Among University Students**|Brady D. Lund et.al.|[2601.00715](http://arxiv.org/abs/2601.00715)|null|
+|**2026-01-02**|**On the computation of the dyadic Green's functions of Maxwell's equations in layered media**|Heng Yuan et.al.|[2601.00709](http://arxiv.org/abs/2601.00709)|null|
 |**2025-12-31**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073](http://arxiv.org/abs/2512.25073)|null|
 |**2025-12-31**|**Scaling Open-Ended Reasoning to Predict the Future**|Nikhil Chandak et.al.|[2512.25070](http://arxiv.org/abs/2512.25070)|null|
 |**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[2512.25066](http://arxiv.org/abs/2512.25066)|null|
