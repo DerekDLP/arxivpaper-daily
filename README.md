@@ -1,4 +1,4 @@
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -78,12 +78,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
 |**2025-12-28**|**Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks**|Soham Padia et.al.|[2512.22860](http://arxiv.org/abs/2512.22860)|null|
 |**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
 |**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
@@ -125,7 +126,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -136,7 +137,7 @@
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
 |**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
-|**2025-11-08**|**ReMoD: Rethinking Modality Contribution in Multimodal Stance Detection via Dual Reasoning**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
+|**2026-01-05**|**MIND Your Reasoning: A Meta-Cognitive Intuitive-Reflective Network for Dual-Reasoning in Multimodal Stance Detection**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
 |**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
 |**2025-11-04**|**Academics and Generative AI: Empirical and Epistemic Indicators of Policy-Practice Voids**|R. Yamamoto Ravenor et.al.|[2511.02875](http://arxiv.org/abs/2511.02875)|null|
 |**2025-10-28**|**LASTIST: LArge-Scale Target-Independent STance dataset**|DongJae Kim et.al.|[2510.25783](http://arxiv.org/abs/2510.25783)|null|
@@ -168,12 +169,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Protoplanetary disk cavities with JWST-MIRI: a dichotomy in molecular emission**|Patrick Mallaney et.al.|[2601.02344](http://arxiv.org/abs/2601.02344)|null|
+|**2026-01-05**|**Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding**|Jingming He et.al.|[2601.02339](http://arxiv.org/abs/2601.02339)|null|
+|**2026-01-05**|**The Sequential Monte Carlo goes NUTS: Boosting Gravitational-Wave Inference**|Gabriele Demasi et.al.|[2601.02336](http://arxiv.org/abs/2601.02336)|null|
+|**2026-01-05**|**Microscopy system for in situ sea ice structure and biology observations**|Lessard-Hamel Béatrice et.al.|[2601.02328](http://arxiv.org/abs/2601.02328)|null|
+|**2026-01-05**|**Another look at regularity in transport-commutator estimates**|Elias Hess-Childs et.al.|[2601.02326](http://arxiv.org/abs/2601.02326)|null|
+|**2026-01-05**|**Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents**|Sourena Khanzadeh et.al.|[2601.02314](http://arxiv.org/abs/2601.02314)|null|
+|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
+|**2026-01-05**|**Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify**|Shivam Verma et.al.|[2601.02306](http://arxiv.org/abs/2601.02306)|null|
+|**2026-01-05**|**Octopus: A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval**|Wen-Zhi Li et.al.|[2601.02304](http://arxiv.org/abs/2601.02304)|null|
+|**2026-01-05**|**Coupling between thermochemical contributions of subvalence correlation and of higher-order post-CCSD(T) correlation effects -- a step toward `W5 theory'**|Aditya Barman et.al.|[2601.02294](http://arxiv.org/abs/2601.02294)|null|
 |**2026-01-02**|**Color symmetry breaking in a nonlinear optical microcavity**|Luca O. Trinchão et.al.|[2601.00792](http://arxiv.org/abs/2601.00792)|null|
 |**2026-01-02**|**Mind the Gap. Doubling Constant Parametrization of Weighted Problems: TSP, Max-Cut, and More**|Mihail Stoian et.al.|[2601.00768](http://arxiv.org/abs/2601.00768)|null|
 |**2026-01-02**|**Memory Bank Compression for Continual Adaptation of Large Language Models**|Thomas Katraouras et.al.|[2601.00756](http://arxiv.org/abs/2601.00756)|null|
@@ -835,5 +846,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
