@@ -1,4 +1,4 @@
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Ahead of the Spread: Agent-Driven Virtual Propagation for Early Fake News Detection**|Bincheng Gu et.al.|[2601.02750](http://arxiv.org/abs/2601.02750)|null|
 |**2026-01-01**|**Quantifying correlations between information overload and fake news during COVID-19 pandemic: a Reddit study with BERT model approach**|Jan Rawa et.al.|[2601.00496](http://arxiv.org/abs/2601.00496)|null|
 |**2025-12-30**|**WISE: Web Information Satire and Fakeness Evaluation**|Gaurab Chhetri et.al.|[2512.24000](http://arxiv.org/abs/2512.24000)|null|
 |**2025-12-28**|**Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language**|Muhammad Zain Ali et.al.|[2512.22778](http://arxiv.org/abs/2512.22778)|null|
@@ -78,7 +79,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Rumour
 
@@ -126,7 +127,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -169,12 +170,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Heavy Black-Holes Also Matter in Standard Siren Cosmology**|Grégoire Pierra et.al.|[2601.03257](http://arxiv.org/abs/2601.03257)|null|
+|**2026-01-06**|**On the Capacity Region of Individual Key Rates in Vector Linear Secure Aggregation**|Lei Hu et.al.|[2601.03241](http://arxiv.org/abs/2601.03241)|null|
+|**2026-01-06**|**From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence**|Marc Finzi et.al.|[2601.03220](http://arxiv.org/abs/2601.03220)|null|
+|**2026-01-06**|**oneTwin: Online Digital Network Twin via Neural Radio Radiance Field**|Yuru Zhang et.al.|[2601.03216](http://arxiv.org/abs/2601.03216)|null|
+|**2026-01-06**|**Empowering Reliable Visual-Centric Instruction Following in MLLMs**|Weilei He et.al.|[2601.03198](http://arxiv.org/abs/2601.03198)|null|
+|**2026-01-06**|**Software-Defined Agentic Serving**|Saurabh Agarwal et.al.|[2601.03197](http://arxiv.org/abs/2601.03197)|null|
+|**2026-01-06**|**X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework**|Mohammad Zia Ur Rehman et.al.|[2601.03194](http://arxiv.org/abs/2601.03194)|null|
+|**2026-01-06**|**MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory**|Shengtao Zhang et.al.|[2601.03192](http://arxiv.org/abs/2601.03192)|null|
+|**2026-01-06**|**Deformations of the connected sum of Gorenstein algebras**|Piotr Oszer et.al.|[2601.03179](http://arxiv.org/abs/2601.03179)|null|
+|**2026-01-06**|**Feasibility study of the positronium lifetime imaging with the Biograph Vision Quadra and J-PET tomographs**|Szymon Parzych et.al.|[2601.03172](http://arxiv.org/abs/2601.03172)|null|
 |**2026-01-05**|**Protoplanetary disk cavities with JWST-MIRI: a dichotomy in molecular emission**|Patrick Mallaney et.al.|[2601.02344](http://arxiv.org/abs/2601.02344)|null|
 |**2026-01-05**|**Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding**|Jingming He et.al.|[2601.02339](http://arxiv.org/abs/2601.02339)|null|
 |**2026-01-05**|**The Sequential Monte Carlo goes NUTS: Boosting Gravitational-Wave Inference**|Gabriele Demasi et.al.|[2601.02336](http://arxiv.org/abs/2601.02336)|null|
@@ -846,5 +857,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
