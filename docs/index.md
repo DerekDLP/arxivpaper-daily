@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.07
+## Updated on 2026.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**RADAR: Retrieval-Augmented Detector with Adversarial Refinement for Robust Fake News Detection**|Song-Duo Ma et.al.|[2601.03981](http://arxiv.org/abs/2601.03981)|null|
 |**2026-01-06**|**Ahead of the Spread: Agent-Driven Virtual Propagation for Early Fake News Detection**|Bincheng Gu et.al.|[2601.02750](http://arxiv.org/abs/2601.02750)|null|
 |**2026-01-01**|**Quantifying correlations between information overload and fake news during COVID-19 pandemic: a Reddit study with BERT model approach**|Jan Rawa et.al.|[2601.00496](http://arxiv.org/abs/2601.00496)|null|
 |**2025-12-30**|**WISE: Web Information Satire and Fakeness Evaluation**|Gaurab Chhetri et.al.|[2512.24000](http://arxiv.org/abs/2512.24000)|null|
@@ -164,6 +165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**Landau-Siegel zeros of Rankin-Selberg $L$ -functions**|Jesse Thorner et.al.|[2601.04189](http://arxiv.org/abs/2601.04189)|null|
+|**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
+|**2026-01-07**|**Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback**|Kumar Rahul et.al.|[2601.04184](http://arxiv.org/abs/2601.04184)|null|
+|**2026-01-07**|**Sound Event Detection with Boundary-Aware Optimization and Inference**|Florian Schmid et.al.|[2601.04178](http://arxiv.org/abs/2601.04178)|null|
+|**2026-01-07**|**Legal Alignment for Safe and Ethical AI**|Noam Kolt et.al.|[2601.04175](http://arxiv.org/abs/2601.04175)|null|
+|**2026-01-07**|**Stochastic Path Compression for Spectral Tensor Networks on Cyclic Graphs**|Ryan T. Grimm et.al.|[2601.04172](http://arxiv.org/abs/2601.04172)|null|
+|**2026-01-07**|**A framework for LISA population inference**|Alexandre Toubiana et.al.|[2601.04168](http://arxiv.org/abs/2601.04168)|null|
+|**2026-01-07**|**From Penrose to Melrose: Computing Scattering Amplitudes at Infinity for Unbounded Media**|Anıl Zenginoğlu et.al.|[2601.04167](http://arxiv.org/abs/2601.04167)|null|
+|**2026-01-07**|**2d Conformal Field Theories on Magic Triangle**|Kimyeong Lee et.al.|[2601.04162](http://arxiv.org/abs/2601.04162)|null|
+|**2026-01-07**|**All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection**|Yuechen Jiang et.al.|[2601.04160](http://arxiv.org/abs/2601.04160)|null|
 |**2026-01-06**|**Heavy Black-Holes Also Matter in Standard Siren Cosmology**|Grégoire Pierra et.al.|[2601.03257](http://arxiv.org/abs/2601.03257)|null|
 |**2026-01-06**|**On the Capacity Region of Individual Key Rates in Vector Linear Secure Aggregation**|Lei Hu et.al.|[2601.03241](http://arxiv.org/abs/2601.03241)|null|
 |**2026-01-06**|**From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence**|Marc Finzi et.al.|[2601.03220](http://arxiv.org/abs/2601.03220)|null|
