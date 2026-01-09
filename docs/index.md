@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
+|**2026-01-08**|**MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News**|Zhiwei Liu et.al.|[2601.04857](http://arxiv.org/abs/2601.04857)|null|
+|**2026-01-08**|**MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark**|Anyang Song et.al.|[2601.04633](http://arxiv.org/abs/2601.04633)|null|
 |**2026-01-07**|**RADAR: Retrieval-Augmented Detector with Adversarial Refinement for Robust Fake News Detection**|Song-Duo Ma et.al.|[2601.03981](http://arxiv.org/abs/2601.03981)|null|
 |**2026-01-06**|**Ahead of the Spread: Agent-Driven Virtual Propagation for Early Fake News Detection**|Bincheng Gu et.al.|[2601.02750](http://arxiv.org/abs/2601.02750)|null|
 |**2026-01-01**|**Quantifying correlations between information overload and fake news during COVID-19 pandemic: a Reddit study with BERT model approach**|Jan Rawa et.al.|[2601.00496](http://arxiv.org/abs/2601.00496)|null|
@@ -78,6 +81,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election**|Etienne Casanova et.al.|[2601.04631](http://arxiv.org/abs/2601.04631)|null|
 |**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
 |**2025-12-28**|**Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks**|Soham Padia et.al.|[2512.22860](http://arxiv.org/abs/2512.22860)|null|
 |**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
@@ -124,7 +128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-10**|**Modeling Narrative Archetypes in Conspiratorial Narratives: Insights from Singapore-Based Telegram Groups**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
+|**2026-01-08**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
 |**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
@@ -165,6 +169,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Random Models and Guarded Logic**|Oskar Fiuk et.al.|[2601.05247](http://arxiv.org/abs/2601.05247)|null|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
+|**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[2601.05244](http://arxiv.org/abs/2601.05244)|null|
+|**2026-01-08**|**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**|Shih-Yang Liu et.al.|[2601.05242](http://arxiv.org/abs/2601.05242)|null|
+|**2026-01-08**|**Robust Reasoning as a Symmetry-Protected Topological Phase**|Ilmo Sung et.al.|[2601.05240](http://arxiv.org/abs/2601.05240)|null|
+|**2026-01-08**|**Measuring and Fostering Peace through Machine Learning and Artificial Intelligence**|P. Gilda et.al.|[2601.05232](http://arxiv.org/abs/2601.05232)|null|
+|**2026-01-08**|**Mitigating Simulator Dependence in AI Parameter Inference for the Epoch of Reionization: The Importance of Simulation Diversity**|Jasper Solt et.al.|[2601.05229](http://arxiv.org/abs/2601.05229)|null|
+|**2026-01-08**|**Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data**|James Rice et.al.|[2601.05227](http://arxiv.org/abs/2601.05227)|null|
+|**2026-01-08**|**CAOS: Conformal Aggregation of One-Shot Predictors**|Maja Waldron et.al.|[2601.05219](http://arxiv.org/abs/2601.05219)|null|
+|**2026-01-08**|**FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching**|Danilo Danese et.al.|[2601.05212](http://arxiv.org/abs/2601.05212)|null|
 |**2026-01-07**|**Landau-Siegel zeros of Rankin-Selberg $L$ -functions**|Jesse Thorner et.al.|[2601.04189](http://arxiv.org/abs/2601.04189)|null|
 |**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
 |**2026-01-07**|**Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback**|Kumar Rahul et.al.|[2601.04184](http://arxiv.org/abs/2601.04184)|null|
