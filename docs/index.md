@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -169,6 +169,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Curving Beam Reflections: Model and Experimental Validation**|Caroline Jane Spindel et.al.|[2601.05998](http://arxiv.org/abs/2601.05998)|null|
+|**2026-01-09**|**Increasing The Sensitivity of a Surface Plasmon Resonance Sensor using Ti3C2 Mxene**|Rostyslav Terekhov et.al.|[2601.05997](http://arxiv.org/abs/2601.05997)|null|
+|**2026-01-09**|**Open-Vocabulary 3D Instruction Ambiguity Detection**|Jiayu Ding et.al.|[2601.05991](http://arxiv.org/abs/2601.05991)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](http://arxiv.org/abs/2601.05988)|null|
+|**2026-01-09**|**Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: V. The N2LO extension of the Skyrme EDF**|G. Grams et.al.|[2601.05968](http://arxiv.org/abs/2601.05968)|null|
+|**2026-01-09**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
+|**2026-01-09**|**Game connectivity and adaptive dynamics in many-action games**|Tom Johnston et.al.|[2601.05965](http://arxiv.org/abs/2601.05965)|null|
+|**2026-01-09**|**Application of a profile decomposition theorem to elliptic equations with critical growth**|Diego Ferraz et.al.|[2601.05959](http://arxiv.org/abs/2601.05959)|null|
+|**2026-01-09**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al.|[2601.05955](http://arxiv.org/abs/2601.05955)|null|
+|**2026-01-09**|**Note on edge expansion and modularity in preferential attachment graphs**|Colin McDiarmid et.al.|[2601.05953](http://arxiv.org/abs/2601.05953)|null|
 |**2026-01-08**|**Random Models and Guarded Logic**|Oskar Fiuk et.al.|[2601.05247](http://arxiv.org/abs/2601.05247)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Henghui Ding et.al.|[2601.05244](http://arxiv.org/abs/2601.05244)|null|
