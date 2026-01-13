@@ -1,4 +1,4 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2601.07178](http://arxiv.org/abs/2601.07178)|null|
+|**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
+|**2025-12-31**|**PriceSeer: Evaluating Large Language Models in Real-Time Stock Prediction**|Bohan Liang et.al.|[2601.06088](http://arxiv.org/abs/2601.06088)|null|
 |**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
 |**2026-01-08**|**MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News**|Zhiwei Liu et.al.|[2601.04857](http://arxiv.org/abs/2601.04857)|null|
 |**2026-01-08**|**MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark**|Anyang Song et.al.|[2601.04633](http://arxiv.org/abs/2601.04633)|null|
@@ -83,7 +86,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Rumour
 
@@ -132,13 +135,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-08**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
+|**2026-01-12**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
 |**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
@@ -175,12 +178,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**Axion misalignment as a synchronization phenomenon**|Veronica Sanz et.al.|[2601.07836](http://arxiv.org/abs/2601.07836)|null|
+|**2026-01-12**|**Tuning-free Visual Effect Transfer across Videos**|Maxwell Jones et.al.|[2601.07833](http://arxiv.org/abs/2601.07833)|null|
+|**2026-01-12**|**Cosmoglobe DR2. IV. Modelling starlight in DIRBE with Gaia and WISE**|M. Galloway et.al.|[2601.07831](http://arxiv.org/abs/2601.07831)|null|
+|**2026-01-12**|**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**|Huanyu Li et.al.|[2601.07821](http://arxiv.org/abs/2601.07821)|null|
+|**2026-01-12**|**Counting Square-full Solutions to $x+y=z$**|D. R. Heath-Brown et.al.|[2601.07817](http://arxiv.org/abs/2601.07817)|null|
+|**2026-01-12**|**More Images, More Problems? A Controlled Analysis of VLM Failure Modes**|Anurag Das et.al.|[2601.07812](http://arxiv.org/abs/2601.07812)|null|
+|**2026-01-12**|**Ising Supercriticality and Universal Magnetocalorics in Spiral Antiferromagnet Nd $_3$BWO$_9$**|Xinyang Liu et.al.|[2601.07810](http://arxiv.org/abs/2601.07810)|null|
+|**2026-01-12**|**The Confidence Trap: Gender Bias and Predictive Certainty in LLMs**|Ahmed Sabir et.al.|[2601.07806](http://arxiv.org/abs/2601.07806)|null|
+|**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|Bowen Yang et.al.|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
+|**2026-01-12**|**DT-ICU: Towards Explainable Digital Twins for ICU Patient Monitoring via Multi-Modal and Multi-Task Iterative Inference**|Wen Guo et.al.|[2601.07778](http://arxiv.org/abs/2601.07778)|null|
 |**2026-01-09**|**Curving Beam Reflections: Model and Experimental Validation**|Caroline Jane Spindel et.al.|[2601.05998](http://arxiv.org/abs/2601.05998)|null|
 |**2026-01-09**|**Increasing The Sensitivity of a Surface Plasmon Resonance Sensor using Ti3C2 Mxene**|Rostyslav Terekhov et.al.|[2601.05997](http://arxiv.org/abs/2601.05997)|null|
 |**2026-01-09**|**Open-Vocabulary 3D Instruction Ambiguity Detection**|Jiayu Ding et.al.|[2601.05991](http://arxiv.org/abs/2601.05991)|null|
@@ -892,5 +905,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
