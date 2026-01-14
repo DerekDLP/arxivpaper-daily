@@ -1,4 +1,4 @@
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,7 +86,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Rumour
 
@@ -135,7 +135,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -178,12 +178,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Forbidden second harmonics in centrosymmetric bilayer crystals**|Haoning Tang et.al.|[2601.08830](http://arxiv.org/abs/2601.08830)|null|
+|**2026-01-13**|**Lattice-based equation of state with a critical point from constant entropy contours and its comparison to effective QCD approaches**|Hitansh Shah et.al.|[2601.08823](http://arxiv.org/abs/2601.08823)|null|
+|**2026-01-13**|**The drastic impact of Eddington-limit induced mass ejections on massive star populations**|D. Pauli et.al.|[2601.08822](http://arxiv.org/abs/2601.08822)|null|
+|**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|null|
+|**2026-01-13**|**Unstable synthetic deformations II: Infinitesimal extensions**|William Balderrama et.al.|[2601.08812](http://arxiv.org/abs/2601.08812)|null|
+|**2026-01-13**|**Quantum Heegaard diagrams and knot Floer Homology**|Cristina Ana-Maria Anghel et.al.|[2601.08805](http://arxiv.org/abs/2601.08805)|null|
+|**2026-01-13**|**Attosecond Path Qubits in Strong-Field Physics**|Oren Cohen et.al.|[2601.08793](http://arxiv.org/abs/2601.08793)|null|
+|**2026-01-13**|**Condensation of area quanta ensembles with quantum statistics in Schwarzschild spacetimes**|Ryley McGovern et.al.|[2601.08788](http://arxiv.org/abs/2601.08788)|null|
+|**2026-01-13**|**Fast and explainable clustering in the Manhattan and Tanimoto distance**|Stefan Güttel et.al.|[2601.08781](http://arxiv.org/abs/2601.08781)|null|
+|**2026-01-13**|**Uniqueness for embeddings of nuclear $C^*$-algebras into type II$_{1}$ factors**|Shanshan Hua et.al.|[2601.08779](http://arxiv.org/abs/2601.08779)|null|
 |**2026-01-12**|**Axion misalignment as a synchronization phenomenon**|Veronica Sanz et.al.|[2601.07836](http://arxiv.org/abs/2601.07836)|null|
 |**2026-01-12**|**Tuning-free Visual Effect Transfer across Videos**|Maxwell Jones et.al.|[2601.07833](http://arxiv.org/abs/2601.07833)|null|
 |**2026-01-12**|**Cosmoglobe DR2. IV. Modelling starlight in DIRBE with Gaia and WISE**|M. Galloway et.al.|[2601.07831](http://arxiv.org/abs/2601.07831)|null|
@@ -905,5 +915,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260114>back to top</a>)</p>
 
