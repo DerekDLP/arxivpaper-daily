@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -172,6 +172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Asymptotics of variational eigenvalues for a general nonlocal $p$ -Laplacian with varying horizon**|Guillermo García-Sáez et.al.|[2601.09700](http://arxiv.org/abs/2601.09700)|null|
+|**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
+|**2026-01-14**|**Automating Supply Chain Disruption Monitoring via an Agentic AI Approach**|Sara AlMahri et.al.|[2601.09680](http://arxiv.org/abs/2601.09680)|null|
+|**2026-01-14**|**Bayesian Semi-Blind Deconvolution at Scale**|Guillermina Senn et.al.|[2601.09677](http://arxiv.org/abs/2601.09677)|null|
+|**2026-01-14**|**A probabilistic match classification model for sports tournaments**|László Csató et.al.|[2601.09673](http://arxiv.org/abs/2601.09673)|null|
+|**2026-01-14**|**Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses**|Lucas Caron et.al.|[2601.09672](http://arxiv.org/abs/2601.09672)|null|
+|**2026-01-14**|**Parallaxes, Proper Motions, and Near-Infrared Photometry for 173 L and T Dwarfs From The US Naval Observatory Infrared Astrometry Program**|Frederick J. Vrba et.al.|[2601.09671](http://arxiv.org/abs/2601.09671)|null|
+|**2026-01-14**|**Discovery of a new open cluster as a companion to Czernik 38 cluster and its associated complex tide, using Gaia DR3**|Nasser M. Ahmed et.al.|[2601.09670](http://arxiv.org/abs/2601.09670)|null|
+|**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal et.al.|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
+|**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Selim Emir Can et.al.|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
 |**2026-01-13**|**Forbidden second harmonics in centrosymmetric bilayer crystals**|Haoning Tang et.al.|[2601.08830](http://arxiv.org/abs/2601.08830)|null|
 |**2026-01-13**|**Lattice-based equation of state with a critical point from constant entropy contours and its comparison to effective QCD approaches**|Hitansh Shah et.al.|[2601.08823](http://arxiv.org/abs/2601.08823)|null|
 |**2026-01-13**|**The drastic impact of Eddington-limit induced mass ejections on massive star populations**|D. Pauli et.al.|[2601.08822](http://arxiv.org/abs/2601.08822)|null|
