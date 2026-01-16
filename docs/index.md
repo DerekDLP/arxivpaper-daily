@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -12,7 +12,7 @@ layout: default
 |**2026-01-12**|**DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2601.07178](http://arxiv.org/abs/2601.07178)|null|
 |**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
 |**2025-12-31**|**PriceSeer: Evaluating Large Language Models in Real-Time Stock Prediction**|Bohan Liang et.al.|[2601.06088](http://arxiv.org/abs/2601.06088)|null|
-|**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
+|**2026-01-15**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
 |**2026-01-08**|**MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News**|Zhiwei Liu et.al.|[2601.04857](http://arxiv.org/abs/2601.04857)|null|
 |**2026-01-08**|**MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark**|Anyang Song et.al.|[2601.04633](http://arxiv.org/abs/2601.04633)|null|
 |**2026-01-07**|**RADAR: Retrieval-Augmented Detector with Adversarial Refinement for Robust Fake News Detection**|Song-Duo Ma et.al.|[2601.03981](http://arxiv.org/abs/2601.03981)|null|
@@ -172,6 +172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**High-accuracy and dimension-free sampling with diffusions**|Khashayar Gatmiry et.al.|[2601.10708](http://arxiv.org/abs/2601.10708)|null|
+|**2026-01-15**|**UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees**|Quinten De Man et.al.|[2601.10706](http://arxiv.org/abs/2601.10706)|null|
+|**2026-01-15**|**LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals**|Gilat Toker et.al.|[2601.10700](http://arxiv.org/abs/2601.10700)|null|
+|**2026-01-15**|**Irregular higher-spin generating equations and chiral perturbation theory**|V. E. Didenko et.al.|[2601.10680](http://arxiv.org/abs/2601.10680)|null|
+|**2026-01-15**|**Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**|Zirui Ren et.al.|[2601.10679](http://arxiv.org/abs/2601.10679)|null|
+|**2026-01-15**|**Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement**|Lei Hu et.al.|[2601.10676](http://arxiv.org/abs/2601.10676)|null|
+|**2026-01-15**|**Energy Correlators in Warped Geometries**|Lorenzo Ricci et.al.|[2601.10674](http://arxiv.org/abs/2601.10674)|null|
+|**2026-01-15**|**Michael-Simon inequality for anisotropic energies close to the area via multilinear Kakeya-type bounds**|Guido De Philippis et.al.|[2601.10647](http://arxiv.org/abs/2601.10647)|null|
+|**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
+|**2026-01-15**|**Converse Bounds for Sun-Jafar-type Weak Private Information Retrieval**|Chandan Anand et.al.|[2601.10643](http://arxiv.org/abs/2601.10643)|null|
 |**2026-01-14**|**Asymptotics of variational eigenvalues for a general nonlocal $p$ -Laplacian with varying horizon**|Guillermo García-Sáez et.al.|[2601.09700](http://arxiv.org/abs/2601.09700)|null|
 |**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
 |**2026-01-14**|**Automating Supply Chain Disruption Monitoring via an Agentic AI Approach**|Sara AlMahri et.al.|[2601.09680](http://arxiv.org/abs/2601.09680)|null|
