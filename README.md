@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,12 +86,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-08**|**Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election**|Etienne Casanova et.al.|[2601.04631](http://arxiv.org/abs/2601.04631)|null|
 |**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
 |**2025-12-28**|**Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks**|Soham Padia et.al.|[2512.22860](http://arxiv.org/abs/2512.22860)|null|
@@ -135,12 +136,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
 |**2026-01-12**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
 |**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
@@ -178,12 +180,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Empirical Coordination over Markov Channel with Independent Source**|Mengyuan Zhao et.al.|[2601.11520](http://arxiv.org/abs/2601.11520)|null|
+|**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
+|**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
+|**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
+|**2026-01-16**|**Capacity Constraints Make Admissions Processes Less Predictable**|Evan Dong et.al.|[2601.11513](http://arxiv.org/abs/2601.11513)|null|
+|**2026-01-16**|**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**|Emily Steiner et.al.|[2601.11508](http://arxiv.org/abs/2601.11508)|null|
+|**2026-01-16**|**Industry Influence in High-Profile Social Media Research**|Joseph Bak-Coleman et.al.|[2601.11507](http://arxiv.org/abs/2601.11507)|null|
+|**2026-01-16**|**The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents**|Eilam Shapira et.al.|[2601.11496](http://arxiv.org/abs/2601.11496)|null|
+|**2026-01-16**|**Global $C^{1,α}$ -Regularity for Musielak-Orlicz Equations in Divergence Form**|Hlel Missaoui et.al.|[2601.11495](http://arxiv.org/abs/2601.11495)|null|
+|**2026-01-16**|**Efficient error estimators for Generalized Nyström**|Lorenzo Lazzarino et.al.|[2601.11493](http://arxiv.org/abs/2601.11493)|null|
 |**2026-01-15**|**High-accuracy and dimension-free sampling with diffusions**|Khashayar Gatmiry et.al.|[2601.10708](http://arxiv.org/abs/2601.10708)|null|
 |**2026-01-15**|**UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees**|Quinten De Man et.al.|[2601.10706](http://arxiv.org/abs/2601.10706)|null|
 |**2026-01-15**|**LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals**|Gilat Toker et.al.|[2601.10700](http://arxiv.org/abs/2601.10700)|null|
@@ -935,5 +947,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
