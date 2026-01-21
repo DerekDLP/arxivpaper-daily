@@ -1,4 +1,4 @@
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Towards Token-Level Text Anomaly Detection**|Yang Cao et.al.|[2601.13644](http://arxiv.org/abs/2601.13644)|null|
+|**2026-01-18**|**MemeLens: Multilingual Multitask VLMs for Memes**|Ali Ezzat Shahroor et.al.|[2601.12539](http://arxiv.org/abs/2601.12539)|null|
+|**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
 |**2026-01-12**|**DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2601.07178](http://arxiv.org/abs/2601.07178)|null|
 |**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
 |**2025-12-31**|**PriceSeer: Evaluating Large Language Models in Real-Time Stock Prediction**|Bohan Liang et.al.|[2601.06088](http://arxiv.org/abs/2601.06088)|null|
@@ -86,12 +89,14 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**TRGCN: A Hybrid Framework for Social Network Rumor Detection**|Yanqin Yan et.al.|[2601.13573](http://arxiv.org/abs/2601.13573)|null|
+|**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
 |**2026-01-08**|**Beyond the "Truth": Investigating Election Rumors on Truth Social During the 2024 Election**|Etienne Casanova et.al.|[2601.04631](http://arxiv.org/abs/2601.04631)|null|
 |**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
@@ -136,7 +141,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -180,12 +185,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis**|Hongyuan Chen et.al.|[2601.14253](http://arxiv.org/abs/2601.14253)|null|
+|**2026-01-20**|**OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer**|Pengze Zhang et.al.|[2601.14250](http://arxiv.org/abs/2601.14250)|null|
+|**2026-01-20**|**A Quenched and Relatively Isolated Dwarf Galaxy in the Local Volume**|Tehreem N. Hai et.al.|[2601.14248](http://arxiv.org/abs/2601.14248)|null|
+|**2026-01-20**|**Conformal dimension and its attainment on self-similar Laakso-type fractal spaces**|Riku Anttila et.al.|[2601.14241](http://arxiv.org/abs/2601.14241)|null|
+|**2026-01-20**|**Stabilizer-Assisted Inactivation Decoding of Quantum Error-Correcting Codes with Erasures**|Giulio Pech et.al.|[2601.14236](http://arxiv.org/abs/2601.14236)|null|
+|**2026-01-20**|**Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration**|LSST Dark Energy Science Collaboration et.al.|[2601.14235](http://arxiv.org/abs/2601.14235)|null|
+|**2026-01-20**|**New Topological Restrictions For Spaces With Nonnegative Ricci Curvature**|Alessandro Cucinotta et.al.|[2601.14231](http://arxiv.org/abs/2601.14231)|null|
+|**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
+|**2026-01-20**|**Tropical Methods for Counting Plane Curves -- Complex, Real and Quadratically Enriched**|Andrés Jaramillo Puentes et.al.|[2601.14216](http://arxiv.org/abs/2601.14216)|null|
+|**2026-01-20**|**Rare species advantage in Antarctic Lakes**|Emily Reynebeau et.al.|[2601.14213](http://arxiv.org/abs/2601.14213)|null|
 |**2026-01-16**|**Empirical Coordination over Markov Channel with Independent Source**|Mengyuan Zhao et.al.|[2601.11520](http://arxiv.org/abs/2601.11520)|null|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](http://arxiv.org/abs/2601.11517)|null|
 |**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
@@ -947,5 +962,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
