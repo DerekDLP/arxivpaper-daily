@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection**|Guoxuan Ding et.al.|[2601.15820](http://arxiv.org/abs/2601.15820)|null|
+|**2026-01-16**|**The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**|Wei Ai et.al.|[2601.15316](http://arxiv.org/abs/2601.15316)|null|
+|**2026-01-21**|**Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks**|Sahar Tahmasebi et.al.|[2601.15277](http://arxiv.org/abs/2601.15277)|null|
 |**2026-01-20**|**Towards Token-Level Text Anomaly Detection**|Yang Cao et.al.|[2601.13644](http://arxiv.org/abs/2601.13644)|null|
 |**2026-01-18**|**MemeLens: Multilingual Multitask VLMs for Memes**|Ali Ezzat Shahroor et.al.|[2601.12539](http://arxiv.org/abs/2601.12539)|null|
 |**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
@@ -87,6 +90,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features**|Han Li et.al.|[2601.14954](http://arxiv.org/abs/2601.14954)|null|
 |**2026-01-20**|**TRGCN: A Hybrid Framework for Social Network Rumor Detection**|Yanqin Yan et.al.|[2601.13573](http://arxiv.org/abs/2601.13573)|null|
 |**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
 |**2026-01-15**|**Exact and Approximate Constants of Motion in Stochastic Contact Processes**|Damián H. Zanette et.al.|[2601.10776](http://arxiv.org/abs/2601.10776)|null|
@@ -179,6 +183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders**|Shengbang Tong et.al.|[2601.16208](http://arxiv.org/abs/2601.16208)|null|
+|**2026-01-22**|**LLM-in-Sandbox Elicits General Agentic Intelligence**|Daixuan Cheng et.al.|[2601.16206](http://arxiv.org/abs/2601.16206)|null|
+|**2026-01-22**|**Ergodic averages for commutative transformations along return times**|Sebastián Donoso et.al.|[2601.16188](http://arxiv.org/abs/2601.16188)|null|
+|**2026-01-22**|**Average Unfairness in Routing Games**|Pan-Yang Su et.al.|[2601.16187](http://arxiv.org/abs/2601.16187)|null|
+|**2026-01-22**|**Engineering polarization: How contradictory stimulation systematically undermines political moderation**|Renato Vieira dos Santos et.al.|[2601.16181](http://arxiv.org/abs/2601.16181)|null|
+|**2026-01-22**|**A general spectral solver for the axisymmetric Jeans equations: fast galaxy modelling with arbitrary anisotropy**|Michele Cappellari et.al.|[2601.16179](http://arxiv.org/abs/2601.16179)|null|
+|**2026-01-22**|**Learning to Discover at Test Time**|Mert Yuksekgonul et.al.|[2601.16175](http://arxiv.org/abs/2601.16175)|null|
+|**2026-01-22**|**The FarView Low Frequency Radio Array on the Moon's Far Side: Science and Array Architecture**|Jack O. Burns et.al.|[2601.16170](http://arxiv.org/abs/2601.16170)|null|
+|**2026-01-22**|**\textit{Ab initio} Gamow density matrix renormalization group for broad nuclear many-body resonances**|A. Sehovic et.al.|[2601.16168](http://arxiv.org/abs/2601.16168)|null|
 |**2026-01-20**|**Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis**|Hongyuan Chen et.al.|[2601.14253](http://arxiv.org/abs/2601.14253)|null|
 |**2026-01-20**|**OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer**|Pengze Zhang et.al.|[2601.14250](http://arxiv.org/abs/2601.14250)|null|
 |**2026-01-20**|**A Quenched and Relatively Isolated Dwarf Galaxy in the Local Volume**|Tehreem N. Hai et.al.|[2601.14248](http://arxiv.org/abs/2601.14248)|null|
