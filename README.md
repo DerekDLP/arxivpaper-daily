@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -92,7 +92,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## Rumour
 
@@ -145,7 +145,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -190,12 +190,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Area-minimizing capillary cones**|Benjy Firester et.al.|[2601.18794](http://arxiv.org/abs/2601.18794)|null|
+|**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
+|**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
+|**2026-01-26**|**Learning to Discover: A Generalized Framework for Raga Identification without Forgetting**|Parampreet Singh et.al.|[2601.18766](http://arxiv.org/abs/2601.18766)|null|
+|**2026-01-26**|**Multi-Stage Structured Estimators for Information Freshness**|Sahan Liyanaarachchi et.al.|[2601.18763](http://arxiv.org/abs/2601.18763)|null|
+|**2026-01-26**|**UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing**|Junling Wang et.al.|[2601.18759](http://arxiv.org/abs/2601.18759)|null|
+|**2026-01-26**|**Divergence-free and mass-conservative virtual element methods for the Navier-Stokes-Cahn-Hilliard system**|Alberth Silgado et.al.|[2601.18758](http://arxiv.org/abs/2601.18758)|null|
+|**2026-01-26**|**Efficient Trotter-Suzuki Schemes for Long-time Quantum Dynamics**|Marko Maležič et.al.|[2601.18756](http://arxiv.org/abs/2601.18756)|null|
+|**2026-01-26**|**Subdividing simplicial virtual resolutions with homology**|Eric Nathan Stucky et.al.|[2601.18755](http://arxiv.org/abs/2601.18755)|null|
+|**2026-01-26**|**Capturing P: On the Expressive Power and Efficient Evaluation of Boolean Retrieval**|Amir Aavani et.al.|[2601.18747](http://arxiv.org/abs/2601.18747)|null|
 |**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
 |**2026-01-23**|**Tunable Edelstein effect in intrinsic two-dimensional ferroelectric metal PtBi $_{2}$**|Weiyi Pan et.al.|[2601.16980](http://arxiv.org/abs/2601.16980)|null|
 |**2026-01-23**|**Auto-Regressive Masked Diffusion Models**|Mahdi Karami et.al.|[2601.16971](http://arxiv.org/abs/2601.16971)|null|
@@ -987,5 +997,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
 

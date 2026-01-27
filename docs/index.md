@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -184,6 +184,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Area-minimizing capillary cones**|Benjy Firester et.al.|[2601.18794](http://arxiv.org/abs/2601.18794)|null|
+|**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
+|**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
+|**2026-01-26**|**Learning to Discover: A Generalized Framework for Raga Identification without Forgetting**|Parampreet Singh et.al.|[2601.18766](http://arxiv.org/abs/2601.18766)|null|
+|**2026-01-26**|**Multi-Stage Structured Estimators for Information Freshness**|Sahan Liyanaarachchi et.al.|[2601.18763](http://arxiv.org/abs/2601.18763)|null|
+|**2026-01-26**|**UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing**|Junling Wang et.al.|[2601.18759](http://arxiv.org/abs/2601.18759)|null|
+|**2026-01-26**|**Divergence-free and mass-conservative virtual element methods for the Navier-Stokes-Cahn-Hilliard system**|Alberth Silgado et.al.|[2601.18758](http://arxiv.org/abs/2601.18758)|null|
+|**2026-01-26**|**Efficient Trotter-Suzuki Schemes for Long-time Quantum Dynamics**|Marko Maležič et.al.|[2601.18756](http://arxiv.org/abs/2601.18756)|null|
+|**2026-01-26**|**Subdividing simplicial virtual resolutions with homology**|Eric Nathan Stucky et.al.|[2601.18755](http://arxiv.org/abs/2601.18755)|null|
+|**2026-01-26**|**Capturing P: On the Expressive Power and Efficient Evaluation of Boolean Retrieval**|Amir Aavani et.al.|[2601.18747](http://arxiv.org/abs/2601.18747)|null|
 |**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
 |**2026-01-23**|**Tunable Edelstein effect in intrinsic two-dimensional ferroelectric metal PtBi $_{2}$**|Weiyi Pan et.al.|[2601.16980](http://arxiv.org/abs/2601.16980)|null|
 |**2026-01-23**|**Auto-Regressive Masked Diffusion Models**|Mahdi Karami et.al.|[2601.16971](http://arxiv.org/abs/2601.16971)|null|
