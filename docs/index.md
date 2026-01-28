@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -141,6 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
 |**2026-01-22**|**A Longitudinal, Multinational, and Multilingual Corpus of News Coverage of the Russo-Ukrainian War**|Dikshya Mohanty et.al.|[2601.16309](http://arxiv.org/abs/2601.16309)|null|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
 |**2026-01-12**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
@@ -184,6 +185,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
+|**2026-01-27**|**M-SGWR: Multiscale Similarity and Geographically Weighted Regression**|M. Naser Lessani et.al.|[2601.19888](http://arxiv.org/abs/2601.19888)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability**|Marco Bornstein et.al.|[2601.19886](http://arxiv.org/abs/2601.19886)|null|
+|**2026-01-27**|**A Comprehensive Effective Field Theory Framework for Coherent Elastic Neutrino-Nucleus Scattering**|Gang Li et.al.|[2601.19883](http://arxiv.org/abs/2601.19883)|null|
+|**2026-01-27**|**Large point-line matchings and small Nikodym sets**|Zach Hunter et.al.|[2601.19879](http://arxiv.org/abs/2601.19879)|null|
+|**2026-01-27**|**A Cool Earth-sized Planet Candidate Transiting a Tenth Magnitude K-dwarf From K2**|Alexander Venner et.al.|[2601.19870](http://arxiv.org/abs/2601.19870)|null|
+|**2026-01-27**|**Modeling Two-Scale Rank Distributions via Redistribution Dynamics or an Analytic Derivation of the Beta Rank Function**|Oscar Fontanelli et.al.|[2601.19859](http://arxiv.org/abs/2601.19859)|null|
+|**2026-01-27**|**Melvin--Bonnor and Bertotti--Robinson spacetimes with Baryonic charge**|José Barrientos et.al.|[2601.19858](http://arxiv.org/abs/2601.19858)|null|
+|**2026-01-27**|**Graphical X Splatting (GraphiXS): A Graphical Model for 4D Gaussian Splatting under Uncertainty**|Doga Yilmaz et.al.|[2601.19843](http://arxiv.org/abs/2601.19843)|null|
 |**2026-01-26**|**Area-minimizing capillary cones**|Benjy Firester et.al.|[2601.18794](http://arxiv.org/abs/2601.18794)|null|
 |**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
 |**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
