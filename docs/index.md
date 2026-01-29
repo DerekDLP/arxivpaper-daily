@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -141,7 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
+|**2026-01-28**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
 |**2026-01-22**|**A Longitudinal, Multinational, and Multilingual Corpus of News Coverage of the Russo-Ukrainian War**|Dikshya Mohanty et.al.|[2601.16309](http://arxiv.org/abs/2601.16309)|null|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
 |**2026-01-12**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
@@ -185,6 +185,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Molecular Gas Detections in Eight Faint DSFGs with Red NIR Colors at z = 1.2-2.5**|Michael J. Nicandro Rosenthal et.al.|[2601.20862](http://arxiv.org/abs/2601.20862)|null|
+|**2026-01-28**|**C3Box: A CLIP-based Class-Incremental Learning Toolbox**|Hao Sun et.al.|[2601.20852](http://arxiv.org/abs/2601.20852)|null|
+|**2026-01-28**|**Field induced superconductivity in a magnetically doped two-dimensional crystal**|Adrian Llanos et.al.|[2601.20850](http://arxiv.org/abs/2601.20850)|null|
+|**2026-01-28**|**Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation**|Weixin Chen et.al.|[2601.20848](http://arxiv.org/abs/2601.20848)|null|
+|**2026-01-28**|**A New Dataset and Framework for Robust Road Surface Classification via Camera-IMU Fusion**|Willams de Lima Costa et.al.|[2601.20847](http://arxiv.org/abs/2601.20847)|null|
+|**2026-01-28**|**Encounters Between M33 and Present-Day M31 Satellites Hint at a Previous Group Accretion**|Ekta Patel et.al.|[2601.20837](http://arxiv.org/abs/2601.20837)|null|
+|**2026-01-28**|**Linear representations in language models can change dramatically over a conversation**|Andrew Kyle Lampinen et.al.|[2601.20834](http://arxiv.org/abs/2601.20834)|null|
+|**2026-01-28**|**New Solutions to the $G_2$ Hull-Strominger System via torus fibrations over $K3$ orbifolds**|Anna Fino et.al.|[2601.20813](http://arxiv.org/abs/2601.20813)|null|
+|**2026-01-28**|**Joint estimation of the basic reproduction number and serial interval using Sequential Bayes**|Tatiana Krikella et.al.|[2601.20809](http://arxiv.org/abs/2601.20809)|null|
+|**2026-01-28**|**Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning in Few-Shot Relation Extraction**|Aunabil Chakma et.al.|[2601.20803](http://arxiv.org/abs/2601.20803)|null|
 |**2026-01-27**|**Self-Distillation Enables Continual Learning**|Idan Shenfeld et.al.|[2601.19897](http://arxiv.org/abs/2601.19897)|null|
 |**2026-01-27**|**M-SGWR: Multiscale Similarity and Geographically Weighted Regression**|M. Naser Lessani et.al.|[2601.19888](http://arxiv.org/abs/2601.19888)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
