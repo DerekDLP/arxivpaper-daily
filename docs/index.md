@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -98,7 +98,7 @@ layout: default
 |**2026-01-04**|**Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**|Jinwei Hu et.al.|[2601.01685](http://arxiv.org/abs/2601.01685)|null|
 |**2025-12-28**|**Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks**|Soham Padia et.al.|[2512.22860](http://arxiv.org/abs/2512.22860)|null|
 |**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](http://arxiv.org/abs/2512.20657)|null|
-|**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
+|**2026-01-29**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
 |**2025-12-29**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
 |**2025-12-15**|**Verifying Rumors via Stance-Aware Structural Modeling**|Gibson Nkhata et.al.|[2512.13559](http://arxiv.org/abs/2512.13559)|null|
 |**2025-12-12**|**Optimal dismantling of directed networks**|Xueming Liu et.al.|[2512.11416](http://arxiv.org/abs/2512.11416)|null|
@@ -141,6 +141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675](http://arxiv.org/abs/2601.21675)|null|
+|**2026-01-29**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
 |**2026-01-28**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
 |**2026-01-22**|**A Longitudinal, Multinational, and Multilingual Corpus of News Coverage of the Russo-Ukrainian War**|Dikshya Mohanty et.al.|[2601.16309](http://arxiv.org/abs/2601.16309)|null|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
@@ -185,6 +187,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Cobordism and Concordance of Surfaces in 4-Manifolds**|Simeon Hellsten et.al.|[2601.22152](http://arxiv.org/abs/2601.22152)|null|
+|**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|null|
+|**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|null|
+|**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
+|**2026-01-29**|**Putting Pressure Under Pressure: On the Status of Classical Pressure in Special Relativity**|Eugene Y. S. Chua et.al.|[2601.22133](http://arxiv.org/abs/2601.22133)|null|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
+|**2026-01-29**|**An Invitation to Higher-Order Riemannian Optimization: Optimal and Implementable Methods**|David Huckleberry Gutman et.al.|[2601.22126](http://arxiv.org/abs/2601.22126)|null|
+|**2026-01-29**|**Creative Image Generation with Diffusion Model**|Kunpeng Song et.al.|[2601.22125](http://arxiv.org/abs/2601.22125)|null|
+|**2026-01-29**|**A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine**|Anran Li et.al.|[2601.22124](http://arxiv.org/abs/2601.22124)|null|
+|**2026-01-29**|**The algebraic and geometric classification of derived Jordan and bicommutative algebras**|Hani Abdelwahab et.al.|[2601.22110](http://arxiv.org/abs/2601.22110)|null|
 |**2026-01-28**|**Molecular Gas Detections in Eight Faint DSFGs with Red NIR Colors at z = 1.2-2.5**|Michael J. Nicandro Rosenthal et.al.|[2601.20862](http://arxiv.org/abs/2601.20862)|null|
 |**2026-01-28**|**C3Box: A CLIP-based Class-Incremental Learning Toolbox**|Hao Sun et.al.|[2601.20852](http://arxiv.org/abs/2601.20852)|null|
 |**2026-01-28**|**Field induced superconductivity in a magnetically doped two-dimensional crystal**|Adrian Llanos et.al.|[2601.20850](http://arxiv.org/abs/2601.20850)|null|
