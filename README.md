@@ -1,4 +1,4 @@
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
 |**2026-01-30**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
 |**2026-01-22**|**ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection**|Guoxuan Ding et.al.|[2601.15820](http://arxiv.org/abs/2601.15820)|null|
 |**2026-01-16**|**The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**|Wei Ai et.al.|[2601.15316](http://arxiv.org/abs/2601.15316)|null|
@@ -93,7 +94,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## Rumour
 
@@ -146,7 +147,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -154,7 +155,7 @@
 |---|---|---|---|---|
 |**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675](http://arxiv.org/abs/2601.21675)|null|
 |**2026-01-29**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
-|**2026-01-28**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
+|**2026-01-31**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
 |**2026-01-22**|**A Longitudinal, Multinational, and Multilingual Corpus of News Coverage of the Russo-Ukrainian War**|Dikshya Mohanty et.al.|[2601.16309](http://arxiv.org/abs/2601.16309)|null|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
 |**2026-01-12**|**Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse**|Soorya Ram Shimgekar et.al.|[2512.10105](http://arxiv.org/abs/2512.10105)|null|
@@ -194,12 +195,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**New explanations and inference for least angle regression**|Karl B. Gregory et.al.|[2602.02491](http://arxiv.org/abs/2602.02491)|null|
+|**2026-02-02**|**Secure Multi-User Linearly-Separable Distributed Computing**|Amir Masoud Jafarpisheh et.al.|[2602.02489](http://arxiv.org/abs/2602.02489)|null|
+|**2026-02-02**|**The FLAMINGO Project: Exploring the X-ray--cosmic-shear cross-correlation as a probe of large-scale structure**|William McDonald et.al.|[2602.02484](http://arxiv.org/abs/2602.02484)|null|
+|**2026-02-02**|**Motivation, Attention, and Visual Platform Design: How Moral Contagions Spread on TikTok and Instagram in the 2024 United States Presidential Election**|Ni Annie Yuan et.al.|[2602.02479](http://arxiv.org/abs/2602.02479)|null|
+|**2026-02-02**|**MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**|Haozhen Zhang et.al.|[2602.02474](http://arxiv.org/abs/2602.02474)|null|
+|**2026-02-02**|**Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts**|Aiden Yiliu Li et.al.|[2602.02468](http://arxiv.org/abs/2602.02468)|null|
+|**2026-02-02**|**Painting a Family Portrait of the Yellow Super- and Hypergiants in the Milky Way I. Constraining the Distances and Luminosities**|A. Kasikov et.al.|[2602.02449](http://arxiv.org/abs/2602.02449)|null|
+|**2026-02-02**|**Supports of Castelnuovo-Mumford polynomials**|Elena S. Hafner et.al.|[2602.02448](http://arxiv.org/abs/2602.02448)|null|
+|**2026-02-02**|**Deciding Reachability and the Covering Problem with Diagnostics for Sound Acyclic Free-Choice Workflow Nets**|Thomas M. Prinz et.al.|[2602.02447](http://arxiv.org/abs/2602.02447)|null|
+|**2026-02-02**|**Wilson loops with neural networks**|Verena Bellscheidt et.al.|[2602.02436](http://arxiv.org/abs/2602.02436)|null|
 |**2026-01-30**|**Analytical topological invariants for 2D non-Hermitian phases using Morse theory**|Cameron Gibson et.al.|[2601.23272](http://arxiv.org/abs/2601.23272)|null|
 |**2026-01-30**|**Rank Reduction AutoEncoders for Mechanical Design: Advancing Novel and Efficient Data-Driven Topology Optimization**|Ismael Ben-Yelun et.al.|[2601.23269](http://arxiv.org/abs/2601.23269)|null|
 |**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
@@ -1041,5 +1052,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
