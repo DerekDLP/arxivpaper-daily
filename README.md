@@ -1,4 +1,4 @@
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2026-01-16**|**The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**|Wei Ai et.al.|[2601.15316](http://arxiv.org/abs/2601.15316)|null|
 |**2026-01-21**|**Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks**|Sahar Tahmasebi et.al.|[2601.15277](http://arxiv.org/abs/2601.15277)|null|
 |**2026-01-20**|**Towards Token-Level Text Anomaly Detection**|Yang Cao et.al.|[2601.13644](http://arxiv.org/abs/2601.13644)|null|
-|**2026-01-18**|**MemeLens: Multilingual Multitask VLMs for Memes**|Ali Ezzat Shahroor et.al.|[2601.12539](http://arxiv.org/abs/2601.12539)|null|
+|**2026-02-03**|**MemeLens: Multilingual Multitask VLMs for Memes**|Ali Ezzat Shahroor et.al.|[2601.12539](http://arxiv.org/abs/2601.12539)|null|
 |**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
 |**2026-01-12**|**DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection**|Weilin Zhou et.al.|[2601.07178](http://arxiv.org/abs/2601.07178)|null|
 |**2026-01-10**|**Detecting LLM-Generated Text with Performance Guarantees**|Hongyi Zhou et.al.|[2601.06586](http://arxiv.org/abs/2601.06586)|null|
@@ -94,7 +94,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Rumour
 
@@ -147,7 +147,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -195,12 +195,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning**|Romain Cosentino et.al.|[2602.03846](http://arxiv.org/abs/2602.03846)|null|
+|**2026-02-03**|**Cosmological Correlator Discontinuities from Scattering Amplitudes**|Chandramouli Chowdhury et.al.|[2602.03841](http://arxiv.org/abs/2602.03841)|null|
+|**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
+|**2026-02-03**|**Observers, $α$ -parameters, and the Hartle-Hawking state**|Daniel Harlow et.al.|[2602.03835](http://arxiv.org/abs/2602.03835)|null|
+|**2026-02-03**|**Preference-based Conditional Treatment Effects and Policy Learning**|Dovid Parnas et.al.|[2602.03823](http://arxiv.org/abs/2602.03823)|null|
+|**2026-02-03**|**Vacancy defects in square-triangle tilings and their implications for quasicrystals formed by square-shoulder particles**|Alptuğ Ulugöl et.al.|[2602.03813](http://arxiv.org/abs/2602.03813)|null|
+|**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[2602.03808](http://arxiv.org/abs/2602.03808)|null|
+|**2026-02-03**|**Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation**|Ziru Chen et.al.|[2602.03806](http://arxiv.org/abs/2602.03806)|null|
+|**2026-02-03**|**Manifold Random Features**|Ananya Parashar et.al.|[2602.03797](http://arxiv.org/abs/2602.03797)|null|
+|**2026-02-03**|**Context Compression via Explicit Information Transmission**|Jiangnan Ye et.al.|[2602.03784](http://arxiv.org/abs/2602.03784)|null|
 |**2026-02-02**|**New explanations and inference for least angle regression**|Karl B. Gregory et.al.|[2602.02491](http://arxiv.org/abs/2602.02491)|null|
 |**2026-02-02**|**Secure Multi-User Linearly-Separable Distributed Computing**|Amir Masoud Jafarpisheh et.al.|[2602.02489](http://arxiv.org/abs/2602.02489)|null|
 |**2026-02-02**|**The FLAMINGO Project: Exploring the X-ray--cosmic-shear cross-correlation as a probe of large-scale structure**|William McDonald et.al.|[2602.02484](http://arxiv.org/abs/2602.02484)|null|
@@ -1052,5 +1062,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
