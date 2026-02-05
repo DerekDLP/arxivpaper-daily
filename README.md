@@ -1,4 +1,4 @@
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
 |**2026-01-30**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
 |**2026-01-22**|**ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection**|Guoxuan Ding et.al.|[2601.15820](http://arxiv.org/abs/2601.15820)|null|
@@ -94,7 +95,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Rumour
 
@@ -147,12 +148,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Exploiting contextual information to improve stance detection in informal political discourse with LLMs**|Arman Engin Sucu et.al.|[2602.04750](http://arxiv.org/abs/2602.04750)|null|
 |**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675](http://arxiv.org/abs/2601.21675)|null|
 |**2026-01-29**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
 |**2026-01-31**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
@@ -195,12 +197,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures**|Ryan Liu et.al.|[2602.04861](http://arxiv.org/abs/2602.04861)|null|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
+|**2026-02-04**|**The finite Hilbert transform acting on $L^\infty$**|Guillermo P. Curbera et.al.|[2602.04844](http://arxiv.org/abs/2602.04844)|null|
+|**2026-02-04**|**The EXoplanet Climate Infrared TElescope (EXCITE): A balloon-borne mission to measure spectroscopic phase curves of transiting hot Jupiters**|Timothy D. Rehm et.al.|[2602.04840](http://arxiv.org/abs/2602.04840)|null|
+|**2026-02-04**|**Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**|Zhaotian Weng et.al.|[2602.04837](http://arxiv.org/abs/2602.04837)|null|
+|**2026-02-04**|**Opinion dynamics under electoral shocks in competitive campaigns**|Jaime L. C. da C. Filho et.al.|[2602.04829](http://arxiv.org/abs/2602.04829)|null|
+|**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[2602.04819](http://arxiv.org/abs/2602.04819)|null|
+|**2026-02-04**|**Robust Generalizable Heterogeneous Legal Link Prediction**|Lorenz Wendlinger et.al.|[2602.04812](http://arxiv.org/abs/2602.04812)|null|
+|**2026-02-04**|**SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization**|Jiarui Yuan et.al.|[2602.04811](http://arxiv.org/abs/2602.04811)|null|
 |**2026-02-03**|**PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning**|Romain Cosentino et.al.|[2602.03846](http://arxiv.org/abs/2602.03846)|null|
 |**2026-02-03**|**Cosmological Correlator Discontinuities from Scattering Amplitudes**|Chandramouli Chowdhury et.al.|[2602.03841](http://arxiv.org/abs/2602.03841)|null|
 |**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
@@ -1062,5 +1074,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
