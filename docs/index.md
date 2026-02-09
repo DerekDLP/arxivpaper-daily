@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -146,7 +146,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-04**|**Exploiting contextual information to improve stance detection in informal political discourse with LLMs**|Arman Engin Sucu et.al.|[2602.04750](http://arxiv.org/abs/2602.04750)|null|
 |**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675](http://arxiv.org/abs/2601.21675)|null|
-|**2026-01-29**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
+|**2026-02-06**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
 |**2026-01-31**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802](http://arxiv.org/abs/2601.19802)|null|
 |**2026-01-22**|**A Longitudinal, Multinational, and Multilingual Corpus of News Coverage of the Russo-Ukrainian War**|Dikshya Mohanty et.al.|[2601.16309](http://arxiv.org/abs/2601.16309)|null|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](http://arxiv.org/abs/2601.11293)|null|
@@ -191,6 +191,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Hard thermal contributions to phase transition observables at NNLO**|Fabio Bernardo et.al.|[2602.06962](http://arxiv.org/abs/2602.06962)|null|
+|**2026-02-06**|**Distributed Knowledge in Simplicial Models**|Éric Goubault et.al.|[2602.06945](http://arxiv.org/abs/2602.06945)|null|
+|**2026-02-06**|**Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics**|Zuyuan Zhang et.al.|[2602.06939](http://arxiv.org/abs/2602.06939)|null|
+|**2026-02-06**|**When RL Meets Adaptive Speculative Training: A Unified Training-Serving System**|Junxiong Wang et.al.|[2602.06932](http://arxiv.org/abs/2602.06932)|null|
+|**2026-02-06**|**Continuous-time reinforcement learning: ellipticity enables model-free value function approximation**|Wenlong Mou et.al.|[2602.06930](http://arxiv.org/abs/2602.06930)|null|
+|**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
+|**2026-02-06**|**Optical spectral characterization of OP 313. Constraining the contribution of thermal and non-thermal optical emission**|J. Otero-Santos et.al.|[2602.06919](http://arxiv.org/abs/2602.06919)|null|
+|**2026-02-06**|**Automatic Detection and Analysis of Singing Mistakes for Music Pedagogy**|Sumit Kumar et.al.|[2602.06917](http://arxiv.org/abs/2602.06917)|null|
+|**2026-02-06**|**Directing Space: Rehearsing Architecture as Performer with Explainable AI**|Pavlos Panagiotidis et.al.|[2602.06915](http://arxiv.org/abs/2602.06915)|null|
+|**2026-02-06**|**New Rotating Black Holes in String Theory**|Watse Sybesma et.al.|[2602.06905](http://arxiv.org/abs/2602.06905)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
 |**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
