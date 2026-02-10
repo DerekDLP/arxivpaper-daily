@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -93,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Large language models for spreading dynamics in complex systems**|Shuyu Jiang et.al.|[2602.08085](http://arxiv.org/abs/2602.08085)|null|
 |**2026-01-21**|**Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features**|Han Li et.al.|[2601.14954](http://arxiv.org/abs/2601.14954)|null|
 |**2026-01-20**|**TRGCN: A Hybrid Framework for Social Network Rumor Detection**|Yanqin Yan et.al.|[2601.13573](http://arxiv.org/abs/2601.13573)|null|
 |**2026-01-17**|**Nip Rumors in the Bud: Retrieval-Guided Topic-Level Adaptation for Test-Time Fake News Video Detection**|Jian Lang et.al.|[2601.11981](http://arxiv.org/abs/2601.11981)|null|
@@ -191,6 +192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**ARO: A New Lens On Matrix Optimization For Large Models**|Wenbo Gong et.al.|[2602.09006](http://arxiv.org/abs/2602.09006)|null|
+|**2026-02-09**|**Data Science and Technology Towards AGI Part I: Tiered Data Management**|Yudong Wang et.al.|[2602.09003](http://arxiv.org/abs/2602.09003)|null|
+|**2026-02-09**|**iGRPO: Self-Feedback-Driven LLM Reasoning**|Ali Hatamizadeh et.al.|[2602.09000](http://arxiv.org/abs/2602.09000)|null|
+|**2026-02-09**|**Cascaded Optomechanical Sensing for Small Signals**|Marta Maria Marchese et.al.|[2602.08981](http://arxiv.org/abs/2602.08981)|null|
+|**2026-02-09**|**Lightweight Call Signaling and Peer-to-Peer Control of WebRTC Video Conferencing**|Kundan Singh et.al.|[2602.08975](http://arxiv.org/abs/2602.08975)|null|
+|**2026-02-09**|**MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE**|Ruijie Zhu et.al.|[2602.08961](http://arxiv.org/abs/2602.08961)|null|
+|**2026-02-09**|**Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields**|Weihan Luo et.al.|[2602.08958](http://arxiv.org/abs/2602.08958)|null|
+|**2026-02-09**|**Platform Design, Earnings Transparency and Minimum Wage Policies: Evidence from A Natural Experiment on Lyft**|Rubing Li et.al.|[2602.08955](http://arxiv.org/abs/2602.08955)|null|
+|**2026-02-09**|**Teaching an Old Dynamics New Tricks: Regularization-free Last-iterate Convergence in Zero-sum Games via BNN Dynamics**|Tuo Zhang et.al.|[2602.08938](http://arxiv.org/abs/2602.08938)|null|
 |**2026-02-06**|**Hard thermal contributions to phase transition observables at NNLO**|Fabio Bernardo et.al.|[2602.06962](http://arxiv.org/abs/2602.06962)|null|
 |**2026-02-06**|**Distributed Knowledge in Simplicial Models**|Éric Goubault et.al.|[2602.06945](http://arxiv.org/abs/2602.06945)|null|
 |**2026-02-06**|**Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics**|Zuyuan Zhang et.al.|[2602.06939](http://arxiv.org/abs/2602.06939)|null|
