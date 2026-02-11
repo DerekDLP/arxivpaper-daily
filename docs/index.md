@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -192,6 +192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Decoupled MPPI-Based Multi-Arm Motion Planning**|Dan Evron et.al.|[2602.10114](http://arxiv.org/abs/2602.10114)|null|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
+|**2026-02-10**|**Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**|S. Raghunathan et.al.|[2602.10107](http://arxiv.org/abs/2602.10107)|null|
+|**2026-02-10**|**Olaf-World: Orienting Latent Actions for Video World Modeling**|Yuxin Jiang et.al.|[2602.10104](http://arxiv.org/abs/2602.10104)|null|
+|**2026-02-10**|**VideoWorld 2: Learning Transferable Knowledge from Real-world Videos**|Zhongwei Ren et.al.|[2602.10102](http://arxiv.org/abs/2602.10102)|null|
+|**2026-02-10**|**Causality in Video Diffusers is Separable from Denoising**|Xingjian Bai et.al.|[2602.10095](http://arxiv.org/abs/2602.10095)|null|
+|**2026-02-10**|**Simplicity of confinement in SU(3) Yang-Mills theory**|Xavier Crean et.al.|[2602.10088](http://arxiv.org/abs/2602.10088)|null|
+|**2026-02-10**|**Theory for enzymatic degradation of semi-crystalline polymer particles**|Michael Schindler et.al.|[2602.10087](http://arxiv.org/abs/2602.10087)|null|
+|**2026-02-10**|**Allocation Proportionality of OWA--Based Committee Scoring Rules**|Daria Boratyn et.al.|[2602.10083](http://arxiv.org/abs/2602.10083)|null|
+|**2026-02-10**|**Can Image Splicing and Copy-Move Forgery Be Detected by the Same Model? Forensim: An Attention-Based State-Space Approach**|Soumyaroop Nandi et.al.|[2602.10079](http://arxiv.org/abs/2602.10079)|null|
 |**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
 |**2026-02-09**|**ARO: A New Lens On Matrix Optimization For Large Models**|Wenbo Gong et.al.|[2602.09006](http://arxiv.org/abs/2602.09006)|null|
 |**2026-02-09**|**Data Science and Technology Towards AGI Part I: Tiered Data Management**|Yudong Wang et.al.|[2602.09003](http://arxiv.org/abs/2602.09003)|null|
