@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-05**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
-|**2026-01-30**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
+|**2026-02-12**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
 |**2026-01-22**|**ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection**|Guoxuan Ding et.al.|[2601.15820](http://arxiv.org/abs/2601.15820)|null|
 |**2026-01-16**|**The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**|Wei Ai et.al.|[2601.15316](http://arxiv.org/abs/2601.15316)|null|
 |**2026-01-21**|**Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks**|Sahar Tahmasebi et.al.|[2601.15277](http://arxiv.org/abs/2601.15277)|null|
@@ -192,6 +192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Reionization Bubbles from Real-Space Cross Correlations of Line Intensity Maps**|Emilie Thélie et.al.|[2602.12277](http://arxiv.org/abs/2602.12277)|null|
+|**2026-02-12**|**Creative Ownership in the Age of AI**|Annie Liang et.al.|[2602.12270](http://arxiv.org/abs/2602.12270)|null|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**On the implicit regularization of Langevin dynamics with projected noise**|Govind Menon et.al.|[2602.12257](http://arxiv.org/abs/2602.12257)|null|
+|**2026-02-12**|**Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications**|Manjunath Kudlur et.al.|[2602.12241](http://arxiv.org/abs/2602.12241)|null|
+|**2026-02-12**|**Status of the $S_8$ Tension: A 2026 Review of Probe Discrepancies**|Ioannis Pantos et.al.|[2602.12238](http://arxiv.org/abs/2602.12238)|null|
+|**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[2602.12233](http://arxiv.org/abs/2602.12233)|null|
+|**2026-02-12**|**Extending the Cosmological Collider: New Scaling Regimes and Constraints from BOSS**|Daniel Green et.al.|[2602.12232](http://arxiv.org/abs/2602.12232)|null|
+|**2026-02-12**|**Diffusion Alignment Beyond KL: Variance Minimisation as Effective Policy Optimiser**|Zijing Ou et.al.|[2602.12229](http://arxiv.org/abs/2602.12229)|null|
+|**2026-02-12**|**A resistance invariant of special alternating links**|Michal Jablonowski et.al.|[2602.12226](http://arxiv.org/abs/2602.12226)|null|
 |**2026-02-10**|**Decoupled MPPI-Based Multi-Arm Motion Planning**|Dan Evron et.al.|[2602.10114](http://arxiv.org/abs/2602.10114)|null|
 |**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
 |**2026-02-10**|**Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**|S. Raghunathan et.al.|[2602.10107](http://arxiv.org/abs/2602.10107)|null|
