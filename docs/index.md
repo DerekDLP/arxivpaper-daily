@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -192,6 +192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Albert J. Zhai et.al.|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
+|**2026-02-13**|**Addressing the Hubble tension with Sterile Neutrino Dark Matter**|Debtosh Chowdhury et.al.|[2602.13189](http://arxiv.org/abs/2602.13189)|null|
+|**2026-02-13**|**Diamond-to-graphite transformation under hypersonic impact**|Abhijit Biswas et.al.|[2602.13188](http://arxiv.org/abs/2602.13188)|null|
+|**2026-02-13**|**On the Non-Orientable $3$- and $4$ -Genera of a Knot: Connections and Comparisons**|Julia Knihs et.al.|[2602.13186](http://arxiv.org/abs/2602.13186)|null|
+|**2026-02-13**|**Operator Learning for Families of Finite-State Mean-Field Games**|William Hofgard et.al.|[2602.13169](http://arxiv.org/abs/2602.13169)|null|
+|**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
+|**2026-02-13**|**Human Emotion-Mediated Soft Robotic Arts: Exploring the Intersection of Human Emotions, Soft Robotics and Arts**|Saitarun Nadipineni et.al.|[2602.13163](http://arxiv.org/abs/2602.13163)|null|
+|**2026-02-13**|**New irreducible components of $\mathcal{B}(0,c_2)$ and Computation of the Dimension of its tangent space**|Aislan Fontes et.al.|[2602.13162](http://arxiv.org/abs/2602.13162)|null|
+|**2026-02-13**|**Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments**|Ashwin Satish Menon et.al.|[2602.13159](http://arxiv.org/abs/2602.13159)|null|
+|**2026-02-13**|**A new mixture model for spatiotemporal exceedances with flexible tail dependence**|Ryan Li et.al.|[2602.13158](http://arxiv.org/abs/2602.13158)|null|
 |**2026-02-12**|**Reionization Bubbles from Real-Space Cross Correlations of Line Intensity Maps**|Emilie Thélie et.al.|[2602.12277](http://arxiv.org/abs/2602.12277)|null|
 |**2026-02-12**|**Creative Ownership in the Age of AI**|Annie Liang et.al.|[2602.12270](http://arxiv.org/abs/2602.12270)|null|
 |**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
