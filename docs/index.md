@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-05**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
+|**2026-02-13**|**From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**|Ozancan Ozdemir et.al.|[2602.13504](http://arxiv.org/abs/2602.13504)|null|
+|**2026-02-14**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
 |**2026-02-12**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
 |**2026-01-22**|**ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection**|Guoxuan Ding et.al.|[2601.15820](http://arxiv.org/abs/2601.15820)|null|
@@ -93,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction**|Jiran Tao et.al.|[2602.13279](http://arxiv.org/abs/2602.13279)|null|
 |**2026-02-08**|**Large language models for spreading dynamics in complex systems**|Shuyu Jiang et.al.|[2602.08085](http://arxiv.org/abs/2602.08085)|null|
 |**2026-01-21**|**Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features**|Han Li et.al.|[2601.14954](http://arxiv.org/abs/2601.14954)|null|
 |**2026-01-20**|**TRGCN: A Hybrid Framework for Social Network Rumor Detection**|Yanqin Yan et.al.|[2601.13573](http://arxiv.org/abs/2601.13573)|null|
@@ -145,6 +147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**TruthStance: An Annotated Dataset of Conversations on Truth Social**|Fathima Ameen et.al.|[2602.14406](http://arxiv.org/abs/2602.14406)|null|
 |**2026-02-04**|**Exploiting contextual information to improve stance detection in informal political discourse with LLMs**|Arman Engin Sucu et.al.|[2602.04750](http://arxiv.org/abs/2602.04750)|null|
 |**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675](http://arxiv.org/abs/2601.21675)|null|
 |**2026-02-06**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|
@@ -192,6 +195,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
+|**2026-02-16**|**Complementarity of di-top and four-top searches in interpreting possible signals of new physics**|Henning Bahl et.al.|[2602.15027](http://arxiv.org/abs/2602.15027)|null|
+|**2026-02-16**|**Prospects of Indirect Detection of Dark Matter via Primordial Black Hole Induced Gravitational Waves**|Debarun Paul et.al.|[2602.15026](http://arxiv.org/abs/2602.15026)|null|
+|**2026-02-16**|**Modeling isolated magnetar spin-down evolution and implications for long-period radio transients**|Jon Kwong et.al.|[2602.15024](http://arxiv.org/abs/2602.15024)|null|
+|**2026-02-16**|**Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002](http://arxiv.org/abs/2602.15002)|null|
+|**2026-02-16**|**Boundary Point Jailbreaking of Black-Box LLMs**|Xander Davies et.al.|[2602.15001](http://arxiv.org/abs/2602.15001)|null|
+|**2026-02-16**|**On the Topology of T-manifolds of Higher Codimension**|Enzo Pasquereau et.al.|[2602.14988](http://arxiv.org/abs/2602.14988)|null|
+|**2026-02-16**|**Large expander subgraphs in high genus triangulations**|Baptiste Louf et.al.|[2602.14984](http://arxiv.org/abs/2602.14984)|null|
 |**2026-02-13**|**Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos**|Albert J. Zhai et.al.|[2602.13197](http://arxiv.org/abs/2602.13197)|null|
 |**2026-02-13**|**Addressing the Hubble tension with Sterile Neutrino Dark Matter**|Debtosh Chowdhury et.al.|[2602.13189](http://arxiv.org/abs/2602.13189)|null|
 |**2026-02-13**|**Diamond-to-graphite transformation under hypersonic impact**|Abhijit Biswas et.al.|[2602.13188](http://arxiv.org/abs/2602.13188)|null|
