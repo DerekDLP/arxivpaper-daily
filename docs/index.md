@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -195,6 +195,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
+|**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
+|**2026-02-17**|**Connection formulas for Askey--Wilson polynomials and related expansions**|Howard S. Cohl et.al.|[2602.15824](http://arxiv.org/abs/2602.15824)|null|
+|**2026-02-17**|**Finite Free Information Inequalities**|Jorge Garza-Vargas et.al.|[2602.15822](http://arxiv.org/abs/2602.15822)|null|
+|**2026-02-17**|**Computation and Size of Interpolants for Hybrid Modal Logics**|Jean Christoph Jung et.al.|[2602.15821](http://arxiv.org/abs/2602.15821)|null|
+|**2026-02-17**|**Separable C*-algebras Without the Countable Axiom of Choice**|Bruce Blackadar et.al.|[2602.15812](http://arxiv.org/abs/2602.15812)|null|
+|**2026-02-17**|**Task-Agnostic Continual Learning for Chest Radiograph Classification**|Muthu Subash Kavitha et.al.|[2602.15811](http://arxiv.org/abs/2602.15811)|null|
+|**2026-02-17**|**The dimension of the tangent bundle and the universality of the vertical lift**|Florian Schwarz et.al.|[2602.15807](http://arxiv.org/abs/2602.15807)|null|
+|**2026-02-17**|**Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[2602.15802](http://arxiv.org/abs/2602.15802)|null|
+|**2026-02-17**|**Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores**|Sang Yup Lee et.al.|[2602.15795](http://arxiv.org/abs/2602.15795)|null|
 |**2026-02-16**|**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing**|Yehonathan Litman et.al.|[2602.15031](http://arxiv.org/abs/2602.15031)|null|
 |**2026-02-16**|**Complementarity of di-top and four-top searches in interpreting possible signals of new physics**|Henning Bahl et.al.|[2602.15027](http://arxiv.org/abs/2602.15027)|null|
 |**2026-02-16**|**Prospects of Indirect Detection of Dark Matter via Primordial Black Hole Induced Gravitational Waves**|Debarun Paul et.al.|[2602.15026](http://arxiv.org/abs/2602.15026)|null|
