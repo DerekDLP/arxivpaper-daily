@@ -1,4 +1,4 @@
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,12 +96,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
 |**2026-02-06**|**LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction**|Jiran Tao et.al.|[2602.13279](http://arxiv.org/abs/2602.13279)|null|
 |**2026-02-08**|**Large language models for spreading dynamics in complex systems**|Shuyu Jiang et.al.|[2602.08085](http://arxiv.org/abs/2602.08085)|null|
 |**2026-01-21**|**Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features**|Han Li et.al.|[2601.14954](http://arxiv.org/abs/2601.14954)|null|
@@ -151,7 +152,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -201,12 +202,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
+|**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
+|**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|
+|**2026-02-18**|**Protecting the Undeleted in Machine Unlearning**|Aloni Cohen et.al.|[2602.16697](http://arxiv.org/abs/2602.16697)|null|
+|**2026-02-18**|**Consensus Based Task Allocation for Angles-Only Local Catalog Maintenance of Satellite Systems**|Harrison Perone et.al.|[2602.16678](http://arxiv.org/abs/2602.16678)|null|
+|**2026-02-18**|**Design Principles for Fluid Molecular Ferroelectrics**|Calum J Gibb et.al.|[2602.16649](http://arxiv.org/abs/2602.16649)|null|
+|**2026-02-18**|**An $n^{2+o(1)}$ Time Algorithm for Single-Source Negative Weight Shortest Paths**|Sanjeev Khanna et.al.|[2602.16638](http://arxiv.org/abs/2602.16638)|null|
+|**2026-02-18**|**Behavioral change models for infectious disease transmission: a systematic review (2020-2025)**|Youngji Jo et.al.|[2602.16633](http://arxiv.org/abs/2602.16633)|null|
+|**2026-02-18**|**Symmetry properties for positive solutions of mixed boundary value problems in a sub-spherical sector**|Ruofei Yao et.al.|[2602.16630](http://arxiv.org/abs/2602.16630)|null|
+|**2026-02-18**|**Dynamic effects of external axion fields in a system of many particles with spin**|Mariya Iv. Trukhanova et.al.|[2602.16627](http://arxiv.org/abs/2602.16627)|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
 |**2026-02-17**|**Connection formulas for Askey--Wilson polynomials and related expansions**|Howard S. Cohl et.al.|[2602.15824](http://arxiv.org/abs/2602.15824)|null|
@@ -1158,5 +1169,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
