@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -196,6 +196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Dehn quandles of surfaces and their bounded cohomology**|Pankaj Kapari et.al.|[2602.17661](http://arxiv.org/abs/2602.17661)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**|William Cerny et.al.|[2602.17652](http://arxiv.org/abs/2602.17652)|null|
+|**2026-02-19**|**Non-Trivial Zero-Knowledge Implies One-Way Functions**|Suvradip Chakraborty et.al.|[2602.17651](http://arxiv.org/abs/2602.17651)|null|
+|**2026-02-19**|**Pseudo-deterministic Quantum Algorithms**|Hugo Aaronson et.al.|[2602.17647](http://arxiv.org/abs/2602.17647)|null|
+|**2026-02-19**|**New Kreutz Sungrazer C/2026 A1 (MAPS): Third Time's the Charm?**|Zdenek Sekanina et.al.|[2602.17626](http://arxiv.org/abs/2602.17626)|null|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Light dark sector via thermal decays of Dark Matter: the case of a 17 MeV particle coupled to electrons**|Marco Graziani et.al.|[2602.17620](http://arxiv.org/abs/2602.17620)|null|
+|**2026-02-19**|**Evidence for Multimodal Superfluidity of Neutrons**|Yuan-Zhuo Ma et.al.|[2602.17611](http://arxiv.org/abs/2602.17611)|null|
+|**2026-02-19**|**Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction**|Nicolau Manubens Gil et.al.|[2602.17610](http://arxiv.org/abs/2602.17610)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
 |**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
 |**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|

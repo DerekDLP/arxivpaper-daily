@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,7 +96,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Rumour
 
@@ -152,7 +152,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -202,12 +202,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Dehn quandles of surfaces and their bounded cohomology**|Pankaj Kapari et.al.|[2602.17661](http://arxiv.org/abs/2602.17661)|null|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**|William Cerny et.al.|[2602.17652](http://arxiv.org/abs/2602.17652)|null|
+|**2026-02-19**|**Non-Trivial Zero-Knowledge Implies One-Way Functions**|Suvradip Chakraborty et.al.|[2602.17651](http://arxiv.org/abs/2602.17651)|null|
+|**2026-02-19**|**Pseudo-deterministic Quantum Algorithms**|Hugo Aaronson et.al.|[2602.17647](http://arxiv.org/abs/2602.17647)|null|
+|**2026-02-19**|**New Kreutz Sungrazer C/2026 A1 (MAPS): Third Time's the Charm?**|Zdenek Sekanina et.al.|[2602.17626](http://arxiv.org/abs/2602.17626)|null|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**Light dark sector via thermal decays of Dark Matter: the case of a 17 MeV particle coupled to electrons**|Marco Graziani et.al.|[2602.17620](http://arxiv.org/abs/2602.17620)|null|
+|**2026-02-19**|**Evidence for Multimodal Superfluidity of Neutrons**|Yuan-Zhuo Ma et.al.|[2602.17611](http://arxiv.org/abs/2602.17611)|null|
+|**2026-02-19**|**Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction**|Nicolau Manubens Gil et.al.|[2602.17610](http://arxiv.org/abs/2602.17610)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
 |**2026-02-18**|**E-Graphs as a Persistent Compiler Abstraction**|Jules Merckx et.al.|[2602.16707](http://arxiv.org/abs/2602.16707)|null|
 |**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|
@@ -1169,5 +1179,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260220>back to top</a>)</p>
 
