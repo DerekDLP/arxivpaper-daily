@@ -1,4 +1,4 @@
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,7 +96,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Rumour
 
@@ -152,7 +152,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -202,12 +202,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Chandra Proper Motions and Milliarcsecond Astrometry of Nineteen Pulsars**|Jack T. Dinsmore et.al.|[2602.18436](http://arxiv.org/abs/2602.18436)|null|
+|**2026-02-20**|**SMaRT: Online Reusable Resource Assignment and an Application to Mediation in the Kenyan Judiciary**|Shafkat Farabi et.al.|[2602.18431](http://arxiv.org/abs/2602.18431)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering**|Deniz Qian et.al.|[2602.18425](http://arxiv.org/abs/2602.18425)|null|
+|**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Xia Su et.al.|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
+|**2026-02-20**|**Reconfigurable Geometric Phase Matching by Multilayered Nonlinear Thin-Film Crystals**|Danielle Ben-Haim et.al.|[2602.18418](http://arxiv.org/abs/2602.18418)|null|
+|**2026-02-20**|**Weak approximation of kinetic SDEs: closing the criticality gap**|Zimo Hao et.al.|[2602.18411](http://arxiv.org/abs/2602.18411)|null|
+|**2026-02-20**|**Reconstruction algorithms for the fractional Laplacian and applications to inverse problems**|Ethan Rinaldo et.al.|[2602.18407](http://arxiv.org/abs/2602.18407)|null|
+|**2026-02-20**|**Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay**|Josue Casco-Rodriguez et.al.|[2602.18401](http://arxiv.org/abs/2602.18401)|null|
 |**2026-02-19**|**Dehn quandles of surfaces and their bounded cohomology**|Pankaj Kapari et.al.|[2602.17661](http://arxiv.org/abs/2602.17661)|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
 |**2026-02-19**|**A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems**|William Cerny et.al.|[2602.17652](http://arxiv.org/abs/2602.17652)|null|
@@ -1179,5 +1189,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
