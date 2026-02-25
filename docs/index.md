@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -196,6 +196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**CP Violation in $D \to KK$ Decays: A Comparative Analysis of Triplet and Sextet Diquarks**|David Delepine et.al.|[2602.21181](http://arxiv.org/abs/2602.21181)|null|
+|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
+|**2026-02-24**|**cyclinbayes: Bayesian Causal Discovery with Linear Non-Gaussian Directed Acyclic and Cyclic Graphical Models**|Robert Lee et.al.|[2602.21170](http://arxiv.org/abs/2602.21170)|null|
+|**2026-02-24**|**A Novel Explicit Filter for the Approximate Deconvolution in Large-Eddy Simulation on General Unstructured Grids: A posteriori tests on highly stretched grids**|Mohammad Bagher Molaei et.al.|[2602.21166](http://arxiv.org/abs/2602.21166)|null|
+|**2026-02-24**|**Reducing the Gate Count with Efficient Trotter-Suzuki Schemes**|Marko Maležič et.al.|[2602.21145](http://arxiv.org/abs/2602.21145)|null|
+|**2026-02-24**|**Dynamics and non-integrability of the variable-length double pendulum: exploring chaos and periodicity via the Lyapunov refined maps**|Wojciech Szumiński et.al.|[2602.21123](http://arxiv.org/abs/2602.21123)|null|
+|**2026-02-24**|**Generating twisted Cherednik eigenfunctions**|A. Mironov et.al.|[2602.21120](http://arxiv.org/abs/2602.21120)|null|
+|**2026-02-24**|**Magnetic small-angle neutron scattering by a nanocrystalline ferromagnet with anisotropic exchange interaction**|Konstantin L. Metlov et.al.|[2602.21117](http://arxiv.org/abs/2602.21117)|null|
 |**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|null|
 |**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|
 |**2026-02-23**|**Quantum simulation in the Heisenberg picture via vectorization**|Shao-Hen Chiew et.al.|[2602.20154](http://arxiv.org/abs/2602.20154)|null|
