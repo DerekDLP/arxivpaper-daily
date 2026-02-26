@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -94,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
 |**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
 |**2026-02-06**|**LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction**|Jiran Tao et.al.|[2602.13279](http://arxiv.org/abs/2602.13279)|null|
 |**2026-02-08**|**Large language models for spreading dynamics in complex systems**|Shuyu Jiang et.al.|[2602.08085](http://arxiv.org/abs/2602.08085)|null|
@@ -196,6 +197,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
+|**2026-02-25**|**Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice**|Yujia Gao et.al.|[2602.22196](http://arxiv.org/abs/2602.22196)|null|
+|**2026-02-25**|**Electrical coupling of a horizontal dipole antenna to a dielectric half-space: applications to radio astronomy from the lunar surface**|Kaja M. Rotermund et.al.|[2602.22194](http://arxiv.org/abs/2602.22194)|null|
+|**2026-02-25**|**A characterization of projective space via lengths of extremal rays**|Osamu Fujino et.al.|[2602.22192](http://arxiv.org/abs/2602.22192)|null|
+|**2026-02-25**|**Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach**|Nathalie C. Pinheiro et.al.|[2602.22188](http://arxiv.org/abs/2602.22188)|null|
+|**2026-02-25**|**Chiral Weyl-Kondo semimetals and hexagonal heavy fermion systems**|Kuan-Sen Lin et.al.|[2602.22185](http://arxiv.org/abs/2602.22185)|null|
+|**2026-02-25**|**Runaway electron generation in ITER mitigated disruptions with improved physics models**|L. Votta et.al.|[2602.22177](http://arxiv.org/abs/2602.22177)|null|
+|**2026-02-25**|**Whistler-Alfvén turbulence in a non-neutral ultrarelativistic pair plasma**|Stanislav Boldyrev et.al.|[2602.22165](http://arxiv.org/abs/2602.22165)|null|
 |**2026-02-24**|**Minimal loop currents in doped Mott insulators**|Can Cui et.al.|[2602.21206](http://arxiv.org/abs/2602.21206)|null|
 |**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
 |**2026-02-24**|**CP Violation in $D \to KK$ Decays: A Comparative Analysis of Triplet and Sextet Diquarks**|David Delepine et.al.|[2602.21181](http://arxiv.org/abs/2602.21181)|null|
