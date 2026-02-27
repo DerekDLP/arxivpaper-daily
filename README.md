@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**MViR: Multi-View Visual-Semantic Representation for Fake News Detection**|Haochen Liang et.al.|[2602.22944](http://arxiv.org/abs/2602.22944)|null|
+|**2026-02-25**|**False memories to fake news: The evolution of the term "misinformation" in academic literature**|Alejandro Javier Ruiz Iglesias et.al.|[2602.22395](http://arxiv.org/abs/2602.22395)|null|
 |**2026-02-13**|**From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**|Ozancan Ozdemir et.al.|[2602.13504](http://arxiv.org/abs/2602.13504)|null|
 |**2026-02-14**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
@@ -96,7 +98,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Rumour
 
@@ -153,7 +155,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -203,12 +205,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
+|**2026-02-26**|**A Dataset is Worth 1 MB**|Elad Kimchi Shoshani et.al.|[2602.23358](http://arxiv.org/abs/2602.23358)|null|
+|**2026-02-26**|**Revisiting the Perseus Cluster III: Role of Aspherical Explosions on its Chemical Composition and Extension to Metal-Poor Stars and Galaxies**|Shing-Chi Leung et.al.|[2602.23356](http://arxiv.org/abs/2602.23356)|null|
+|**2026-02-26**|**Revisiting the Perseus Cluster II: Metallicity-Dependence of Massive Stars and Chemical Enrichment History**|Shing-Chi Leung et.al.|[2602.23354](http://arxiv.org/abs/2602.23354)|null|
+|**2026-02-26**|**Ruling Out Spiky WIMP Dark Matter using Indirect Searches**|Dibya S. Chattopadhyay et.al.|[2602.23348](http://arxiv.org/abs/2602.23348)|null|
+|**2026-02-26**|**Temporal metamaterials with passive switching as impedance-matched absorbers**|Suat Barış İplikçioğlu et.al.|[2602.23347](http://arxiv.org/abs/2602.23347)|null|
+|**2026-02-26**|**Cyclic sieving for a class of rectangular domino tableaux**|Laura Colmenarejo et.al.|[2602.23343](http://arxiv.org/abs/2602.23343)|null|
+|**2026-02-26**|**Combinatorial Properties of the Raisonnier Filter**|Spyridon Dialiatsis et.al.|[2602.23340](http://arxiv.org/abs/2602.23340)|null|
+|**2026-02-26**|**mrfmsim: a modular, extendable, and readable simulation platform for magnetic resonance force microscopy experiments**|Peter Sun et.al.|[2602.23337](http://arxiv.org/abs/2602.23337)|null|
+|**2026-02-26**|**Differentiable Zero-One Loss via Hypersimplex Projections**|Camilo Gomez et.al.|[2602.23336](http://arxiv.org/abs/2602.23336)|null|
 |**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
 |**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
 |**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
@@ -1220,5 +1232,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 

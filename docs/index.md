@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**MViR: Multi-View Visual-Semantic Representation for Fake News Detection**|Haochen Liang et.al.|[2602.22944](http://arxiv.org/abs/2602.22944)|null|
+|**2026-02-25**|**False memories to fake news: The evolution of the term "misinformation" in academic literature**|Alejandro Javier Ruiz Iglesias et.al.|[2602.22395](http://arxiv.org/abs/2602.22395)|null|
 |**2026-02-13**|**From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**|Ozancan Ozdemir et.al.|[2602.13504](http://arxiv.org/abs/2602.13504)|null|
 |**2026-02-14**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
@@ -197,6 +199,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
+|**2026-02-26**|**A Dataset is Worth 1 MB**|Elad Kimchi Shoshani et.al.|[2602.23358](http://arxiv.org/abs/2602.23358)|null|
+|**2026-02-26**|**Revisiting the Perseus Cluster III: Role of Aspherical Explosions on its Chemical Composition and Extension to Metal-Poor Stars and Galaxies**|Shing-Chi Leung et.al.|[2602.23356](http://arxiv.org/abs/2602.23356)|null|
+|**2026-02-26**|**Revisiting the Perseus Cluster II: Metallicity-Dependence of Massive Stars and Chemical Enrichment History**|Shing-Chi Leung et.al.|[2602.23354](http://arxiv.org/abs/2602.23354)|null|
+|**2026-02-26**|**Ruling Out Spiky WIMP Dark Matter using Indirect Searches**|Dibya S. Chattopadhyay et.al.|[2602.23348](http://arxiv.org/abs/2602.23348)|null|
+|**2026-02-26**|**Temporal metamaterials with passive switching as impedance-matched absorbers**|Suat Barış İplikçioğlu et.al.|[2602.23347](http://arxiv.org/abs/2602.23347)|null|
+|**2026-02-26**|**Cyclic sieving for a class of rectangular domino tableaux**|Laura Colmenarejo et.al.|[2602.23343](http://arxiv.org/abs/2602.23343)|null|
+|**2026-02-26**|**Combinatorial Properties of the Raisonnier Filter**|Spyridon Dialiatsis et.al.|[2602.23340](http://arxiv.org/abs/2602.23340)|null|
+|**2026-02-26**|**mrfmsim: a modular, extendable, and readable simulation platform for magnetic resonance force microscopy experiments**|Peter Sun et.al.|[2602.23337](http://arxiv.org/abs/2602.23337)|null|
+|**2026-02-26**|**Differentiable Zero-One Loss via Hypersimplex Projections**|Camilo Gomez et.al.|[2602.23336](http://arxiv.org/abs/2602.23336)|null|
 |**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
 |**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
 |**2026-02-25**|**Thermal activation drives a finite-size crossover from scale-free to runaway avalanches in amorphous solids**|Gieberth Rodriguez-Lopez et.al.|[2602.22198](http://arxiv.org/abs/2602.22198)|null|
