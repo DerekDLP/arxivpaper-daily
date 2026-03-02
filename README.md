@@ -1,4 +1,4 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-26**|**MViR: Multi-View Visual-Semantic Representation for Fake News Detection**|Haochen Liang et.al.|[2602.22944](http://arxiv.org/abs/2602.22944)|null|
-|**2026-02-25**|**False memories to fake news: The evolution of the term "misinformation" in academic literature**|Alejandro Javier Ruiz Iglesias et.al.|[2602.22395](http://arxiv.org/abs/2602.22395)|null|
+|**2026-02-27**|**False memories to fake news: The evolution of the term "misinformation" in academic literature**|Alejandro Javier Ruiz Iglesias et.al.|[2602.22395](http://arxiv.org/abs/2602.22395)|null|
 |**2026-02-13**|**From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**|Ozancan Ozdemir et.al.|[2602.13504](http://arxiv.org/abs/2602.13504)|null|
 |**2026-02-14**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
 |**2026-02-02**|**Cross-Domain Fake News Detection on Unseen Domains via LLM-Based Domain-Aware User Modeling**|Xuankai Yang et.al.|[2602.01726](http://arxiv.org/abs/2602.01726)|null|
@@ -98,7 +98,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Rumour
 
@@ -155,7 +155,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -205,12 +205,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Unfolding without Iterations, Adversaries, or Surrogates**|Ayodele Ore et.al.|[2602.24282](http://arxiv.org/abs/2602.24282)|null|
+|**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
+|**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[2602.24277](http://arxiv.org/abs/2602.24277)|null|
+|**2026-02-27**|**Shifting in-DRAM**|William C. Tegge et.al.|[2602.24269](http://arxiv.org/abs/2602.24269)|null|
+|**2026-02-27**|**Neural Luenberger state observer for nonautonomous nonlinear systems**|Moritz Woelk et.al.|[2602.24252](http://arxiv.org/abs/2602.24252)|null|
+|**2026-02-27**|**In-flight calibration of RADEM, the JUICE mission radiation monitor**|Marco Pinto et.al.|[2602.24246](http://arxiv.org/abs/2602.24246)|null|
+|**2026-02-27**|**Diamond Determinants and Somos Sequences**|Nikolai Beluhov et.al.|[2602.24239](http://arxiv.org/abs/2602.24239)|null|
+|**2026-02-27**|**Relativistic Complete Active Space Self-consistent-Field Method with a Hierarchy of Exact Two-Component Hamiltonians**|Xubo Wang et.al.|[2602.24236](http://arxiv.org/abs/2602.24236)|null|
+|**2026-02-27**|**Effective Three-Boson Interactions using a Separable Potential**|Corinne Beckers et.al.|[2602.24226](http://arxiv.org/abs/2602.24226)|null|
+|**2026-02-27**|**Anansi: Scalable Characterization of Message-Based Job Scams**|Abisheka Pitumpe et.al.|[2602.24223](http://arxiv.org/abs/2602.24223)|null|
 |**2026-02-26**|**Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid**|Souvik Kundu et.al.|[2602.23362](http://arxiv.org/abs/2602.23362)|null|
 |**2026-02-26**|**A Dataset is Worth 1 MB**|Elad Kimchi Shoshani et.al.|[2602.23358](http://arxiv.org/abs/2602.23358)|null|
 |**2026-02-26**|**Revisiting the Perseus Cluster III: Role of Aspherical Explosions on its Chemical Composition and Extension to Metal-Poor Stars and Galaxies**|Shing-Chi Leung et.al.|[2602.23356](http://arxiv.org/abs/2602.23356)|null|
@@ -1232,5 +1242,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
