@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](http://arxiv.org/abs/2603.01806)|null|
+|**2026-03-01**|**JailNewsBench: Multi-Lingual and Regional Benchmark for Fake News Generation under Jailbreak Attacks**|Masahiro Kaneko et.al.|[2603.01291](http://arxiv.org/abs/2603.01291)|null|
+|**2026-02-28**|**BLUFF: Benchmarking the Detection of False and Synthetic Content across 58 Low-Resource Languages**|Jason Lucas et.al.|[2603.00634](http://arxiv.org/abs/2603.00634)|null|
 |**2026-02-26**|**MViR: Multi-View Visual-Semantic Representation for Fake News Detection**|Haochen Liang et.al.|[2602.22944](http://arxiv.org/abs/2602.22944)|null|
 |**2026-02-27**|**False memories to fake news: The evolution of the term "misinformation" in academic literature**|Alejandro Javier Ruiz Iglesias et.al.|[2602.22395](http://arxiv.org/abs/2602.22395)|null|
 |**2026-02-13**|**From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**|Ozancan Ozdemir et.al.|[2602.13504](http://arxiv.org/abs/2602.13504)|null|
@@ -96,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
 |**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
 |**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
 |**2026-02-06**|**LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction**|Jiran Tao et.al.|[2602.13279](http://arxiv.org/abs/2602.13279)|null|
@@ -199,6 +203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Reconciling 3D Models for the Central 10 parsecs of the Milky Way**|Elisabeth A. C. Mills et.al.|[2603.02211](http://arxiv.org/abs/2603.02211)|null|
+|**2026-03-02**|**HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**|Yichen Liu et.al.|[2603.02210](http://arxiv.org/abs/2603.02210)|null|
+|**2026-03-02**|**Analytical Exploration of Spatial Audio Cues: A Differentiable Multi-Sphere Scattering Model**|Siminfar Samakoush Galougah et.al.|[2603.02205](http://arxiv.org/abs/2603.02205)|null|
+|**2026-03-02**|**Conformal Policy Control**|Drew Prinster et.al.|[2603.02196](http://arxiv.org/abs/2603.02196)|null|
+|**2026-03-02**|**Efficient first-principles modeling of complex molecular crystals at sub-chemical accuracy**|Benjamin X. Shi et.al.|[2603.02180](http://arxiv.org/abs/2603.02180)|null|
+|**2026-03-02**|**Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance**|Yiqi Lin et.al.|[2603.02175](http://arxiv.org/abs/2603.02175)|null|
+|**2026-03-02**|**Anomalous Diffusion and Superdiffusion in Integrable Spin Chains via a Hard-Rod Gas Mapping**|Andrew Urilyon et.al.|[2603.02171](http://arxiv.org/abs/2603.02171)|null|
+|**2026-03-02**|**Topological Gyromorphs**|Laura Gómez Paz et.al.|[2603.02167](http://arxiv.org/abs/2603.02167)|null|
+|**2026-03-02**|**Boosting Device Utilization in Control Flow Auditing**|Alexandra Lengert et.al.|[2603.02161](http://arxiv.org/abs/2603.02161)|null|
+|**2026-03-02**|**Setwise Hierarchical Variable Selection and the Generalized Linear Step-Up Procedure for False Discovery Rate Control**|Sarah Organ et.al.|[2603.02160](http://arxiv.org/abs/2603.02160)|null|
 |**2026-02-27**|**Unfolding without Iterations, Adversaries, or Surrogates**|Ayodele Ore et.al.|[2602.24282](http://arxiv.org/abs/2602.24282)|null|
 |**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
 |**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[2602.24277](http://arxiv.org/abs/2602.24277)|null|
