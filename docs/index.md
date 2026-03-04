@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -203,6 +203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
+|**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
+|**2026-03-03**|**A fast method to derive relative small-scale magnetic field variations from high resolution spectroscopy**|Paul I. Cristofari et.al.|[2603.03264](http://arxiv.org/abs/2603.03264)|null|
+|**2026-03-03**|**Generalised All-Optical Cat Correction**|Ari John Boon et.al.|[2603.03263](http://arxiv.org/abs/2603.03263)|null|
+|**2026-03-03**|**Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals**|Achyutha Menon et.al.|[2603.03258](http://arxiv.org/abs/2603.03258)|null|
+|**2026-03-03**|**Noether-Lefschetz general complete intersection K3 surfaces over the rationals**|Asher Auel et.al.|[2603.03253](http://arxiv.org/abs/2603.03253)|null|
+|**2026-03-03**|**Search for a narrow resonance with a mass between 10 and 70 GeV decaying to a pair of photons in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2603.03250](http://arxiv.org/abs/2603.03250)|null|
+|**2026-03-03**|**Spectral gaps and measure decompositions**|March T. Boedihardjo et.al.|[2603.03245](http://arxiv.org/abs/2603.03245)|null|
+|**2026-03-03**|**Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks**|Divyavardhan Singh et.al.|[2603.03224](http://arxiv.org/abs/2603.03224)|null|
+|**2026-03-03**|**Relativistic distorted-wave analysis of the missing-energy spectrum measured with monochromatic $ν_μ$-$^{12}$C interactions at JSNS$^{2}$**|J. M. Franco-Patino et.al.|[2603.03210](http://arxiv.org/abs/2603.03210)|null|
 |**2026-03-02**|**Reconciling 3D Models for the Central 10 parsecs of the Milky Way**|Elisabeth A. C. Mills et.al.|[2603.02211](http://arxiv.org/abs/2603.02211)|null|
 |**2026-03-02**|**HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**|Yichen Liu et.al.|[2603.02210](http://arxiv.org/abs/2603.02210)|null|
 |**2026-03-02**|**Analytical Exploration of Spatial Audio Cues: A Differentiable Multi-Sphere Scattering Model**|Siminfar Samakoush Galougah et.al.|[2603.02205](http://arxiv.org/abs/2603.02205)|null|
