@@ -1,4 +1,4 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](http://arxiv.org/abs/2603.01806)|null|
 |**2026-03-01**|**JailNewsBench: Multi-Lingual and Regional Benchmark for Fake News Generation under Jailbreak Attacks**|Masahiro Kaneko et.al.|[2603.01291](http://arxiv.org/abs/2603.01291)|null|
 |**2026-02-28**|**BLUFF: Benchmarking the Detection of False and Synthetic Content across 58 Low-Resource Languages**|Jason Lucas et.al.|[2603.00634](http://arxiv.org/abs/2603.00634)|null|
@@ -101,12 +102,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-01**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
 |**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
 |**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
@@ -159,7 +161,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -209,12 +211,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**Improved Stark Broadened Profiles for Neutral Helium Lines Using Computer Simulations**|Patrick Tremblay et.al.|[2603.04374](http://arxiv.org/abs/2603.04374)|null|
+|**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|null|
+|**2026-03-04**|**A Selection Aware View of Black Hole-Galaxy Coevolution at High Redshift**|Francesco Ziparo et.al.|[2603.04358](http://arxiv.org/abs/2603.04358)|null|
+|**2026-03-04**|**On Error Thresholds for Pauli Channels: Some answers with many more questions**|Avantika Agarwal et.al.|[2603.04357](http://arxiv.org/abs/2603.04357)|null|
+|**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Soroush Nasiriany et.al.|[2603.04356](http://arxiv.org/abs/2603.04356)|null|
 |**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
 |**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
 |**2026-03-03**|**A fast method to derive relative small-scale magnetic field variations from high resolution spectroscopy**|Paul I. Cristofari et.al.|[2603.03264](http://arxiv.org/abs/2603.03264)|null|
@@ -1266,5 +1278,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 

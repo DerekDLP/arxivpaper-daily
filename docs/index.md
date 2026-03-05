@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](http://arxiv.org/abs/2603.01806)|null|
 |**2026-03-01**|**JailNewsBench: Multi-Lingual and Regional Benchmark for Fake News Generation under Jailbreak Attacks**|Masahiro Kaneko et.al.|[2603.01291](http://arxiv.org/abs/2603.01291)|null|
 |**2026-02-28**|**BLUFF: Benchmarking the Detection of False and Synthetic Content across 58 Low-Resource Languages**|Jason Lucas et.al.|[2603.00634](http://arxiv.org/abs/2603.00634)|null|
@@ -99,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-01**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
 |**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
 |**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
@@ -203,6 +205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
+|**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
+|**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle**|Nitay Mayo et.al.|[2603.04377](http://arxiv.org/abs/2603.04377)|null|
+|**2026-03-04**|**Improved Stark Broadened Profiles for Neutral Helium Lines Using Computer Simulations**|Patrick Tremblay et.al.|[2603.04374](http://arxiv.org/abs/2603.04374)|null|
+|**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|null|
+|**2026-03-04**|**A Selection Aware View of Black Hole-Galaxy Coevolution at High Redshift**|Francesco Ziparo et.al.|[2603.04358](http://arxiv.org/abs/2603.04358)|null|
+|**2026-03-04**|**On Error Thresholds for Pauli Channels: Some answers with many more questions**|Avantika Agarwal et.al.|[2603.04357](http://arxiv.org/abs/2603.04357)|null|
+|**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Soroush Nasiriany et.al.|[2603.04356](http://arxiv.org/abs/2603.04356)|null|
 |**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
 |**2026-03-03**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al.|[2603.03270](http://arxiv.org/abs/2603.03270)|null|
 |**2026-03-03**|**A fast method to derive relative small-scale magnetic field variations from high resolution spectroscopy**|Paul I. Cristofari et.al.|[2603.03264](http://arxiv.org/abs/2603.03264)|null|
