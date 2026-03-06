@@ -1,4 +1,4 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -102,7 +102,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Rumour
 
@@ -161,7 +161,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -211,12 +211,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
+|**2026-03-05**|**Chromatic thresholds for linear equations and recurrence**|Hong Liu et.al.|[2603.05490](http://arxiv.org/abs/2603.05490)|null|
+|**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|
+|**2026-03-05**|**A FAST Survey of H I Absorption in Low-power Radio Sources**|Yang Su et.al.|[2603.05477](http://arxiv.org/abs/2603.05477)|null|
+|**2026-03-05**|**7D (non-)susy vacua & DWs from dynamical open strings**|Valentina Bevilacqua et.al.|[2603.05470](http://arxiv.org/abs/2603.05470)|null|
+|**2026-03-05**|**RealWonder: Real-Time Physical Action-Conditioned Video Generation**|Wei Liu et.al.|[2603.05449](http://arxiv.org/abs/2603.05449)|null|
+|**2026-03-05**|**O^3-LSM: Maximizing Disaggregated LSM Write Performance via Three-Layer Offloading**|Qi Lin et.al.|[2603.05439](http://arxiv.org/abs/2603.05439)|null|
+|**2026-03-05**|**Homological methods in rigidity theory using graphs of groups**|Joannes Vermant et.al.|[2603.05435](http://arxiv.org/abs/2603.05435)|null|
+|**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias et.al.|[2603.05428](http://arxiv.org/abs/2603.05428)|null|
+|**2026-03-05**|**An interpretable prototype parts-based neural network for medical tabular data**|Jacek Karolczak et.al.|[2603.05423](http://arxiv.org/abs/2603.05423)|null|
 |**2026-03-04**|**Post-inflationary axion constraints from the Lyman- $α$ forest**|Olga Garcia-Gallego et.al.|[2603.04401](http://arxiv.org/abs/2603.04401)|null|
 |**2026-03-04**|**A framework for missing-energy searches with anomalous light vectors**|Luca Di Luzio et.al.|[2603.04394](http://arxiv.org/abs/2603.04394)|null|
 |**2026-03-04**|**SELDON: Supernova Explosions Learned by Deep ODE Networks**|Jiezhong Wu et.al.|[2603.04392](http://arxiv.org/abs/2603.04392)|null|
@@ -1278,5 +1288,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
