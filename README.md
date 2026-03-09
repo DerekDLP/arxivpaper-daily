@@ -1,4 +1,4 @@
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection**|Dorsaf Sallami et.al.|[2603.05519](http://arxiv.org/abs/2603.05519)|null|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](http://arxiv.org/abs/2603.01806)|null|
 |**2026-03-01**|**JailNewsBench: Multi-Lingual and Regional Benchmark for Fake News Generation under Jailbreak Attacks**|Masahiro Kaneko et.al.|[2603.01291](http://arxiv.org/abs/2603.01291)|null|
@@ -102,7 +103,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Rumour
 
@@ -161,7 +162,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -211,12 +212,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**|Vishal Thengane et.al.|[2603.06572](http://arxiv.org/abs/2603.06572)|null|
+|**2026-03-06**|**Third-order mixed electroweak-QCD corrections to the W-boson mass prediction from the muon lifetime**|Ievgen Dubovyk et.al.|[2603.06571](http://arxiv.org/abs/2603.06571)|null|
+|**2026-03-06**|**Boosting deep Reinforcement Learning using pretraining with Logical Options**|Zihan Ye et.al.|[2603.06565](http://arxiv.org/abs/2603.06565)|null|
+|**2026-03-06**|**Higher-dimensional BKL dynamics in AdS black holes**|Elena Cáceres et.al.|[2603.06560](http://arxiv.org/abs/2603.06560)|null|
+|**2026-03-06**|**Brunnian links of 3-balls in the 4-sphere**|Seungwon Kim et.al.|[2603.06554](http://arxiv.org/abs/2603.06554)|null|
+|**2026-03-06**|**Recursive reduction of two-loop tensor integrals**|Fabian Lange et.al.|[2603.06549](http://arxiv.org/abs/2603.06549)|null|
+|**2026-03-06**|**An involutivity theorem for a class of Poisson quasi-Nijenhuis manifolds**|Eber Chuño Vizarreta et.al.|[2603.06532](http://arxiv.org/abs/2603.06532)|null|
+|**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
+|**2026-03-06**|**An Overview of Relativistic Particle Pushers and their Extension to Arbitrary Order Accuracy**|Holger Schmitz et.al.|[2603.06509](http://arxiv.org/abs/2603.06509)|null|
+|**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen et.al.|[2603.06500](http://arxiv.org/abs/2603.06500)|null|
 |**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
 |**2026-03-05**|**Chromatic thresholds for linear equations and recurrence**|Hong Liu et.al.|[2603.05490](http://arxiv.org/abs/2603.05490)|null|
 |**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|
@@ -1288,5 +1299,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
