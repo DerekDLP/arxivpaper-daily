@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -103,14 +103,14 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
-|**2026-03-01**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
+|**2026-03-07**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
 |**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
 |**2026-02-18**|**Modeling Trust and Liquidity Under Payment System Stress: A Multi-Agent Approach**|Masoud Amouzgar et.al.|[2602.16186](http://arxiv.org/abs/2602.16186)|null|
 |**2026-02-06**|**LLM-Enhanced Rumor Detection via Virtual Node Induced Edge Prediction**|Jiran Tao et.al.|[2602.13279](http://arxiv.org/abs/2602.13279)|null|
@@ -162,7 +162,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -212,12 +212,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting**|Azul Garza et.al.|[2603.08707](http://arxiv.org/abs/2603.08707)|null|
+|**2026-03-09**|**Approximate QCAs in one dimension using approximate algebras**|Daniel Ranard et.al.|[2603.08702](http://arxiv.org/abs/2603.08702)|null|
+|**2026-03-09**|**Very High Energy Gamma Rays from Ultra Fast Outflows**|B. Le Nagat Neher et.al.|[2603.08701](http://arxiv.org/abs/2603.08701)|null|
+|**2026-03-09**|**Flash from the Past: New Gamma-Ray Constraints on Light CP-even Scalar from SN1987A**|Yue Yu et.al.|[2603.08695](http://arxiv.org/abs/2603.08695)|null|
+|**2026-03-09**|**Predicting Conflict Impact on Performance in O-RAN**|Pietro Brach del Prever et.al.|[2603.08685](http://arxiv.org/abs/2603.08685)|null|
+|**2026-03-09**|**A New Lower Bound for the Random Offerer Mechanism in Bilateral Trade using AI-Guided Evolutionary Search**|Yang Cai et.al.|[2603.08679](http://arxiv.org/abs/2603.08679)|null|
+|**2026-03-09**|**NATPS: Nonadiabatic Transition Path Sampling Using Time-Reversible MASH Dynamics**|Xiran Yang et.al.|[2603.08677](http://arxiv.org/abs/2603.08677)|null|
+|**2026-03-09**|**Characterization and upgrade of a quantum graph neural network for charged particle tracking**|Matteo Argenton et.al.|[2603.08667](http://arxiv.org/abs/2603.08667)|null|
+|**2026-03-09**|**ImprovedGS+: A High-Performance C++/CUDA Re-Implementation Strategy for 3D Gaussian Splatting**|Jordi Muñoz Vicente et.al.|[2603.08661](http://arxiv.org/abs/2603.08661)|null|
+|**2026-03-09**|**Theorem of the heart for Weibel's homotopy $K$ -theory**|Alexander I. Efimov et.al.|[2603.08653](http://arxiv.org/abs/2603.08653)|null|
 |**2026-03-06**|**SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**|Vishal Thengane et.al.|[2603.06572](http://arxiv.org/abs/2603.06572)|null|
 |**2026-03-06**|**Third-order mixed electroweak-QCD corrections to the W-boson mass prediction from the muon lifetime**|Ievgen Dubovyk et.al.|[2603.06571](http://arxiv.org/abs/2603.06571)|null|
 |**2026-03-06**|**Boosting deep Reinforcement Learning using pretraining with Logical Options**|Zihan Ye et.al.|[2603.06565](http://arxiv.org/abs/2603.06565)|null|
@@ -1299,5 +1309,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
