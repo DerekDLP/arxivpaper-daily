@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Enhancing Debunking Effectiveness through LLM-based Personality Adaptation**|Pietro Dell'Oglio et.al.|[2603.09533](http://arxiv.org/abs/2603.09533)|null|
+|**2026-03-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.09349](http://arxiv.org/abs/2603.09349)|null|
 |**2026-02-03**|**Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection**|Dorsaf Sallami et.al.|[2603.05519](http://arxiv.org/abs/2603.05519)|null|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](http://arxiv.org/abs/2603.01806)|null|
@@ -169,7 +171,7 @@ layout: default
 |**2025-12-04**|**MSME: A Multi-Stage Multi-Expert Framework for Zero-Shot Stance Detection**|Yuanshuo Zhang et.al.|[2512.04492](http://arxiv.org/abs/2512.04492)|null|
 |**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-11-14**|**Community-Aligned Behavior Under Uncertainty: Evidence of Epistemic Stance Transfer in LLMs**|Patrick Gerard et.al.|[2511.17572](http://arxiv.org/abs/2511.17572)|null|
-|**2025-11-15**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
+|**2026-03-10**|**PRISM of Opinions: A Persona-Reasoned Multimodal Framework for User-centric Conversational Stance Detection**|Bingbing Wang et.al.|[2511.12130](http://arxiv.org/abs/2511.12130)|null|
 |**2026-01-05**|**MIND Your Reasoning: A Meta-Cognitive Intuitive-Reflective Network for Dual-Reasoning in Multimodal Stance Detection**|Bingbing Wang et.al.|[2511.06057](http://arxiv.org/abs/2511.06057)|null|
 |**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
 |**2025-11-04**|**Academics and Generative AI: Empirical and Epistemic Indicators of Policy-Practice Voids**|R. Yamamoto Ravenor et.al.|[2511.02875](http://arxiv.org/abs/2511.02875)|null|
@@ -206,6 +208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|
+|**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|
+|**2026-03-10**|**Far-infrared Polarization Properties of Nearby Star-forming Regions: A New Compendium of SOFIA/HAWC+ Observations**|Kaitlyn Karpovich et.al.|[2603.09962](http://arxiv.org/abs/2603.09962)|null|
+|**2026-03-10**|**Stability of flat-band Bose-Einstein condensation from the geometry of compact localized states**|Kukka-Emilia Huhtinen et.al.|[2603.09954](http://arxiv.org/abs/2603.09954)|null|
+|**2026-03-10**|**On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer**|Ruihan Xu et.al.|[2603.09952](http://arxiv.org/abs/2603.09952)|null|
+|**2026-03-10**|**Anchor-Based Function Extrapolation with Proven Bounds and Projection Guarantees**|Guy Hay et.al.|[2603.09937](http://arxiv.org/abs/2603.09937)|null|
+|**2026-03-10**|**Jet energy loss in anisotropic plasmas meets limiting attractors**|Kirill Boguslavski et.al.|[2603.09912](http://arxiv.org/abs/2603.09912)|null|
+|**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
+|**2026-03-10**|**Hysteretic squashed entanglement in many-body quantum systems**|Siddhartha Das et.al.|[2603.09907](http://arxiv.org/abs/2603.09907)|null|
+|**2026-03-10**|**The SQInstructor: a guide to SQIsign and the Deuring Correspondence with level structures**|Giacomo Borin et.al.|[2603.09899](http://arxiv.org/abs/2603.09899)|null|
 |**2026-03-09**|**Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting**|Azul Garza et.al.|[2603.08707](http://arxiv.org/abs/2603.08707)|null|
 |**2026-03-09**|**Approximate QCAs in one dimension using approximate algebras**|Daniel Ranard et.al.|[2603.08702](http://arxiv.org/abs/2603.08702)|null|
 |**2026-03-09**|**Very High Energy Gamma Rays from Ultra Fast Outflows**|B. Le Nagat Neher et.al.|[2603.08701](http://arxiv.org/abs/2603.08701)|null|
