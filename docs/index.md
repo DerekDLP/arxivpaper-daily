@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -208,6 +208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**Two-Body Solution and Instabilities along Streda Lines in Moire Flat Bands**|Guopeng Xu et.al.|[2603.11007](http://arxiv.org/abs/2603.11007)|null|
+|**2026-03-11**|**Searching for Magnetic White Dwarfs in LAMOST DR10**|Si-Cheng Yu et.al.|[2603.11004](http://arxiv.org/abs/2603.11004)|null|
+|**2026-03-11**|**TreeON: Reconstructing 3D Tree Point Clouds from Orthophotos and Heightmaps**|Angeliki Grammatikaki et.al.|[2603.10996](http://arxiv.org/abs/2603.10996)|null|
+|**2026-03-11**|**Artificial Intelligence as a Catalyst for Innovation in Software Engineering**|Carlos Alberto Fernández-y-Fernández et.al.|[2603.10994](http://arxiv.org/abs/2603.10994)|null|
+|**2026-03-11**|**TOSSS: a CVE-based Software Security Benchmark for Large Language Models**|Marc Damie et.al.|[2603.10969](http://arxiv.org/abs/2603.10969)|null|
+|**2026-03-11**|**Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability**|Quinn T. Campbell et.al.|[2603.10968](http://arxiv.org/abs/2603.10968)|null|
+|**2026-03-11**|**Holographic dark energy from a new two-parameter entropic functional**|G. G. Luciano et.al.|[2603.10964](http://arxiv.org/abs/2603.10964)|null|
+|**2026-03-11**|**Using tablets and smartphones as experimental tools in the physics classroom: effects on learning and motivation**|Alice Gasparini et.al.|[2603.10959](http://arxiv.org/abs/2603.10959)|null|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|
 |**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|
 |**2026-03-10**|**Far-infrared Polarization Properties of Nearby Star-forming Regions: A New Compendium of SOFIA/HAWC+ Observations**|Kaitlyn Karpovich et.al.|[2603.09962](http://arxiv.org/abs/2603.09962)|null|

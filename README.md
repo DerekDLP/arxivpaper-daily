@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -105,7 +105,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Rumour
 
@@ -164,7 +164,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -214,12 +214,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**Two-Body Solution and Instabilities along Streda Lines in Moire Flat Bands**|Guopeng Xu et.al.|[2603.11007](http://arxiv.org/abs/2603.11007)|null|
+|**2026-03-11**|**Searching for Magnetic White Dwarfs in LAMOST DR10**|Si-Cheng Yu et.al.|[2603.11004](http://arxiv.org/abs/2603.11004)|null|
+|**2026-03-11**|**TreeON: Reconstructing 3D Tree Point Clouds from Orthophotos and Heightmaps**|Angeliki Grammatikaki et.al.|[2603.10996](http://arxiv.org/abs/2603.10996)|null|
+|**2026-03-11**|**Artificial Intelligence as a Catalyst for Innovation in Software Engineering**|Carlos Alberto Fernández-y-Fernández et.al.|[2603.10994](http://arxiv.org/abs/2603.10994)|null|
+|**2026-03-11**|**TOSSS: a CVE-based Software Security Benchmark for Large Language Models**|Marc Damie et.al.|[2603.10969](http://arxiv.org/abs/2603.10969)|null|
+|**2026-03-11**|**Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability**|Quinn T. Campbell et.al.|[2603.10968](http://arxiv.org/abs/2603.10968)|null|
+|**2026-03-11**|**Holographic dark energy from a new two-parameter entropic functional**|G. G. Luciano et.al.|[2603.10964](http://arxiv.org/abs/2603.10964)|null|
+|**2026-03-11**|**Using tablets and smartphones as experimental tools in the physics classroom: effects on learning and motivation**|Alice Gasparini et.al.|[2603.10959](http://arxiv.org/abs/2603.10959)|null|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|
 |**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|
 |**2026-03-10**|**Far-infrared Polarization Properties of Nearby Star-forming Regions: A New Compendium of SOFIA/HAWC+ Observations**|Kaitlyn Karpovich et.al.|[2603.09962](http://arxiv.org/abs/2603.09962)|null|
@@ -1321,5 +1331,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
