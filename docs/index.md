@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Trust Oriented Explainable AI for Fake News Detection**|Krzysztof Siwek et.al.|[2603.11778](http://arxiv.org/abs/2603.11778)|null|
 |**2026-03-10**|**Enhancing Debunking Effectiveness through LLM-based Personality Adaptation**|Pietro Dell'Oglio et.al.|[2603.09533](http://arxiv.org/abs/2603.09533)|null|
 |**2026-03-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.09349](http://arxiv.org/abs/2603.09349)|null|
 |**2026-02-03**|**Verify as You Go: An LLM-Powered Browser Extension for Fake News Detection**|Dorsaf Sallami et.al.|[2603.05519](http://arxiv.org/abs/2603.05519)|null|
@@ -208,6 +209,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**HumDex:Humanoid Dexterous Manipulation Made Easy**|Liang Heng et.al.|[2603.12260](http://arxiv.org/abs/2603.12260)|null|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
+|**2026-03-12**|**The Euclidean $φ^4_2$ theory as a limit of an inhomogeneous Bose gas**|Cristina Caraci et.al.|[2603.12241](http://arxiv.org/abs/2603.12241)|null|
+|**2026-03-12**|**Hidden polar phase in the quantum paraelectric SrTiO3**|Huaiyu Hugo Wang et.al.|[2603.12239](http://arxiv.org/abs/2603.12239)|null|
+|**2026-03-12**|**STAMP: Selective Task-Aware Mechanism for Text Privacy**|Fengwei Tian et.al.|[2603.12237](http://arxiv.org/abs/2603.12237)|null|
+|**2026-03-12**|**Onset of Ergodicity Across Scales on a Digital Quantum Processor**|Faisal Alam et.al.|[2603.12236](http://arxiv.org/abs/2603.12236)|null|
+|**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
+|**2026-03-12**|**WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows**|Taylor Paul et.al.|[2603.12214](http://arxiv.org/abs/2603.12214)|null|
+|**2026-03-12**|**A blended approach for evolving phase fields using peridynamics: Cyclic loading in quasi-brittle fracture**|Hayden Bromley et.al.|[2603.12210](http://arxiv.org/abs/2603.12210)|null|
+|**2026-03-12**|**A superconducting half-dome in bilayer nickelates**|Yidi Liu et.al.|[2603.12196](http://arxiv.org/abs/2603.12196)|null|
 |**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
 |**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
 |**2026-03-11**|**Two-Body Solution and Instabilities along Streda Lines in Moire Flat Bands**|Guopeng Xu et.al.|[2603.11007](http://arxiv.org/abs/2603.11007)|null|
