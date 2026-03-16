@@ -1,4 +1,4 @@
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -106,7 +106,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## Rumour
 
@@ -165,7 +165,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -215,12 +215,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**A 2% determination of $N_{\rm eff}$ from primordial element abundance, cosmic microwave background, and baryon acoustic oscillation measurements**|Samuel Goldstein et.al.|[2603.13226](http://arxiv.org/abs/2603.13226)|null|
+|**2026-03-13**|**A Generative Model of Conspicuous Consumption and Status Signaling**|Logan Cross et.al.|[2603.13220](http://arxiv.org/abs/2603.13220)|null|
+|**2026-03-13**|**Comparison of Cross-Correlation Methods for Line Intensity Mapping**|Samuel H. Kramer et.al.|[2603.13218](http://arxiv.org/abs/2603.13218)|null|
+|**2026-03-13**|**Measurement of correlations between elliptic flow and mean transverse momentum in pp, p-Pb, and Pb-Pb collisions at the LHC**|ALICE Collaboration et.al.|[2603.13217](http://arxiv.org/abs/2603.13217)|null|
+|**2026-03-13**|**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**|Ziqi Ma et.al.|[2603.13215](http://arxiv.org/abs/2603.13215)|null|
+|**2026-03-13**|**Robust symmetry breaking in gapless quantum magnets**|Chao Yin et.al.|[2603.13212](http://arxiv.org/abs/2603.13212)|null|
+|**2026-03-13**|**A Commensal Radio-Only Cosmic Ray Detector at the Owens Valley Radio Observatory Long Wavelength Array**|Kathryn A. Plant et.al.|[2603.13205](http://arxiv.org/abs/2603.13205)|null|
+|**2026-03-13**|**Bounds on Agreement between Subjective and Objective Measurements**|Jaden Pieper et.al.|[2603.13204](http://arxiv.org/abs/2603.13204)|null|
+|**2026-03-13**|**$π$, K, and p production in high-multiplicity pp collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2603.13203](http://arxiv.org/abs/2603.13203)|null|
+|**2026-03-13**|**Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4~GHz**|Utkarsh Bhura et.al.|[2603.13194](http://arxiv.org/abs/2603.13194)|null|
 |**2026-03-12**|**HumDex:Humanoid Dexterous Manipulation Made Easy**|Liang Heng et.al.|[2603.12260](http://arxiv.org/abs/2603.12260)|null|
 |**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
 |**2026-03-12**|**The Euclidean $φ^4_2$ theory as a limit of an inhomogeneous Bose gas**|Cristina Caraci et.al.|[2603.12241](http://arxiv.org/abs/2603.12241)|null|
@@ -1342,5 +1352,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
