@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**CritiSense: Critical Digital Literacy and Resilience Against Misinformation**|Firoj Alam et.al.|[2603.16672](http://arxiv.org/abs/2603.16672)|null|
 |**2026-03-16**|**Exposing Cross-Modal Consistency for Fake News Detection in Short-Form Videos**|Chong Tian et.al.|[2603.14992](http://arxiv.org/abs/2603.14992)|null|
 |**2026-03-12**|**Trust Oriented Explainable AI for Fake News Detection**|Krzysztof Siwek et.al.|[2603.11778](http://arxiv.org/abs/2603.11778)|null|
 |**2026-03-10**|**Enhancing Debunking Effectiveness through LLM-based Personality Adaptation**|Pietro Dell'Oglio et.al.|[2603.09533](http://arxiv.org/abs/2603.09533)|null|
@@ -211,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
+|**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868](http://arxiv.org/abs/2603.16868)|null|
+|**2026-03-17**|**New benchmarks for direct detection of freeze-in dark matter in vector portal models**|David Cerdeño et.al.|[2603.16863](http://arxiv.org/abs/2603.16863)|null|
+|**2026-03-17**|**Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory**|Sahil Sen et.al.|[2603.16862](http://arxiv.org/abs/2603.16862)|null|
+|**2026-03-17**|**GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators**|Mattia Rigotti et.al.|[2603.16849](http://arxiv.org/abs/2603.16849)|null|
+|**2026-03-17**|**Solving gravitational field equations by Wiener-Hopf matrix factorisation, and beyond**|M. Cristina Câmara et.al.|[2603.16847](http://arxiv.org/abs/2603.16847)|null|
+|**2026-03-17**|**Efficient Shadow Tomography of Thermal States**|Chi-Fang Chen et.al.|[2603.16845](http://arxiv.org/abs/2603.16845)|null|
+|**2026-03-17**|**Two-loop Six-point Planar Massless Feynman Integrals to Higher $ε$ Orders**|Yuanche Liu et.al.|[2603.16831](http://arxiv.org/abs/2603.16831)|null|
+|**2026-03-17**|**Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)**|Xiaoyu Chu et.al.|[2603.16818](http://arxiv.org/abs/2603.16818)|null|
+|**2026-03-17**|**Is Conformal Factuality for RAG-based LLMs Robust? Novel Metrics and Systematic Insights**|Yi Chen et.al.|[2603.16817](http://arxiv.org/abs/2603.16817)|null|
 |**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
 |**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
 |**2026-03-16**|**Low-Complexity and Consistent Graphon Estimation from Multiple Networks**|Roland Boniface Sogan et.al.|[2603.15578](http://arxiv.org/abs/2603.15578)|null|
