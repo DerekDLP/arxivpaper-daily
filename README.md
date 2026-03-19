@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -108,7 +108,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Rumour
 
@@ -167,7 +167,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -218,12 +218,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**|Zhang Zhang et.al.|[2603.18000](http://arxiv.org/abs/2603.18000)|null|
+|**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
+|**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|null|
+|**2026-03-18**|**On min-Storey estimators for multiple testing and conformal novelty detection**|Gao Zijun et.al.|[2603.17984](http://arxiv.org/abs/2603.17984)|null|
+|**2026-03-18**|**A new class of orthogonal polynomials**|Stefan Kahler et.al.|[2603.17983](http://arxiv.org/abs/2603.17983)|null|
+|**2026-03-18**|**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition**|Vlad-Constantin Lungu-Stan et.al.|[2603.17965](http://arxiv.org/abs/2603.17965)|null|
+|**2026-03-18**|**Outer and inner medians in some small lattices**|Leen Aburub et.al.|[2603.17958](http://arxiv.org/abs/2603.17958)|null|
+|**2026-03-18**|**Augmenting Scholarly Reading with Cross-Media Annotations**|Qi Xu et.al.|[2603.17957](http://arxiv.org/abs/2603.17957)|null|
+|**2026-03-18**|**Simulations of a 2 x 1.5D coded aperture camera for X-ray astronomy**|J. J. M. in 't Zand et.al.|[2603.17938](http://arxiv.org/abs/2603.17938)|null|
+|**2026-03-18**|**Non-Fermi-liquid behaviour of electrons coupled to gauge phonons**|Rutvij Gholap et.al.|[2603.17937](http://arxiv.org/abs/2603.17937)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868](http://arxiv.org/abs/2603.16868)|null|
 |**2026-03-17**|**New benchmarks for direct detection of freeze-in dark matter in vector portal models**|David Cerdeño et.al.|[2603.16863](http://arxiv.org/abs/2603.16863)|null|
@@ -1375,5 +1385,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 

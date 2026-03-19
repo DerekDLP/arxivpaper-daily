@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -212,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**|Zhang Zhang et.al.|[2603.18000](http://arxiv.org/abs/2603.18000)|null|
+|**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
+|**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|null|
+|**2026-03-18**|**On min-Storey estimators for multiple testing and conformal novelty detection**|Gao Zijun et.al.|[2603.17984](http://arxiv.org/abs/2603.17984)|null|
+|**2026-03-18**|**A new class of orthogonal polynomials**|Stefan Kahler et.al.|[2603.17983](http://arxiv.org/abs/2603.17983)|null|
+|**2026-03-18**|**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition**|Vlad-Constantin Lungu-Stan et.al.|[2603.17965](http://arxiv.org/abs/2603.17965)|null|
+|**2026-03-18**|**Outer and inner medians in some small lattices**|Leen Aburub et.al.|[2603.17958](http://arxiv.org/abs/2603.17958)|null|
+|**2026-03-18**|**Augmenting Scholarly Reading with Cross-Media Annotations**|Qi Xu et.al.|[2603.17957](http://arxiv.org/abs/2603.17957)|null|
+|**2026-03-18**|**Simulations of a 2 x 1.5D coded aperture camera for X-ray astronomy**|J. J. M. in 't Zand et.al.|[2603.17938](http://arxiv.org/abs/2603.17938)|null|
+|**2026-03-18**|**Non-Fermi-liquid behaviour of electrons coupled to gauge phonons**|Rutvij Gholap et.al.|[2603.17937](http://arxiv.org/abs/2603.17937)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868](http://arxiv.org/abs/2603.16868)|null|
 |**2026-03-17**|**New benchmarks for direct detection of freeze-in dark matter in vector portal models**|David Cerdeño et.al.|[2603.16863](http://arxiv.org/abs/2603.16863)|null|
