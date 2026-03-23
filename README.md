@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**LLM-MRD: LLM-Guided Multi-View Reasoning Distillation for Fake News Detection**|Weilin Zhou et.al.|[2603.19293](http://arxiv.org/abs/2603.19293)|null|
 |**2026-03-17**|**CritiSense: Critical Digital Literacy and Resilience Against Misinformation**|Firoj Alam et.al.|[2603.16672](http://arxiv.org/abs/2603.16672)|null|
 |**2026-03-16**|**Exposing Cross-Modal Consistency for Fake News Detection in Short-Form Videos**|Chong Tian et.al.|[2603.14992](http://arxiv.org/abs/2603.14992)|null|
 |**2026-03-12**|**Trust Oriented Explainable AI for Fake News Detection**|Krzysztof Siwek et.al.|[2603.11778](http://arxiv.org/abs/2603.11778)|null|
@@ -108,12 +109,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**A study of centrality measures in random recursive trees**|Richard Coll Josifov et.al.|[2603.19493](http://arxiv.org/abs/2603.19493)|null|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-07**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
 |**2026-01-28**|**Toward Effective Multi-Domain Rumor Detection in Social Networks Using Domain-Gated Mixture-of-Experts**|Mohadeseh Sheikhqoraei et.al.|[2602.21214](http://arxiv.org/abs/2602.21214)|null|
@@ -167,7 +169,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -219,12 +221,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Improved constraint on the Hubble constant from dark sirens with LIGO/Virgo/KAGRA O4a**|V. Alfradique et.al.|[2603.20195](http://arxiv.org/abs/2603.20195)|null|
+|**2026-03-20**|**From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**|Xinyi Shang et.al.|[2603.20193](http://arxiv.org/abs/2603.20193)|null|
+|**2026-03-20**|**Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods**|Sebastian Gerard et.al.|[2603.20188](http://arxiv.org/abs/2603.20188)|null|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Curve-flat functions and Lipschitz quotients**|Jaan Kristjan Kaasik et.al.|[2603.20177](http://arxiv.org/abs/2603.20177)|null|
+|**2026-03-20**|**Quantum inference on a classically trained quantum extreme learning machine**|Emanuele Brusaschi et.al.|[2603.20167](http://arxiv.org/abs/2603.20167)|null|
+|**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
+|**2026-03-20**|**When Cubic Is Not Isotropic: Phonon-Exciton Decoupling in CuInSnS $_4$ Single Crystals**|Lara Kim Linke et.al.|[2603.20159](http://arxiv.org/abs/2603.20159)|null|
+|**2026-03-20**|**Global solutions to cross-diffusion systems with independent advections in one dimension**|Jakub Skrzeczkowski et.al.|[2603.20153](http://arxiv.org/abs/2603.20153)|null|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
 |**2026-03-19**|**F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World**|Ziyin Zhang et.al.|[2603.19223](http://arxiv.org/abs/2603.19223)|null|
 |**2026-03-19**|**Online Learning and Equilibrium Computation with Ranking Feedback**|Mingyang Liu et.al.|[2603.19221](http://arxiv.org/abs/2603.19221)|null|
 |**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|
@@ -1396,5 +1408,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
