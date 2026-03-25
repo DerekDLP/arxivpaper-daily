@@ -1,4 +1,4 @@
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -110,12 +110,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer**|Chaoqun Cui et.al.|[2603.22854](http://arxiv.org/abs/2603.22854)|null|
 |**2026-03-19**|**A study of centrality measures in random recursive trees**|Richard Coll Josifov et.al.|[2603.19493](http://arxiv.org/abs/2603.19493)|null|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
 |**2026-03-07**|**Relay transitions and invasion thresholds in multi-strain rumor models: a chemical reaction network approach**|Florin Avram et.al.|[2603.01186](http://arxiv.org/abs/2603.01186)|null|
@@ -170,7 +171,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -222,12 +223,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
+|**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
+|**2026-03-24**|**Thickness effects in the electromechanical stability of charged biological membranes**|Sirui Ning et.al.|[2603.23477](http://arxiv.org/abs/2603.23477)|null|
+|**2026-03-24**|**Evidence of political bias in search engines and language models before major elections**|Íris Damião et.al.|[2603.23474](http://arxiv.org/abs/2603.23474)|null|
+|**2026-03-24**|**Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions**|Rustem Islamov et.al.|[2603.23472](http://arxiv.org/abs/2603.23472)|null|
+|**2026-03-24**|**A new proof of Funayama's theorem**|Guram Bezhanishvili et.al.|[2603.23464](http://arxiv.org/abs/2603.23464)|null|
+|**2026-03-24**|**Mahler series with multiplicative coefficient sequences**|Jason Bell et.al.|[2603.23456](http://arxiv.org/abs/2603.23456)|null|
+|**2026-03-24**|**Search for new particles decaying into top quark-antiquark pairs in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2603.23454](http://arxiv.org/abs/2603.23454)|null|
+|**2026-03-24**|**Evaluating LLM-Based Test Generation Under Software Evolution**|Sabaat Haroon et.al.|[2603.23443](http://arxiv.org/abs/2603.23443)|null|
+|**2026-03-24**|**SIGMA: A Physics-Based Benchmark for Gas Chimney Understanding in Seismic Images**|Bao Truong et.al.|[2603.23439](http://arxiv.org/abs/2603.23439)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
 |**2026-03-23**|**Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration**|Zakaria Mhammedi et.al.|[2603.22273](http://arxiv.org/abs/2603.22273)|null|
 |**2026-03-23**|**Cohesive Membranes under determinant constraints**|Nicola Pio Melillo et.al.|[2603.22265](http://arxiv.org/abs/2603.22265)|null|
@@ -1419,5 +1430,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
