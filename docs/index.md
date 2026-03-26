@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -167,6 +167,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Stance Labels Fail When They Matter Most: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
+|**2026-03-07**|**Large Language Models Unpack Complex Political Opinions through Target-Stance Extraction**|Özgür Togay et.al.|[2603.23531](http://arxiv.org/abs/2603.23531)|null|
 |**2026-03-19**|**A conceptual framework for ideology beyond the left and right**|Kenneth Joseph et.al.|[2603.18945](http://arxiv.org/abs/2603.18945)|null|
 |**2026-03-15**|**Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models**|Yixuan Tang et.al.|[2603.14313](http://arxiv.org/abs/2603.14313)|null|
 |**2026-02-16**|**TruthStance: An Annotated Dataset of Conversations on Truth Social**|Fathima Ameen et.al.|[2602.14406](http://arxiv.org/abs/2602.14406)|null|
@@ -217,6 +219,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving**|Linbo Wang et.al.|[2603.24581](http://arxiv.org/abs/2603.24581)|null|
+|**2026-03-25**|**Dynamical Systems in Cosmology: Reviewing An Alternative Approach**|Nandan Roy et.al.|[2603.24568](http://arxiv.org/abs/2603.24568)|null|
+|**2026-03-25**|**Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction**|Haresh Rengaraj Rajamohan et.al.|[2603.24562](http://arxiv.org/abs/2603.24562)|null|
+|**2026-03-25**|**Optimal Multidimensional Convolutional Codes**|Z. Abreu et.al.|[2603.24546](http://arxiv.org/abs/2603.24546)|null|
+|**2026-03-25**|**Two-level nonlinear Schwarz methods - a parallel implementation with application to nonlinear elasticity and incompressible flow problems**|Kyrill Ho et.al.|[2603.24542](http://arxiv.org/abs/2603.24542)|null|
+|**2026-03-25**|**CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition**|Florian Stilz et.al.|[2603.24539](http://arxiv.org/abs/2603.24539)|null|
+|**2026-03-25**|**$Spin(n,n)\times\mathbb{R}^+$ Generalised Geometry and Consistent Truncations on Branes**|Jieming Lin et.al.|[2603.24534](http://arxiv.org/abs/2603.24534)|null|
+|**2026-03-25**|**Fault-Tolerant Distance Oracles Below the $n \cdot f$ Barrier**|Sanjeev Khanna et.al.|[2603.24530](http://arxiv.org/abs/2603.24530)|null|
+|**2026-03-25**|**TuneShift-KD: Knowledge Distillation and Transfer for Fine-tuned Models**|Yushi Guan et.al.|[2603.24518](http://arxiv.org/abs/2603.24518)|null|
+|**2026-03-25**|**AVO: Agentic Variation Operators for Autonomous Evolutionary Search**|Terry Chen et.al.|[2603.24517](http://arxiv.org/abs/2603.24517)|null|
 |**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499](http://arxiv.org/abs/2603.23499)|null|
 |**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
 |**2026-03-24**|**Thickness effects in the electromechanical stability of charged biological membranes**|Sirui Ning et.al.|[2603.23477](http://arxiv.org/abs/2603.23477)|null|
