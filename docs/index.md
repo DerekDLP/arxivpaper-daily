@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
 |**2026-03-23**|**Empirical Evaluation of Link Deletion Methods for Limiting Information Diffusion on Social Media**|Shiori Furukawa et.al.|[2603.21470](http://arxiv.org/abs/2603.21470)|null|
 |**2026-03-10**|**LLM-MRD: LLM-Guided Multi-View Reasoning Distillation for Fake News Detection**|Weilin Zhou et.al.|[2603.19293](http://arxiv.org/abs/2603.19293)|null|
 |**2026-03-17**|**CritiSense: Critical Digital Literacy and Resilience Against Misinformation**|Firoj Alam et.al.|[2603.16672](http://arxiv.org/abs/2603.16672)|null|
@@ -219,6 +220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
+|**2026-03-26**|**Iterated beta integrals**|Minoru Hirose et.al.|[2603.25717](http://arxiv.org/abs/2603.25717)|null|
+|**2026-03-26**|**The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase**|Yannick Roy et.al.|[2603.25697](http://arxiv.org/abs/2603.25697)|null|
+|**2026-03-26**|**Fast and Accurate CP-HIFI Tensor Decompositions: Exploiting Kronecker Structure**|Johannes J. Brust et.al.|[2603.25691](http://arxiv.org/abs/2603.25691)|null|
+|**2026-03-26**|**Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning**|Jai Bardhan et.al.|[2603.25685](http://arxiv.org/abs/2603.25685)|null|
+|**2026-03-26**|**$(n,d)$ -Coherent Rings**|Rafael Parra et.al.|[2603.25679](http://arxiv.org/abs/2603.25679)|null|
+|**2026-03-26**|**Uncertainty-Guided Label Rebalancing for CPS Safety Monitoring**|John Ayotunde et.al.|[2603.25670](http://arxiv.org/abs/2603.25670)|null|
+|**2026-03-26**|**Wind-tree tiling billiards and their trapping strips**|Magali Jay et.al.|[2603.25654](http://arxiv.org/abs/2603.25654)|null|
+|**2026-03-26**|**Prediction of new superconducting bilayers heterostructures using quantum confinement and proximity effects**|Giovanni A. Ummarino et.al.|[2603.25648](http://arxiv.org/abs/2603.25648)|null|
+|**2026-03-26**|**Critical moments of slices and slabs of the cube (and other polyhedral norms)**|Marie-Charlotte Brandenburg et.al.|[2603.25643](http://arxiv.org/abs/2603.25643)|null|
 |**2026-03-25**|**Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving**|Linbo Wang et.al.|[2603.24581](http://arxiv.org/abs/2603.24581)|null|
 |**2026-03-25**|**Dynamical Systems in Cosmology: Reviewing An Alternative Approach**|Nandan Roy et.al.|[2603.24568](http://arxiv.org/abs/2603.24568)|null|
 |**2026-03-25**|**Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction**|Haresh Rengaraj Rajamohan et.al.|[2603.24562](http://arxiv.org/abs/2603.24562)|null|
