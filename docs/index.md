@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.29
+## Updated on 2026.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**|Zizhao Chen et.al.|[2603.26052](http://arxiv.org/abs/2603.26052)|null|
 |**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
 |**2026-03-23**|**Empirical Evaluation of Link Deletion Methods for Limiting Information Diffusion on Social Media**|Shiori Furukawa et.al.|[2603.21470](http://arxiv.org/abs/2603.21470)|null|
 |**2026-03-10**|**LLM-MRD: LLM-Guided Multi-View Reasoning Distillation for Fake News Detection**|Weilin Zhou et.al.|[2603.19293](http://arxiv.org/abs/2603.19293)|null|
@@ -220,6 +221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Learning to Commit: Generating Organic Pull Requests via Online Repository Memory**|Mo Li et.al.|[2603.26664](http://arxiv.org/abs/2603.26664)|null|
+|**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|null|
+|**2026-03-27**|**Make Geometry Matter for Spatial Reasoning**|Shihua Zhang et.al.|[2603.26639](http://arxiv.org/abs/2603.26639)|null|
+|**2026-03-27**|**Patched-Wall Quasistatic Cavity Resonators for 3-D Wireless Power Transfer**|Takuya Sasatani et.al.|[2603.26636](http://arxiv.org/abs/2603.26636)|null|
+|**2026-03-27**|**Sensitivity to new physics: single-Higgs couplings vs. the trilinear Higgs coupling**|Henning Bahl et.al.|[2603.26633](http://arxiv.org/abs/2603.26633)|null|
+|**2026-03-27**|**Learning From Social Interactions: Personalized Pricing and Buyer Manipulation**|Qinqi Lin et.al.|[2603.26631](http://arxiv.org/abs/2603.26631)|null|
+|**2026-03-27**|**New directions in the study of prime ideals in rational, nilpotent Iwasawa algebras**|Adam Jones et.al.|[2603.26626](http://arxiv.org/abs/2603.26626)|null|
+|**2026-03-27**|**T-dualities and scale-separated AdS $_3$ in massless IIA on $(X_6 \times S^1)/\mathbb{Z}_2$**|George Tringas et.al.|[2603.26615](http://arxiv.org/abs/2603.26615)|null|
+|**2026-03-27**|**Function-Based Minimal Linear Codes over Galois Rings $\mathrm{GR}(p^{n}, \ell)$ : Minimality Criteria and Infinite Constructions**|Biplab Chatterjee et.al.|[2603.26614](http://arxiv.org/abs/2603.26614)|null|
+|**2026-03-27**|**An Online Approach for Entanglement Verification Using Classical Shadows**|Marwa Marso et.al.|[2603.26602](http://arxiv.org/abs/2603.26602)|null|
 |**2026-03-26**|**PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow**|Xincheng Shuai et.al.|[2603.25738](http://arxiv.org/abs/2603.25738)|null|
 |**2026-03-26**|**Iterated beta integrals**|Minoru Hirose et.al.|[2603.25717](http://arxiv.org/abs/2603.25717)|null|
 |**2026-03-26**|**The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase**|Yannick Roy et.al.|[2603.25697](http://arxiv.org/abs/2603.25697)|null|
