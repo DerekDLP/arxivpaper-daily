@@ -1,4 +1,4 @@
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -112,7 +112,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Rumour
 
@@ -173,7 +173,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -227,12 +227,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
+|**2026-03-30**|**Adaptive Block-Scaled Data Types**|Jack Cook et.al.|[2603.28765](http://arxiv.org/abs/2603.28765)|null|
+|**2026-03-30**|**Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data**|Shi-Fan Chen et.al.|[2603.28761](http://arxiv.org/abs/2603.28761)|null|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759](http://arxiv.org/abs/2603.28759)|null|
+|**2026-03-30**|**Iran's January 2026 Internet Shutdown: Public Data, Censorship Methods, and Circumvention Techniques**|Giuseppe Aceto et.al.|[2603.28753](http://arxiv.org/abs/2603.28753)|null|
+|**2026-03-30**|**The average X-ray spectrum of the volume-complete M-, F-, G-, and K-type star sample within 10 pc of the Sun**|Xueying Zheng et.al.|[2603.28751](http://arxiv.org/abs/2603.28751)|null|
+|**2026-03-30**|**Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks**|Meitong Liu et.al.|[2603.28739](http://arxiv.org/abs/2603.28739)|null|
+|**2026-03-30**|**See it to Place it: Evolving Macro Placements with Vision-Language Models**|Ikechukwu Uchendu et.al.|[2603.28733](http://arxiv.org/abs/2603.28733)|null|
+|**2026-03-30**|**ACE2-NEMO: Coupling an ML atmospheric emulator to a full-depth dynamical ocean model**|Bobby Antonio et.al.|[2603.28704](http://arxiv.org/abs/2603.28704)|null|
+|**2026-03-30**|**Distribution of the magnetization of the critical Ising model on sparse random graphs**|Kyprianos-Iason Prodromidis et.al.|[2603.28702](http://arxiv.org/abs/2603.28702)|null|
 |**2026-03-27**|**Learning to Commit: Generating Organic Pull Requests via Online Repository Memory**|Mo Li et.al.|[2603.26664](http://arxiv.org/abs/2603.26664)|null|
 |**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|null|
 |**2026-03-27**|**Make Geometry Matter for Spatial Reasoning**|Shihua Zhang et.al.|[2603.26639](http://arxiv.org/abs/2603.26639)|null|
@@ -1464,5 +1474,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 

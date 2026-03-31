@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -221,6 +221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
+|**2026-03-30**|**Adaptive Block-Scaled Data Types**|Jack Cook et.al.|[2603.28765](http://arxiv.org/abs/2603.28765)|null|
+|**2026-03-30**|**Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data**|Shi-Fan Chen et.al.|[2603.28761](http://arxiv.org/abs/2603.28761)|null|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759](http://arxiv.org/abs/2603.28759)|null|
+|**2026-03-30**|**Iran's January 2026 Internet Shutdown: Public Data, Censorship Methods, and Circumvention Techniques**|Giuseppe Aceto et.al.|[2603.28753](http://arxiv.org/abs/2603.28753)|null|
+|**2026-03-30**|**The average X-ray spectrum of the volume-complete M-, F-, G-, and K-type star sample within 10 pc of the Sun**|Xueying Zheng et.al.|[2603.28751](http://arxiv.org/abs/2603.28751)|null|
+|**2026-03-30**|**Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks**|Meitong Liu et.al.|[2603.28739](http://arxiv.org/abs/2603.28739)|null|
+|**2026-03-30**|**See it to Place it: Evolving Macro Placements with Vision-Language Models**|Ikechukwu Uchendu et.al.|[2603.28733](http://arxiv.org/abs/2603.28733)|null|
+|**2026-03-30**|**ACE2-NEMO: Coupling an ML atmospheric emulator to a full-depth dynamical ocean model**|Bobby Antonio et.al.|[2603.28704](http://arxiv.org/abs/2603.28704)|null|
+|**2026-03-30**|**Distribution of the magnetization of the critical Ising model on sparse random graphs**|Kyprianos-Iason Prodromidis et.al.|[2603.28702](http://arxiv.org/abs/2603.28702)|null|
 |**2026-03-27**|**Learning to Commit: Generating Organic Pull Requests via Online Repository Memory**|Mo Li et.al.|[2603.26664](http://arxiv.org/abs/2603.26664)|null|
 |**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|null|
 |**2026-03-27**|**Make Geometry Matter for Spatial Reasoning**|Shihua Zhang et.al.|[2603.26639](http://arxiv.org/abs/2603.26639)|null|
