@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -169,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-03-25**|**Stance Labels Fail When They Matter Most: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
 |**2026-03-07**|**Large Language Models Unpack Complex Political Opinions through Target-Stance Extraction**|Özgür Togay et.al.|[2603.23531](http://arxiv.org/abs/2603.23531)|null|
 |**2026-03-19**|**A conceptual framework for ideology beyond the left and right**|Kenneth Joseph et.al.|[2603.18945](http://arxiv.org/abs/2603.18945)|null|
@@ -221,6 +222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Electronic structure and correlation of La $_4$Co$_2$NiO$_8$Cl$_2$: a theoretical proposal for a La$_4$Ni$_3$O$_{10}$ -like high-temperature superconductor**|Si-Yong Jia et.al.|[2604.01223](http://arxiv.org/abs/2604.01223)|null|
+|**2026-04-01**|**HippoCamp: Benchmarking Contextual Agents on Personal Computers**|Zhe Yang et.al.|[2604.01221](http://arxiv.org/abs/2604.01221)|null|
+|**2026-04-01**|**Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**|L. Heinke et.al.|[2604.01219](http://arxiv.org/abs/2604.01219)|null|
+|**2026-04-01**|**Analytic nuclear gradients including oriented external electric fields in a molecule-fixed frame**|Duc Anh Lai et.al.|[2604.01189](http://arxiv.org/abs/2604.01189)|null|
+|**2026-04-01**|**Competition at the front of expanding populations**|Sergio Eraso et.al.|[2604.01187](http://arxiv.org/abs/2604.01187)|null|
+|**2026-04-01**|**High Performance Quantum Emulation for Chemistry Applications with Hyperion**|Olivier Adjoua et.al.|[2604.01176](http://arxiv.org/abs/2604.01176)|null|
+|**2026-04-01**|**Functional Moments Regression**|Mingyuan Li et.al.|[2604.01172](http://arxiv.org/abs/2604.01172)|null|
+|**2026-04-01**|**Varieties of electrically charged physical states in SU(2) $\times$ U(1) lattice gauge Higgs theory**|Jeff Greensite et.al.|[2604.01166](http://arxiv.org/abs/2604.01166)|null|
+|**2026-04-01**|**Affine Normal Directions via Log-Determinant Geometry: Scalable Computation under Sparse Polynomial Structure**|Yi-Shuai Niu et.al.|[2604.01163](http://arxiv.org/abs/2604.01163)|null|
+|**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[2604.01152](http://arxiv.org/abs/2604.01152)|null|
 |**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
 |**2026-03-30**|**Adaptive Block-Scaled Data Types**|Jack Cook et.al.|[2603.28765](http://arxiv.org/abs/2603.28765)|null|
 |**2026-03-30**|**Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data**|Shi-Fan Chen et.al.|[2603.28761](http://arxiv.org/abs/2603.28761)|null|

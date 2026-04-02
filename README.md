@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -112,7 +112,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## Rumour
 
@@ -173,12 +173,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-03-25**|**Stance Labels Fail When They Matter Most: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
 |**2026-03-07**|**Large Language Models Unpack Complex Political Opinions through Target-Stance Extraction**|Özgür Togay et.al.|[2603.23531](http://arxiv.org/abs/2603.23531)|null|
 |**2026-03-19**|**A conceptual framework for ideology beyond the left and right**|Kenneth Joseph et.al.|[2603.18945](http://arxiv.org/abs/2603.18945)|null|
@@ -227,12 +228,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Electronic structure and correlation of La $_4$Co$_2$NiO$_8$Cl$_2$: a theoretical proposal for a La$_4$Ni$_3$O$_{10}$ -like high-temperature superconductor**|Si-Yong Jia et.al.|[2604.01223](http://arxiv.org/abs/2604.01223)|null|
+|**2026-04-01**|**HippoCamp: Benchmarking Contextual Agents on Personal Computers**|Zhe Yang et.al.|[2604.01221](http://arxiv.org/abs/2604.01221)|null|
+|**2026-04-01**|**Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**|L. Heinke et.al.|[2604.01219](http://arxiv.org/abs/2604.01219)|null|
+|**2026-04-01**|**Analytic nuclear gradients including oriented external electric fields in a molecule-fixed frame**|Duc Anh Lai et.al.|[2604.01189](http://arxiv.org/abs/2604.01189)|null|
+|**2026-04-01**|**Competition at the front of expanding populations**|Sergio Eraso et.al.|[2604.01187](http://arxiv.org/abs/2604.01187)|null|
+|**2026-04-01**|**High Performance Quantum Emulation for Chemistry Applications with Hyperion**|Olivier Adjoua et.al.|[2604.01176](http://arxiv.org/abs/2604.01176)|null|
+|**2026-04-01**|**Functional Moments Regression**|Mingyuan Li et.al.|[2604.01172](http://arxiv.org/abs/2604.01172)|null|
+|**2026-04-01**|**Varieties of electrically charged physical states in SU(2) $\times$ U(1) lattice gauge Higgs theory**|Jeff Greensite et.al.|[2604.01166](http://arxiv.org/abs/2604.01166)|null|
+|**2026-04-01**|**Affine Normal Directions via Log-Determinant Geometry: Scalable Computation under Sparse Polynomial Structure**|Yi-Shuai Niu et.al.|[2604.01163](http://arxiv.org/abs/2604.01163)|null|
+|**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[2604.01152](http://arxiv.org/abs/2604.01152)|null|
 |**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
 |**2026-03-30**|**Adaptive Block-Scaled Data Types**|Jack Cook et.al.|[2603.28765](http://arxiv.org/abs/2603.28765)|null|
 |**2026-03-30**|**Cosmic Shear in Effective Field Theory at Two-Loop Order: Revisiting $S_8$ in Dark Energy Survey Data**|Shi-Fan Chen et.al.|[2603.28761](http://arxiv.org/abs/2603.28761)|null|
@@ -1474,5 +1485,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
