@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification**|Géraud Faye et.al.|[2604.01936](http://arxiv.org/abs/2604.01936)|null|
 |**2026-03-27**|**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**|Zizhao Chen et.al.|[2603.26052](http://arxiv.org/abs/2603.26052)|null|
 |**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
 |**2026-03-23**|**Empirical Evaluation of Link Deletion Methods for Limiting Information Diffusion on Social Media**|Shiori Furukawa et.al.|[2603.21470](http://arxiv.org/abs/2603.21470)|null|
@@ -222,6 +223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI**|Måns Holmberg et.al.|[2604.02332](http://arxiv.org/abs/2604.02332)|null|
+|**2026-04-02**|**EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors**|Luca Bartolomei et.al.|[2604.02331](http://arxiv.org/abs/2604.02331)|null|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
+|**2026-04-02**|**Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation**|Daiwei Chen et.al.|[2604.02324](http://arxiv.org/abs/2604.02324)|null|
+|**2026-04-02**|**go- $m$ HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices**|Torque Dandachi et.al.|[2604.02309](http://arxiv.org/abs/2604.02309)|null|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
+|**2026-04-02**|**Deep Neural Network Based Roadwork Detection for Autonomous Driving**|Sebastian Wullrich et.al.|[2604.02282](http://arxiv.org/abs/2604.02282)|null|
+|**2026-04-02**|**The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management**|Andrew Ang et.al.|[2604.02279](http://arxiv.org/abs/2604.02279)|null|
+|**2026-04-02**|**Random Turán Problems for Graphs with a Vertex Complete to One Part**|Sean Longbrake et.al.|[2604.02264](http://arxiv.org/abs/2604.02264)|null|
+|**2026-04-02**|**A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots**|Weiting Feng et.al.|[2604.02256](http://arxiv.org/abs/2604.02256)|null|
 |**2026-04-01**|**Electronic structure and correlation of La $_4$Co$_2$NiO$_8$Cl$_2$: a theoretical proposal for a La$_4$Ni$_3$O$_{10}$ -like high-temperature superconductor**|Si-Yong Jia et.al.|[2604.01223](http://arxiv.org/abs/2604.01223)|null|
 |**2026-04-01**|**HippoCamp: Benchmarking Contextual Agents on Personal Computers**|Zhe Yang et.al.|[2604.01221](http://arxiv.org/abs/2604.01221)|null|
 |**2026-04-01**|**Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**|L. Heinke et.al.|[2604.01219](http://arxiv.org/abs/2604.01219)|null|
