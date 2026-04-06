@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -223,6 +223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo**|Vaishnav V. Rao et.al.|[2604.03230](http://arxiv.org/abs/2604.03230)|null|
+|**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[2604.03212](http://arxiv.org/abs/2604.03212)|null|
+|**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|
+|**2026-04-03**|**The extreme statistics of some noncolliding Brownian processes**|Mustazee Rahman et.al.|[2604.03206](http://arxiv.org/abs/2604.03206)|null|
+|**2026-04-03**|**A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security**|Rahul Jaiswal et.al.|[2604.03205](http://arxiv.org/abs/2604.03205)|null|
+|**2026-04-03**|**Duality of operator Frobenius algebras and solution of Eisenhart-Stäckel problem in the non-diagonal case**|Alexey V. Bolsinov et.al.|[2604.03195](http://arxiv.org/abs/2604.03195)|null|
+|**2026-04-03**|**Quantum Contact Processes on a Topological Lattice**|Julius Bohm et.al.|[2604.03184](http://arxiv.org/abs/2604.03184)|null|
+|**2026-04-03**|**Observation of anomalous thermal Hall effect in altermagnets**|Wenbo Wan et.al.|[2604.03183](http://arxiv.org/abs/2604.03183)|null|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|
+|**2026-04-03**|**Determination of the ground state polarizability of $^{162}$ Dy near 530 nm**|Alexandre Journeaux et.al.|[2604.03177](http://arxiv.org/abs/2604.03177)|null|
 |**2026-04-02**|**Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI**|Måns Holmberg et.al.|[2604.02332](http://arxiv.org/abs/2604.02332)|null|
 |**2026-04-02**|**EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors**|Luca Bartolomei et.al.|[2604.02331](http://arxiv.org/abs/2604.02331)|null|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
