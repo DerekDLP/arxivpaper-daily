@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection**|Cheng Xu et.al.|[2604.04815](http://arxiv.org/abs/2604.04815)|null|
+|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
 |**2026-04-02**|**Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification**|Géraud Faye et.al.|[2604.01936](http://arxiv.org/abs/2604.01936)|null|
 |**2026-03-27**|**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**|Zizhao Chen et.al.|[2603.26052](http://arxiv.org/abs/2603.26052)|null|
 |**2026-03-26**|**An Experimental Comparison of the Most Popular Approaches to Fake News Detection**|Pietro Dell'Oglio et.al.|[2603.25501](http://arxiv.org/abs/2603.25501)|null|
@@ -113,7 +115,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Rumour
 
@@ -174,7 +176,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -229,12 +231,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
+|**2026-04-06**|**Topology of minimal surfaces in the sphere from capillarity**|Benjy Firester et.al.|[2604.04928](http://arxiv.org/abs/2604.04928)|null|
+|**2026-04-06**|**Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo**|Zeyu Ma et.al.|[2604.04925](http://arxiv.org/abs/2604.04925)|null|
+|**2026-04-06**|**Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning**|Xuyang Shen et.al.|[2604.04916](http://arxiv.org/abs/2604.04916)|null|
+|**2026-04-06**|**Counting geodesic paths in graphs**|Martin Knor et.al.|[2604.04907](http://arxiv.org/abs/2604.04907)|null|
+|**2026-04-06**|**On Semisymmetric Height and a Multidimensional Generalization of Weighted Catalan Numbers**|Ryota Inagaki et.al.|[2604.04900](http://arxiv.org/abs/2604.04900)|null|
+|**2026-04-06**|**Cloning Encrypted Quantum States in Arbitrary Dimensions**|Filip-Ioan Ceară et.al.|[2604.04888](http://arxiv.org/abs/2604.04888)|null|
+|**2026-04-06**|**Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms**|James Hu et.al.|[2604.04868](http://arxiv.org/abs/2604.04868)|null|
+|**2026-04-06**|**Measurement of the galaxy-velocity power spectrum of DESI tracers with the kinematic Sunyaev-Zeldovich effect using DESI DR2 and ACT DR6**|Edmond Chaussidon et.al.|[2604.04867](http://arxiv.org/abs/2604.04867)|null|
+|**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
 |**2026-04-03**|**Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo**|Vaishnav V. Rao et.al.|[2604.03230](http://arxiv.org/abs/2604.03230)|null|
 |**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[2604.03212](http://arxiv.org/abs/2604.03212)|null|
 |**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|
@@ -1506,5 +1518,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
