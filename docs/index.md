@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[2604.06687](http://arxiv.org/abs/2604.06687)|null|
+|**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|null|
 |**2026-04-06**|**LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection**|Cheng Xu et.al.|[2604.04815](http://arxiv.org/abs/2604.04815)|null|
 |**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
 |**2026-04-02**|**Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification**|Géraud Faye et.al.|[2604.01936](http://arxiv.org/abs/2604.01936)|null|
@@ -172,6 +174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)**|Liang-Chih Yu et.al.|[2604.07066](http://arxiv.org/abs/2604.07066)|null|
+|**2026-04-07**|**Content Fuzzing for Escaping Information Cocoons on Digital Social Media**|Yifeng He et.al.|[2604.05461](http://arxiv.org/abs/2604.05461)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-03-25**|**Stance Labels Fail When They Matter Most: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
 |**2026-03-07**|**Large Language Models Unpack Complex Political Opinions through Target-Stance Extraction**|Özgür Togay et.al.|[2603.23531](http://arxiv.org/abs/2603.23531)|null|
@@ -225,6 +229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories**|Ali Reza Ibrahimzada et.al.|[2604.07341](http://arxiv.org/abs/2604.07341)|null|
+|**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|null|
+|**2026-04-08**|**Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory**|Alexander Cassem et.al.|[2604.07332](http://arxiv.org/abs/2604.07332)|null|
+|**2026-04-08**|**How to sketch a learning algorithm**|Sam Gunn et.al.|[2604.07328](http://arxiv.org/abs/2604.07328)|null|
+|**2026-04-08**|**Conformal Prediction with Time-Series Data via Sequential Conformalized Density Regions**|M. Sampson et.al.|[2604.07325](http://arxiv.org/abs/2604.07325)|null|
+|**2026-04-08**|**Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction**|Jackson Petty et.al.|[2604.07320](http://arxiv.org/abs/2604.07320)|null|
+|**2026-04-08**|**Rotation of the Transition Dipole in Single hBN Quantum Emitters via Vibronic Coupling**|Serkan Paçal et.al.|[2604.07314](http://arxiv.org/abs/2604.07314)|null|
+|**2026-04-08**|**A Proposed Framework for Advanced (Multi)Linear Infrastructure in Engineering and Science (FAMLIES)**|Devin A. Matthews et.al.|[2604.07311](http://arxiv.org/abs/2604.07311)|null|
+|**2026-04-08**|**Improved Implementation of Approximate Full Mass Matrix Inverse Methods into Material Point Method Simulations**|John A. Nairn et.al.|[2604.07307](http://arxiv.org/abs/2604.07307)|null|
+|**2026-04-08**|**Gravitational wave signal and noise response of an optically levitated sensor in a Fabry-Pérot cavity**|Andrew Laeuger et.al.|[2604.07302](http://arxiv.org/abs/2604.07302)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-04-06**|**Topology of minimal surfaces in the sphere from capillarity**|Benjy Firester et.al.|[2604.04928](http://arxiv.org/abs/2604.04928)|null|
 |**2026-04-06**|**Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo**|Zeyu Ma et.al.|[2604.04925](http://arxiv.org/abs/2604.04925)|null|
