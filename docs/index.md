@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -229,6 +229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543](http://arxiv.org/abs/2604.08543)|null|
+|**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
+|**2026-04-09**|**Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**|Mu Nan et.al.|[2604.08537](http://arxiv.org/abs/2604.08537)|null|
+|**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|
+|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
+|**2026-04-09**|**Fresnel zone plates for reconfigurable atomic waveguides**|A. M. Pike et.al.|[2604.08518](http://arxiv.org/abs/2604.08518)|null|
+|**2026-04-09**|**Differentially Private Language Generation and Identification in the Limit**|Anay Mehrotra et.al.|[2604.08504](http://arxiv.org/abs/2604.08504)|null|
+|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|
+|**2026-04-09**|**The Impact of Dimensionality on the Stability of Node Embeddings**|Tobias Schumacher et.al.|[2604.08492](http://arxiv.org/abs/2604.08492)|null|
+|**2026-04-09**|**Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery**|Yifang Wang et.al.|[2604.08491](http://arxiv.org/abs/2604.08491)|null|
 |**2026-04-08**|**ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories**|Ali Reza Ibrahimzada et.al.|[2604.07341](http://arxiv.org/abs/2604.07341)|null|
 |**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|null|
 |**2026-04-08**|**Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory**|Alexander Cassem et.al.|[2604.07332](http://arxiv.org/abs/2604.07332)|null|
