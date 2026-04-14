@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960](http://arxiv.org/abs/2604.09960)|null|
+|**2026-04-08**|**Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality**|Kai Qian et.al.|[2604.09711](http://arxiv.org/abs/2604.09711)|null|
 |**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
 |**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[2604.06687](http://arxiv.org/abs/2604.06687)|null|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|null|
@@ -230,6 +232,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation**|WonJin Yoon et.al.|[2604.11801](http://arxiv.org/abs/2604.11801)|null|
+|**2026-04-13**|**Many-Body Super- and Subradiance in Ordered Atomic Arrays**|Alec Douglas et.al.|[2604.11795](http://arxiv.org/abs/2604.11795)|null|
+|**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
+|**2026-04-13**|**The stochastic Zakharov system in dimension $d \geq 4$ : Local well-posedness and regularization by noise for scattering**|Martin Spitz et.al.|[2604.11787](http://arxiv.org/abs/2604.11787)|null|
+|**2026-04-13**|**Extraction of Effective Electromagnetic Material Properties for Rydberg Electrometer Vapor Cells from 10-300 MHz**|D. Richardson et.al.|[2604.11785](http://arxiv.org/abs/2604.11785)|null|
+|**2026-04-13**|**Instantaneous blowup of incompressible flow with passive tracer**|Mimi Dai et.al.|[2604.11769](http://arxiv.org/abs/2604.11769)|null|
+|**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Quanyi Li et.al.|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
+|**2026-04-13**|**An active soft condensed matter approach to the Physics of living systems**|Nitin Kumar et.al.|[2604.11740](http://arxiv.org/abs/2604.11740)|null|
+|**2026-04-13**|**Nested Atoms Model with Application to Clustering Big Population-Scale Single-Cell Data**|Arhit Chakrabarti et.al.|[2604.11731](http://arxiv.org/abs/2604.11731)|null|
+|**2026-04-13**|**Universality of first-order methods on random and deterministic matrices**|Nicola Gorini et.al.|[2604.11729](http://arxiv.org/abs/2604.11729)|null|
 |**2026-04-10**|**A Physically-Informed Subgraph Isomorphism Approach to Molecular Docking Using Quantum Annealers**|Francesco Micucci et.al.|[2604.09540](http://arxiv.org/abs/2604.09540)|null|
 |**2026-04-10**|**Packing Compact Subgraphs with Applications to Districting**|Ho-Lin Chen et.al.|[2604.09522](http://arxiv.org/abs/2604.09522)|null|
 |**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
