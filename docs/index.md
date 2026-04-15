@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning**|Gautama Shastry Bulusu Venkata et.al.|[2604.12184](http://arxiv.org/abs/2604.12184)|null|
 |**2026-04-10**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960](http://arxiv.org/abs/2604.09960)|null|
 |**2026-04-08**|**Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality**|Kai Qian et.al.|[2604.09711](http://arxiv.org/abs/2604.09711)|null|
 |**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
@@ -232,6 +233,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Lyra 2.0: Explorable Generative 3D Worlds**|Tianchang Shen et.al.|[2604.13036](http://arxiv.org/abs/2604.13036)|null|
+|**2026-04-14**|**DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution**|Chenwei Xie et.al.|[2604.13034](http://arxiv.org/abs/2604.13034)|null|
+|**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
+|**2026-04-14**|**Floquet Many-Body Cages**|Tom Ben-Ami et.al.|[2604.13027](http://arxiv.org/abs/2604.13027)|null|
+|**2026-04-14**|**A complexity phase transition at the EPR Hamiltonian**|Kunal Marwaha et.al.|[2604.13026](http://arxiv.org/abs/2604.13026)|null|
+|**2026-04-14**|**Asymptotically faster algorithms for recognizing $(k,\ell)$ -sparse graphs**|Bence Deák et.al.|[2604.13025](http://arxiv.org/abs/2604.13025)|null|
+|**2026-04-14**|**Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe**|Yaxuan Li et.al.|[2604.13016](http://arxiv.org/abs/2604.13016)|null|
+|**2026-04-14**|**Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem**|Yinghao Qin et.al.|[2604.13013](http://arxiv.org/abs/2604.13013)|null|
+|**2026-04-14**|**EOM-fpCCSD: An Accurate Alternative to EOM-CCSD for Doubly Excited and Charge-Transfer States**|Katharina Boguslawski et.al.|[2604.13009](http://arxiv.org/abs/2604.13009)|null|
+|**2026-04-14**|**Agentic Discovery with Active Hypothesis Exploration for Visual Recognition**|Jaywon Koo et.al.|[2604.12999](http://arxiv.org/abs/2604.12999)|null|
 |**2026-04-13**|**CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation**|WonJin Yoon et.al.|[2604.11801](http://arxiv.org/abs/2604.11801)|null|
 |**2026-04-13**|**Many-Body Super- and Subradiance in Ordered Atomic Arrays**|Alec Douglas et.al.|[2604.11795](http://arxiv.org/abs/2604.11795)|null|
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
