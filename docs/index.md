@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -233,6 +233,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**The hydrodynamical response of cold circumgalactic clouds to quasar radiation**|Nicolas Ledos et.al.|[2604.16294](http://arxiv.org/abs/2604.16294)|null|
+|**2026-04-17**|**Fluctuating Pair Density Wave in Finite-temperature Phase Diagram of the $t$-$t^\prime$ Hubbard Model**|Qiaoyi Li et.al.|[2604.16293](http://arxiv.org/abs/2604.16293)|null|
+|**2026-04-17**|**Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout**|Jimmy Shih-Chun Hung et.al.|[2604.16292](http://arxiv.org/abs/2604.16292)|null|
+|**2026-04-17**|**Boson correlations are spurious for classical states**|Daniel E. Salazar et.al.|[2604.16283](http://arxiv.org/abs/2604.16283)|null|
+|**2026-04-17**|**The DESIRED strong-line calibrations: I. New empirical metallicity relations for the local and high-redshift universe**|F. F. Rosales-Ortega et.al.|[2604.16273](http://arxiv.org/abs/2604.16273)|null|
+|**2026-04-17**|**Beyond Distribution Sharpening: The Importance of Task Rewards**|Sarthak Mittal et.al.|[2604.16259](http://arxiv.org/abs/2604.16259)|null|
+|**2026-04-17**|**Multisymmetric functions on eventually constant cyclic graphs**|Radford Green et.al.|[2604.16255](http://arxiv.org/abs/2604.16255)|null|
+|**2026-04-17**|**Latest Results from the FASER Experiment**|Shunliang Zhang et.al.|[2604.16244](http://arxiv.org/abs/2604.16244)|null|
+|**2026-04-17**|**BAGEL: Benchmarking Animal Knowledge Expertise in Language Models**|Jiacheng Shen et.al.|[2604.16241](http://arxiv.org/abs/2604.16241)|null|
+|**2026-04-17**|**CollideNet: Hierarchical Multi-scale Video Representation Learning with Disentanglement for Time-To-Collision Forecasting**|Nishq Poorav Desai et.al.|[2604.16240](http://arxiv.org/abs/2604.16240)|null|
 |**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
 |**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
 |**2026-04-16**|**Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**|Yiyang Jiang et.al.|[2604.15301](http://arxiv.org/abs/2604.15301)|null|
