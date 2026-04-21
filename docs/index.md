@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Retrieval-Augmented Multimodal Model for Fake News Detection**|Yiheng Li et.al.|[2604.18112](http://arxiv.org/abs/2604.18112)|null|
 |**2026-04-14**|**TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning**|Gautama Shastry Bulusu Venkata et.al.|[2604.12184](http://arxiv.org/abs/2604.12184)|null|
 |**2026-04-10**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960](http://arxiv.org/abs/2604.09960)|null|
 |**2026-04-08**|**Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality**|Kai Qian et.al.|[2604.09711](http://arxiv.org/abs/2604.09711)|null|
 |**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
 |**2026-04-08**|**RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection**|Hui Li et.al.|[2604.06687](http://arxiv.org/abs/2604.06687)|null|
 |**2026-04-08**|**A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM**|Bo Wang et.al.|[2604.06666](http://arxiv.org/abs/2604.06666)|null|
-|**2026-04-06**|**LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection**|Cheng Xu et.al.|[2604.04815](http://arxiv.org/abs/2604.04815)|null|
+|**2026-04-20**|**LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection**|Cheng Xu et.al.|[2604.04815](http://arxiv.org/abs/2604.04815)|null|
 |**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
 |**2026-04-02**|**Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification**|Géraud Faye et.al.|[2604.01936](http://arxiv.org/abs/2604.01936)|null|
 |**2026-03-27**|**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**|Zizhao Chen et.al.|[2603.26052](http://arxiv.org/abs/2603.26052)|null|
@@ -119,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Stochastic Delayed Dynamics of Rumor Propagation with Awareness and Fact-Checking**|Lamia Alyami et.al.|[2604.17368](http://arxiv.org/abs/2604.17368)|null|
 |**2026-03-24**|**Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer**|Chaoqun Cui et.al.|[2603.22854](http://arxiv.org/abs/2603.22854)|null|
 |**2026-03-19**|**A study of centrality measures in random recursive trees**|Richard Coll Josifov et.al.|[2603.19493](http://arxiv.org/abs/2603.19493)|null|
 |**2026-03-04**|**The SIS Competition Model for Conflicting Rumors**|Yu Takiguchi et.al.|[2603.03949](http://arxiv.org/abs/2603.03949)|null|
@@ -178,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Modeling Multi-Dimensional Cognitive States in Large Language Models under Cognitive Crowding**|Lin Zhong et.al.|[2604.17174](http://arxiv.org/abs/2604.17174)|null|
 |**2026-04-08**|**SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)**|Liang-Chih Yu et.al.|[2604.07066](http://arxiv.org/abs/2604.07066)|null|
 |**2026-04-07**|**Content Fuzzing for Escaping Information Cocoons on Digital Social Media**|Yifeng He et.al.|[2604.05461](http://arxiv.org/abs/2604.05461)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
@@ -233,6 +236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**The T16 Planet Hunt: 10,000 New Planet Candidates from TESS Cycle 1 and the Confirmation of a Hot Jupiter Around TIC 183374187**|Joshua T. Roth et.al.|[2604.18579](http://arxiv.org/abs/2604.18579)|null|
+|**2026-04-20**|**Bounded Ratio Reinforcement Learning**|Yunke Ao et.al.|[2604.18578](http://arxiv.org/abs/2604.18578)|null|
+|**2026-04-20**|**ReCap: Lightweight Referential Grounding for Coherent Story Visualization**|Aditya Arora et.al.|[2604.18575](http://arxiv.org/abs/2604.18575)|null|
+|**2026-04-20**|**A multimodal and temporal foundation model for virtual patient representations at healthcare system scale**|Andrew Zhang et.al.|[2604.18570](http://arxiv.org/abs/2604.18570)|null|
+|**2026-04-20**|**Pulling back Cartier structures along regular maps**|Javier Carvajal-Rojas et.al.|[2604.18568](http://arxiv.org/abs/2604.18568)|null|
+|**2026-04-20**|**Soft tilings**|Gergely Ambrus et.al.|[2604.18545](http://arxiv.org/abs/2604.18545)|null|
+|**2026-04-20**|**MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation**|Tanjim Rahaman Fardin et.al.|[2604.18537](http://arxiv.org/abs/2604.18537)|null|
+|**2026-04-20**|**Weak minimizing property and reflexivity**|Vladimir Kadets et.al.|[2604.18534](http://arxiv.org/abs/2604.18534)|null|
+|**2026-04-20**|**Document-as-Image Representations Fall Short for Scientific Retrieval**|Ghazal Khalighinejad et.al.|[2604.18508](http://arxiv.org/abs/2604.18508)|null|
+|**2026-04-20**|**Learning the Riccati solution operator for time-varying LQR via Deep Operator Networks**|Jun Chen et.al.|[2604.18507](http://arxiv.org/abs/2604.18507)|null|
 |**2026-04-17**|**The hydrodynamical response of cold circumgalactic clouds to quasar radiation**|Nicolas Ledos et.al.|[2604.16294](http://arxiv.org/abs/2604.16294)|null|
 |**2026-04-17**|**Fluctuating Pair Density Wave in Finite-temperature Phase Diagram of the $t$-$t^\prime$ Hubbard Model**|Qiaoyi Li et.al.|[2604.16293](http://arxiv.org/abs/2604.16293)|null|
 |**2026-04-17**|**Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout**|Jimmy Shih-Chun Hung et.al.|[2604.16292](http://arxiv.org/abs/2604.16292)|null|
