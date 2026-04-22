@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -122,7 +122,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Rumour
 
@@ -184,12 +184,13 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and Polarization in YouTube's Media Ecosystem**|Geovana S. de Oliveira et.al.|[2604.18586](http://arxiv.org/abs/2604.18586)|null|
 |**2026-04-19**|**Modeling Multi-Dimensional Cognitive States in Large Language Models under Cognitive Crowding**|Lin Zhong et.al.|[2604.17174](http://arxiv.org/abs/2604.17174)|null|
 |**2026-04-08**|**SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)**|Liang-Chih Yu et.al.|[2604.07066](http://arxiv.org/abs/2604.07066)|null|
 |**2026-04-07**|**Content Fuzzing for Escaping Information Cocoons on Digital Social Media**|Yifeng He et.al.|[2604.05461](http://arxiv.org/abs/2604.05461)|null|
@@ -242,12 +243,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
+|**2026-04-21**|**Generalization at the Edge of Stability**|Mario Tuci et.al.|[2604.19740](http://arxiv.org/abs/2604.19740)|null|
+|**2026-04-21**|**Breaking the UV Luminosity Function Degeneracy:Self-Interacting Dark Matter Constraints from Reionization Topology**|Zihan Wang et.al.|[2604.19726](http://arxiv.org/abs/2604.19726)|null|
+|**2026-04-21**|**On Languages Describing Large Graph Classes**|Henning Fernau et.al.|[2604.19719](http://arxiv.org/abs/2604.19719)|null|
+|**2026-04-21**|**Bootstrapping Tensor Integrals**|Nathan Pagliaroli et.al.|[2604.19714](http://arxiv.org/abs/2604.19714)|null|
+|**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
+|**2026-04-21**|**Networked Tracking of Multiple Moving Targets in 6G Network**|Yanmo Hu et.al.|[2604.19709](http://arxiv.org/abs/2604.19709)|null|
+|**2026-04-21**|**Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity**|Ivan Tymoshenko et.al.|[2604.19705](http://arxiv.org/abs/2604.19705)|null|
+|**2026-04-21**|**A practical theorem on gravitational-wave background statistics**|Yacine Ali-Haïmoud et.al.|[2604.19701](http://arxiv.org/abs/2604.19701)|null|
+|**2026-04-21**|**Planning in entropy-regularized Markov decision processes and games**|Jean-Bastien Grill et.al.|[2604.19695](http://arxiv.org/abs/2604.19695)|null|
 |**2026-04-20**|**The T16 Planet Hunt: 10,000 New Planet Candidates from TESS Cycle 1 and the Confirmation of a Hot Jupiter Around TIC 183374187**|Joshua T. Roth et.al.|[2604.18579](http://arxiv.org/abs/2604.18579)|null|
 |**2026-04-20**|**Bounded Ratio Reinforcement Learning**|Yunke Ao et.al.|[2604.18578](http://arxiv.org/abs/2604.18578)|null|
 |**2026-04-20**|**ReCap: Lightweight Referential Grounding for Coherent Story Visualization**|Aditya Arora et.al.|[2604.18575](http://arxiv.org/abs/2604.18575)|null|
@@ -1609,5 +1620,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
