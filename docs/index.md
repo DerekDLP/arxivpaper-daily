@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -237,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Hodge theory for combinatorial projective bundles**|Matt Larson et.al.|[2604.21925](http://arxiv.org/abs/2604.21925)|null|
+|**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
+|**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[2604.21915](http://arxiv.org/abs/2604.21915)|null|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
+|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
+|**2026-04-23**|**Three-periodic helices on elliptic curves and their associated regular algebras**|Daniel Chan et.al.|[2604.21900](http://arxiv.org/abs/2604.21900)|null|
+|**2026-04-23**|**$3d_{z^2}$ orbital delocalization and magnetic collapse in superconducting (La,Pr)$_3$Ni$_2$O$_{7-δ}$ films**|Xiaoyang Chen et.al.|[2604.21899](http://arxiv.org/abs/2604.21899)|null|
+|**2026-04-23**|**Institutionalizing Best Practices in Research Computing: A Framework and Case Study for Improving User Onboarding**|Ayush Chaturvedi et.al.|[2604.21898](http://arxiv.org/abs/2604.21898)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
 |**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples**|Ana Sanchez-Fernandez et.al.|[2604.20824](http://arxiv.org/abs/2604.20824)|null|
 |**2026-04-22**|**Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning**|Yonatan Haile Medhanie et.al.|[2604.20813](http://arxiv.org/abs/2604.20813)|null|
