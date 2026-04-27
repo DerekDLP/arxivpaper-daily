@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -237,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Boolean PCSPs through the lens of Fourier Analysis**|Demian Banakh et.al.|[2604.22742](http://arxiv.org/abs/2604.22742)|null|
+|**2026-04-24**|**Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis**|Xiang Zhang et.al.|[2604.22739](http://arxiv.org/abs/2604.22739)|null|
+|**2026-04-24**|**Asymptotic behaviour of analytic torsion and cohomological torsion for $\mathbb{Q}$-rank $1$ arithmetic groups**|Tim Berland et.al.|[2604.22711](http://arxiv.org/abs/2604.22711)|null|
+|**2026-04-24**|**Evaluation of the effects of 3GPP-specific beamforming and channel estimation on the 3D EIRP profile of a 5G gNB**|Armed Tusha et.al.|[2604.22710](http://arxiv.org/abs/2604.22710)|null|
+|**2026-04-24**|**First Statistical Study of Over 100 Magnified Stellar Events at Redshift $z \approx 0.725$ with JWST**|J. M. Palencia et.al.|[2604.22702](http://arxiv.org/abs/2604.22702)|null|
+|**2026-04-24**|**Entrywise Low-Rank Approximation and Matrix $p \rightarrow q$ Norms via Global Correlation Rounding**|Prashanti Anderson et.al.|[2604.22699](http://arxiv.org/abs/2604.22699)|null|
+|**2026-04-24**|**A new framework of zero mean curvature surfaces in the isotropic 3-space**|Riku Kishida et.al.|[2604.22698](http://arxiv.org/abs/2604.22698)|null|
 |**2026-04-23**|**Hodge theory for combinatorial projective bundles**|Matt Larson et.al.|[2604.21925](http://arxiv.org/abs/2604.21925)|null|
 |**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
 |**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[2604.21915](http://arxiv.org/abs/2604.21915)|null|
