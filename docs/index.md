@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**From Spoofing to Trust: Emergency Alerts Spoofing Testbed and Cross-Cell Verification**|Abdallah Abou Hasna et.al.|[2604.24404](http://arxiv.org/abs/2604.24404)|null|
+|**2026-04-27**|**Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection**|Mengyang Chen et.al.|[2604.23974](http://arxiv.org/abs/2604.23974)|null|
 |**2026-04-20**|**Retrieval-Augmented Multimodal Model for Fake News Detection**|Yiheng Li et.al.|[2604.18112](http://arxiv.org/abs/2604.18112)|null|
 |**2026-04-14**|**TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning**|Gautama Shastry Bulusu Venkata et.al.|[2604.12184](http://arxiv.org/abs/2604.12184)|null|
 |**2026-04-10**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960](http://arxiv.org/abs/2604.09960)|null|
@@ -120,6 +122,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
 |**2026-04-19**|**Stochastic Delayed Dynamics of Rumor Propagation with Awareness and Fact-Checking**|Lamia Alyami et.al.|[2604.17368](http://arxiv.org/abs/2604.17368)|null|
 |**2026-03-24**|**Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer**|Chaoqun Cui et.al.|[2603.22854](http://arxiv.org/abs/2603.22854)|null|
 |**2026-03-19**|**A study of centrality measures in random recursive trees**|Richard Coll Josifov et.al.|[2603.19493](http://arxiv.org/abs/2603.19493)|null|
@@ -185,7 +188,7 @@ layout: default
 |**2026-04-08**|**SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)**|Liang-Chih Yu et.al.|[2604.07066](http://arxiv.org/abs/2604.07066)|null|
 |**2026-04-07**|**Content Fuzzing for Escaping Information Cocoons on Digital Social Media**|Yifeng He et.al.|[2604.05461](http://arxiv.org/abs/2604.05461)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
-|**2026-03-25**|**Stance Labels Fail When They Matter Most: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
+|**2026-04-27**|**When Annotators Agree but Labels Disagree: The Projection Problem in Stance Detection**|Bowen Zhang et.al.|[2603.24231](http://arxiv.org/abs/2603.24231)|null|
 |**2026-03-07**|**Large Language Models Unpack Complex Political Opinions through Target-Stance Extraction**|Özgür Togay et.al.|[2603.23531](http://arxiv.org/abs/2603.23531)|null|
 |**2026-03-19**|**A conceptual framework for ideology beyond the left and right**|Kenneth Joseph et.al.|[2603.18945](http://arxiv.org/abs/2603.18945)|null|
 |**2026-03-15**|**Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models**|Yixuan Tang et.al.|[2603.14313](http://arxiv.org/abs/2603.14313)|null|
@@ -237,6 +240,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Cosmological Impact of Redshift-Dependent Type Ia Supernovae Calibration**|Seyed Hamidreza Mirpoorian et.al.|[2604.24761](http://arxiv.org/abs/2604.24761)|null|
+|**2026-04-27**|**Coordination in complex environments**|Pietro Dall'Ara et.al.|[2604.24757](http://arxiv.org/abs/2604.24757)|null|
+|**2026-04-27**|**Spectral Evidence of Heavy Nuclei from the Neutron Star Crust in Magnetar Bursts**|Sheng-Lun Xie et.al.|[2604.24750](http://arxiv.org/abs/2604.24750)|null|
+|**2026-04-27**|**Dynamical preparation of U(1) quantum spin liquids in an analogue quantum simulator**|Simon Karch et.al.|[2604.24744](http://arxiv.org/abs/2604.24744)|null|
+|**2026-04-27**|**Parametric Statistical Inference in the Zone of Moderate Deviation Probabilities**|Mikhail Ermakov et.al.|[2604.24736](http://arxiv.org/abs/2604.24736)|null|
+|**2026-04-27**|**Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors**|Grayson R. Frazier et.al.|[2604.24734](http://arxiv.org/abs/2604.24734)|null|
+|**2026-04-27**|**Error analysis for the approximation of a flow in deformable porous media with nonlinear strain-stress relation**|Andrea Bonito et.al.|[2604.24731](http://arxiv.org/abs/2604.24731)|null|
+|**2026-04-27**|**Partial extended b-metric and some fixed point theorem**|Muhamad Abdillah Ahen et.al.|[2604.24728](http://arxiv.org/abs/2604.24728)|null|
+|**2026-04-27**|**Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling**|Hailing Cheng et.al.|[2604.24717](http://arxiv.org/abs/2604.24717)|null|
+|**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
 |**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
