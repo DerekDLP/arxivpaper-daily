@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-27**|**From Spoofing to Trust: Emergency Alerts Spoofing Testbed and Cross-Cell Verification**|Abdallah Abou Hasna et.al.|[2604.24404](http://arxiv.org/abs/2604.24404)|null|
 |**2026-04-27**|**Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection**|Mengyang Chen et.al.|[2604.23974](http://arxiv.org/abs/2604.23974)|null|
-|**2026-04-20**|**Retrieval-Augmented Multimodal Model for Fake News Detection**|Yiheng Li et.al.|[2604.18112](http://arxiv.org/abs/2604.18112)|null|
+|**2026-04-29**|**Retrieval-Augmented Multimodal Model for Fake News Detection**|Yiheng Li et.al.|[2604.18112](http://arxiv.org/abs/2604.18112)|null|
 |**2026-04-14**|**TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning**|Gautama Shastry Bulusu Venkata et.al.|[2604.12184](http://arxiv.org/abs/2604.12184)|null|
 |**2026-04-10**|**Human vs. Machine Deception: Distinguishing AI-Generated and Human-Written Fake News Using Ensemble Learning**|Samuel Jaeger et.al.|[2604.09960](http://arxiv.org/abs/2604.09960)|null|
 |**2026-04-08**|**Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality**|Kai Qian et.al.|[2604.09711](http://arxiv.org/abs/2604.09711)|null|
@@ -122,6 +123,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-28**|**Regulation of Rumor Propagation via (Multi-Leader) Stackelberg Graphon Games**|Huaning Liu et.al.|[2604.25258](http://arxiv.org/abs/2604.25258)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
 |**2026-04-19**|**Stochastic Delayed Dynamics of Rumor Propagation with Awareness and Fact-Checking**|Lamia Alyami et.al.|[2604.17368](http://arxiv.org/abs/2604.17368)|null|
@@ -184,6 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection**|Genan Dai et.al.|[2604.26319](http://arxiv.org/abs/2604.26319)|null|
 |**2026-03-04**|**Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and Polarization in YouTube's Media Ecosystem**|Geovana S. de Oliveira et.al.|[2604.18586](http://arxiv.org/abs/2604.18586)|null|
 |**2026-04-19**|**Modeling Multi-Dimensional Cognitive States in Large Language Models under Cognitive Crowding**|Lin Zhong et.al.|[2604.17174](http://arxiv.org/abs/2604.17174)|null|
 |**2026-04-08**|**SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA)**|Liang-Chih Yu et.al.|[2604.07066](http://arxiv.org/abs/2604.07066)|null|
@@ -241,6 +244,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python**|Alexander Raistrick et.al.|[2604.26943](http://arxiv.org/abs/2604.26943)|null|
+|**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
+|**2026-04-29**|**Meta-learning-enhanced implicit full waveform inversion**|Huan Song et.al.|[2604.26938](http://arxiv.org/abs/2604.26938)|null|
+|**2026-04-29**|**Energy-Dependent Polarization Angle Variability as a Robust Diagnostic for Blazar Flaring Mechanisms**|Haocheng Zhang et.al.|[2604.26930](http://arxiv.org/abs/2604.26930)|null|
+|**2026-04-29**|**On a relationship between orthogonal projections and Toeplitz operators on poly-Bergman spaces of the upper half-plane: vertical symbols**|Maribel Loaiza et.al.|[2604.26918](http://arxiv.org/abs/2604.26918)|null|
+|**2026-04-29**|**Testing Scale-Dependent Modified Gravity with DESI DR1**|D. Gonzalez et.al.|[2604.26915](http://arxiv.org/abs/2604.26915)|null|
+|**2026-04-29**|**The tale of the 3 planets: 3D cloud feedback enhances the spectral diversity of warm Jupiters**|Nishil Mehta et.al.|[2604.26911](http://arxiv.org/abs/2604.26911)|null|
+|**2026-04-29**|**Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping**|Alec Boron et.al.|[2604.26897](http://arxiv.org/abs/2604.26897)|null|
+|**2026-04-29**|**Approximating the Network Design Problem for Potential-Based Flows**|Max Klimm et.al.|[2604.26882](http://arxiv.org/abs/2604.26882)|null|
+|**2026-04-29**|**Flavour changing charged current decays at LHCb**|Davide Fazzini et.al.|[2604.26879](http://arxiv.org/abs/2604.26879)|null|
 |**2026-04-28**|**Recursive Multi-Agent Systems**|Xiyuan Yang et.al.|[2604.25917](http://arxiv.org/abs/2604.25917)|null|
 |**2026-04-28**|**DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios**|Jinxiang Meng et.al.|[2604.25914](http://arxiv.org/abs/2604.25914)|null|
 |**2026-04-28**|**Structure Prediction and Bonding Analysis of B $_{18}$Ag$_2$ Clusters Featuring Double-Ring Motifs**|Peter Ludwig Rodríguez-Kessler et.al.|[2604.25908](http://arxiv.org/abs/2604.25908)|null|
