@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -125,7 +125,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Rumour
 
@@ -190,12 +190,14 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Stance Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection**|Weihai Lu et.al.|[2604.27934](http://arxiv.org/abs/2604.27934)|null|
+|**2026-04-30**|**Social Media Data Toolkit: Standardization and Anonymization of Social Network Datasets**|Ali Najafi et.al.|[2604.27710](http://arxiv.org/abs/2604.27710)|null|
 |**2026-04-29**|**A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection**|Genan Dai et.al.|[2604.26319](http://arxiv.org/abs/2604.26319)|null|
 |**2026-03-04**|**Who Shapes Brazil's Vaccine Debate? Semi-Supervised Modeling of Stance and Polarization in YouTube's Media Ecosystem**|Geovana S. de Oliveira et.al.|[2604.18586](http://arxiv.org/abs/2604.18586)|null|
 |**2026-04-19**|**Modeling Multi-Dimensional Cognitive States in Large Language Models under Cognitive Crowding**|Lin Zhong et.al.|[2604.17174](http://arxiv.org/abs/2604.17174)|null|
@@ -250,12 +252,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Cosmology of fractional gravity**|Iván Salvador-García et.al.|[2604.28188](http://arxiv.org/abs/2604.28188)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**Non-negative Rational Semantic Numeration Systems**|Alexander Chunikhin et.al.|[2604.28171](http://arxiv.org/abs/2604.28171)|null|
+|**2026-04-30**|**Phase Transitions in Economic Inequality:Taxation and Extremal Replacement Dynamics**|Lautaro Giordano et.al.|[2604.28168](http://arxiv.org/abs/2604.28168)|null|
+|**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|
+|**2026-04-30**|**Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering**|Furkan Kınlı et.al.|[2604.28136](http://arxiv.org/abs/2604.28136)|null|
+|**2026-04-30**|**3D-ReGen: A Unified 3D Geometry Regeneration Framework**|Geon Yeong Park et.al.|[2604.28134](http://arxiv.org/abs/2604.28134)|null|
+|**2026-04-30**|**The DAMSA Experiment**|Prithak Bhattarai et.al.|[2604.28133](http://arxiv.org/abs/2604.28133)|null|
+|**2026-04-30**|**Finding the one: identifying the host of compact binary mergers**|Alberto Salvarese et.al.|[2604.28132](http://arxiv.org/abs/2604.28132)|null|
+|**2026-04-30**|**New gravitational-wave templates for metastable cosmic strings: Loop breaking versus network collapse**|Doa Hashemi Asl et.al.|[2604.28097](http://arxiv.org/abs/2604.28097)|null|
 |**2026-04-29**|**ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python**|Alexander Raistrick et.al.|[2604.26943](http://arxiv.org/abs/2604.26943)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-29**|**Meta-learning-enhanced implicit full waveform inversion**|Huan Song et.al.|[2604.26938](http://arxiv.org/abs/2604.26938)|null|
@@ -1687,5 +1699,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
