@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection**|Mengyang Chen et.al.|[2605.02259](http://arxiv.org/abs/2605.02259)|null|
+|**2026-05-02**|**Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach**|Ahmed Alfey Sani et.al.|[2605.01292](http://arxiv.org/abs/2605.01292)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-27**|**From Spoofing to Trust: Emergency Alerts Spoofing Testbed and Cross-Cell Verification**|Abdallah Abou Hasna et.al.|[2604.24404](http://arxiv.org/abs/2604.24404)|null|
 |**2026-04-27**|**Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection**|Mengyang Chen et.al.|[2604.23974](http://arxiv.org/abs/2604.23974)|null|
@@ -125,7 +127,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Rumour
 
@@ -190,7 +192,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -252,12 +254,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
+|**2026-05-04**|**Laplacian Frequency Interaction Network for Rural Thematic Road Extraction**|Baiyan Chen et.al.|[2605.02866](http://arxiv.org/abs/2605.02866)|null|
+|**2026-05-04**|**Structures of Identical Particle Systems : Efficient Computation of Many-Body Density of States**|Hovan Lee et.al.|[2605.02864](http://arxiv.org/abs/2605.02864)|null|
+|**2026-05-04**|**A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints**|Tianyue Zhou et.al.|[2605.02851](http://arxiv.org/abs/2605.02851)|null|
+|**2026-05-04**|**Search for a new heavy scalar resonance decaying into the Higgs boson and a new scalar particle in the $\mathrm{b}\bar{\mathrm{b}}\mathrm{b}\bar{\mathrm{b}}$ final state using proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2605.02848](http://arxiv.org/abs/2605.02848)|null|
+|**2026-05-04**|**Null Controllability for a Multi-Dimensional Degenerate Parabolic Equation with Degenerated Interior Point**|Dong-Hui Yang et.al.|[2605.02830](http://arxiv.org/abs/2605.02830)|null|
+|**2026-05-04**|**Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense**|Mingming Zha et.al.|[2605.02812](http://arxiv.org/abs/2605.02812)|null|
+|**2026-05-04**|**Tool Use as Action: Towards Agentic Control in Mobile Core Networks**|Purna Sai Garigipati et.al.|[2605.02811](http://arxiv.org/abs/2605.02811)|null|
+|**2026-05-04**|**AIs and Humans with Agency**|David Mumford et.al.|[2605.02810](http://arxiv.org/abs/2605.02810)|null|
+|**2026-05-04**|**Hadronic lensing**|Fabrizio Canfora et.al.|[2605.02807](http://arxiv.org/abs/2605.02807)|null|
 |**2026-04-30**|**Cosmology of fractional gravity**|Iván Salvador-García et.al.|[2604.28188](http://arxiv.org/abs/2604.28188)|null|
 |**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
 |**2026-04-30**|**Non-negative Rational Semantic Numeration Systems**|Alexander Chunikhin et.al.|[2604.28171](http://arxiv.org/abs/2604.28171)|null|
@@ -1699,5 +1711,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 

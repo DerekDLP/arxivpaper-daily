@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection**|Mengyang Chen et.al.|[2605.02259](http://arxiv.org/abs/2605.02259)|null|
+|**2026-05-02**|**Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach**|Ahmed Alfey Sani et.al.|[2605.01292](http://arxiv.org/abs/2605.01292)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-27**|**From Spoofing to Trust: Emergency Alerts Spoofing Testbed and Cross-Cell Verification**|Abdallah Abou Hasna et.al.|[2604.24404](http://arxiv.org/abs/2604.24404)|null|
 |**2026-04-27**|**Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection**|Mengyang Chen et.al.|[2604.23974](http://arxiv.org/abs/2604.23974)|null|
@@ -246,6 +248,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
+|**2026-05-04**|**Laplacian Frequency Interaction Network for Rural Thematic Road Extraction**|Baiyan Chen et.al.|[2605.02866](http://arxiv.org/abs/2605.02866)|null|
+|**2026-05-04**|**Structures of Identical Particle Systems : Efficient Computation of Many-Body Density of States**|Hovan Lee et.al.|[2605.02864](http://arxiv.org/abs/2605.02864)|null|
+|**2026-05-04**|**A CV-TMLE global test approach to improve power in rare disease clinical studies with multiple-component endpoints**|Tianyue Zhou et.al.|[2605.02851](http://arxiv.org/abs/2605.02851)|null|
+|**2026-05-04**|**Search for a new heavy scalar resonance decaying into the Higgs boson and a new scalar particle in the $\mathrm{b}\bar{\mathrm{b}}\mathrm{b}\bar{\mathrm{b}}$ final state using proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2605.02848](http://arxiv.org/abs/2605.02848)|null|
+|**2026-05-04**|**Null Controllability for a Multi-Dimensional Degenerate Parabolic Equation with Degenerated Interior Point**|Dong-Hui Yang et.al.|[2605.02830](http://arxiv.org/abs/2605.02830)|null|
+|**2026-05-04**|**Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense**|Mingming Zha et.al.|[2605.02812](http://arxiv.org/abs/2605.02812)|null|
+|**2026-05-04**|**Tool Use as Action: Towards Agentic Control in Mobile Core Networks**|Purna Sai Garigipati et.al.|[2605.02811](http://arxiv.org/abs/2605.02811)|null|
+|**2026-05-04**|**AIs and Humans with Agency**|David Mumford et.al.|[2605.02810](http://arxiv.org/abs/2605.02810)|null|
+|**2026-05-04**|**Hadronic lensing**|Fabrizio Canfora et.al.|[2605.02807](http://arxiv.org/abs/2605.02807)|null|
 |**2026-04-30**|**Cosmology of fractional gravity**|Iván Salvador-García et.al.|[2604.28188](http://arxiv.org/abs/2604.28188)|null|
 |**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
 |**2026-04-30**|**Non-negative Rational Semantic Numeration Systems**|Alexander Chunikhin et.al.|[2604.28171](http://arxiv.org/abs/2604.28171)|null|
