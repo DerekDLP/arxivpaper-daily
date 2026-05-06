@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -125,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-28**|**Regulation of Rumor Propagation via (Multi-Leader) Stackelberg Graphon Games**|Huaning Liu et.al.|[2604.25258](http://arxiv.org/abs/2604.25258)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
@@ -248,6 +249,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Jordan Frame in Supergravity and Cosmology**|Renata Kallosh et.al.|[2605.04041](http://arxiv.org/abs/2605.04041)|null|
+|**2026-05-05**|**The intersection dual of geodesic currents**|Dídac Martínez-Granado et.al.|[2605.04031](http://arxiv.org/abs/2605.04031)|null|
+|**2026-05-05**|**Entangling gates for the SU(N) anyons**|Sergey Mironov et.al.|[2605.04016](http://arxiv.org/abs/2605.04016)|null|
+|**2026-05-05**|**Two-loop leading-color QCD corrections for Higgs plus two-jet production in the heavy-top limit**|Giuseppe De Laurentis et.al.|[2605.04009](http://arxiv.org/abs/2605.04009)|null|
+|**2026-05-05**|**Structural Limits of OHLCV-Based Intraday Signals in MNQ Futures: A Systematic Falsification Study**|Mathias Mesfin et.al.|[2605.04004](http://arxiv.org/abs/2605.04004)|null|
+|**2026-05-05**|**Quantum Dispersive Waves and Multimode Squeezing in Pure-Kerr Parametrically Driven Cavity Solitons**|Rafael Romero Mendez et.al.|[2605.03995](http://arxiv.org/abs/2605.03995)|null|
+|**2026-05-05**|**Joint Design of Piggyback and Conjugate Transformation Functions for Repair Bandwidth Reduction in Piggybacking Codes**|Hao Shi et.al.|[2605.03991](http://arxiv.org/abs/2605.03991)|null|
+|**2026-05-05**|**An $\widetilde{O} (n^{3/7})$ Round Parallel Algorithm for Matroid Bases**|Sanjeev Khanna et.al.|[2605.03979](http://arxiv.org/abs/2605.03979)|null|
+|**2026-05-05**|**Quantum metrology of mixed states via purification**|Sisi Zhou et.al.|[2605.03975](http://arxiv.org/abs/2605.03975)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
 |**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
 |**2026-05-04**|**Laplacian Frequency Interaction Network for Rural Thematic Road Extraction**|Baiyan Chen et.al.|[2605.02866](http://arxiv.org/abs/2605.02866)|null|
 |**2026-05-04**|**Structures of Identical Particle Systems : Efficient Computation of Many-Body Density of States**|Hovan Lee et.al.|[2605.02864](http://arxiv.org/abs/2605.02864)|null|

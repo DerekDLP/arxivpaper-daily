@@ -1,4 +1,4 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -127,12 +127,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-28**|**Regulation of Rumor Propagation via (Multi-Leader) Stackelberg Graphon Games**|Huaning Liu et.al.|[2604.25258](http://arxiv.org/abs/2604.25258)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
@@ -192,7 +193,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -254,12 +255,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Jordan Frame in Supergravity and Cosmology**|Renata Kallosh et.al.|[2605.04041](http://arxiv.org/abs/2605.04041)|null|
+|**2026-05-05**|**The intersection dual of geodesic currents**|Dídac Martínez-Granado et.al.|[2605.04031](http://arxiv.org/abs/2605.04031)|null|
+|**2026-05-05**|**Entangling gates for the SU(N) anyons**|Sergey Mironov et.al.|[2605.04016](http://arxiv.org/abs/2605.04016)|null|
+|**2026-05-05**|**Two-loop leading-color QCD corrections for Higgs plus two-jet production in the heavy-top limit**|Giuseppe De Laurentis et.al.|[2605.04009](http://arxiv.org/abs/2605.04009)|null|
+|**2026-05-05**|**Structural Limits of OHLCV-Based Intraday Signals in MNQ Futures: A Systematic Falsification Study**|Mathias Mesfin et.al.|[2605.04004](http://arxiv.org/abs/2605.04004)|null|
+|**2026-05-05**|**Quantum Dispersive Waves and Multimode Squeezing in Pure-Kerr Parametrically Driven Cavity Solitons**|Rafael Romero Mendez et.al.|[2605.03995](http://arxiv.org/abs/2605.03995)|null|
+|**2026-05-05**|**Joint Design of Piggyback and Conjugate Transformation Functions for Repair Bandwidth Reduction in Piggybacking Codes**|Hao Shi et.al.|[2605.03991](http://arxiv.org/abs/2605.03991)|null|
+|**2026-05-05**|**An $\widetilde{O} (n^{3/7})$ Round Parallel Algorithm for Matroid Bases**|Sanjeev Khanna et.al.|[2605.03979](http://arxiv.org/abs/2605.03979)|null|
+|**2026-05-05**|**Quantum metrology of mixed states via purification**|Sisi Zhou et.al.|[2605.03975](http://arxiv.org/abs/2605.03975)|null|
+|**2026-05-05**|**Regev's reduction as a candidate quantum algorithm for the discrete logarithm problem in finite abelian groups**|M. Isabel Franco Garrido et.al.|[2605.03972](http://arxiv.org/abs/2605.03972)|null|
 |**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
 |**2026-05-04**|**Laplacian Frequency Interaction Network for Rural Thematic Road Extraction**|Baiyan Chen et.al.|[2605.02866](http://arxiv.org/abs/2605.02866)|null|
 |**2026-05-04**|**Structures of Identical Particle Systems : Efficient Computation of Many-Body Density of States**|Hovan Lee et.al.|[2605.02864](http://arxiv.org/abs/2605.02864)|null|
@@ -1711,5 +1722,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
