@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -127,13 +127,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-05**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
+|**2026-05-06**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
 |**2026-04-28**|**Regulation of Rumor Propagation via (Multi-Leader) Stackelberg Graphon Games**|Huaning Liu et.al.|[2604.25258](http://arxiv.org/abs/2604.25258)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
@@ -193,7 +193,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -255,12 +255,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
+|**2026-05-06**|**Frustrated magnetic order in hybrid Kitaev spin-orbital models**|Ivan Dutta et.al.|[2605.05196](http://arxiv.org/abs/2605.05196)|null|
+|**2026-05-06**|**Stable homotopy theory of higher categories**|Hadrian Heine et.al.|[2605.05195](http://arxiv.org/abs/2605.05195)|null|
+|**2026-05-06**|**Appell function proofs of recent and old mock theta function identities**|Marioni Aronia et.al.|[2605.05186](http://arxiv.org/abs/2605.05186)|null|
+|**2026-05-06**|**Boundaries of Baker domains of entire functions. A finer approach**|Anna Jové et.al.|[2605.05184](http://arxiv.org/abs/2605.05184)|null|
+|**2026-05-06**|**On Turán's inequality: new general criteria, nonnegative representations and the class of generalized Chebyshev polynomials**|Stefan Kahler et.al.|[2605.05180](http://arxiv.org/abs/2605.05180)|null|
+|**2026-05-06**|**Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours**|The Verkor Team et.al.|[2605.05170](http://arxiv.org/abs/2605.05170)|null|
+|**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
+|**2026-05-06**|**Aes3D: Aesthetic Assessment in 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2605.05155](http://arxiv.org/abs/2605.05155)|null|
+|**2026-05-06**|**Degree-sequence bounds for independent sets via multivariate local occupancy**|Ewan Davies et.al.|[2605.05149](http://arxiv.org/abs/2605.05149)|null|
 |**2026-05-05**|**Jordan Frame in Supergravity and Cosmology**|Renata Kallosh et.al.|[2605.04041](http://arxiv.org/abs/2605.04041)|null|
 |**2026-05-05**|**The intersection dual of geodesic currents**|Dídac Martínez-Granado et.al.|[2605.04031](http://arxiv.org/abs/2605.04031)|null|
 |**2026-05-05**|**Entangling gates for the SU(N) anyons**|Sergey Mironov et.al.|[2605.04016](http://arxiv.org/abs/2605.04016)|null|
@@ -1722,5 +1732,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
