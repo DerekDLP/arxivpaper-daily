@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -250,6 +250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Fermionic trace relations and supersymmetric indices at finite $N$**|Giorgos Eleftheriou et.al.|[2605.08085](http://arxiv.org/abs/2605.08085)|null|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075](http://arxiv.org/abs/2605.08075)|null|
+|**2026-05-08**|**Vibe Econometrics and the Analysis Contract**|Lydia Ashton et.al.|[2605.08071](http://arxiv.org/abs/2605.08071)|null|
+|**2026-05-08**|**Light-driven octupolar inverse Faraday effect and multipolar order in Mott insulators**|Saikat Banerjee et.al.|[2605.08049](http://arxiv.org/abs/2605.08049)|null|
+|**2026-05-08**|**Fast Byte Latent Transformer**|Julie Kallini et.al.|[2605.08044](http://arxiv.org/abs/2605.08044)|null|
+|**2026-05-08**|**The two-flavor Schwinger model at 50: Solving Coleman's puzzles**|Gabriel Cuomo et.al.|[2605.08042](http://arxiv.org/abs/2605.08042)|null|
+|**2026-05-08**|**Don't Get Your Kroneckers in a Twist: Gaussian Processes on High-Dimensional Incomplete Grids**|Mads Greisen Højlund et.al.|[2605.08036](http://arxiv.org/abs/2605.08036)|null|
+|**2026-05-08**|**Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering**|Bhaskar Dutta et.al.|[2605.08010](http://arxiv.org/abs/2605.08010)|null|
+|**2026-05-08**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al.|[2605.08003](http://arxiv.org/abs/2605.08003)|null|
+|**2026-05-08**|**The Spitzer Spectroscopic Data Fusion -- Merged Spectroscopic Redshift Catalogs in Spitzer Fields**|Mattia Vaccari et.al.|[2605.07998](http://arxiv.org/abs/2605.07998)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
 |**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
