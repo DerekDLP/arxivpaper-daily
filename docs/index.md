@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
@@ -251,6 +251,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Covering Human Action Space for Computer Use: Data Synthesis and Benchmark**|Miaosen Zhang et.al.|[2605.12501](http://arxiv.org/abs/2605.12501)|null|
+|**2026-05-12**|**Anomalies in Neural Network Field Theory**|Christian Ferko et.al.|[2605.12488](http://arxiv.org/abs/2605.12488)|null|
+|**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
+|**2026-05-12**|**ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents**|Xuhao Hu et.al.|[2605.12481](http://arxiv.org/abs/2605.12481)|null|
+|**2026-05-12**|**Optical detection of the electron spin resonances of G centers in silicon**|Félix Cache et.al.|[2605.12473](http://arxiv.org/abs/2605.12473)|null|
+|**2026-05-12**|**An Improved Lower Bound on Support Size of Capacity-Achieving Inputs for the Binomial Channel: Extended version**|Mohammadamin Baniasadi et.al.|[2605.12472](http://arxiv.org/abs/2605.12472)|null|
+|**2026-05-12**|**Effects of global core-mantle boundary topography on outer-core convection and topographic torques**|Tobias G. Oliver et.al.|[2605.12470](http://arxiv.org/abs/2605.12470)|null|
+|**2026-05-12**|**Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs**|Guinan Su et.al.|[2605.12460](http://arxiv.org/abs/2605.12460)|null|
+|**2026-05-12**|**FuTCR: Future-Targeted Contrast and Repulsion for Continual Panoptic Segmentation**|Nicholas Ikechukwu et.al.|[2605.12451](http://arxiv.org/abs/2605.12451)|null|
+|**2026-05-12**|**Axion-Exchange Contribution to the Energy of Lithium-Like Ions**|R. R. Abdullin et.al.|[2605.12444](http://arxiv.org/abs/2605.12444)|null|
 |**2026-05-11**|**Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array**|Yu Wang et.al.|[2605.10924](http://arxiv.org/abs/2605.10924)|null|
 |**2026-05-11**|**Pixal3D: Pixel-Aligned 3D Generation from Images**|Dong-Yang Li et.al.|[2605.10922](http://arxiv.org/abs/2605.10922)|null|
 |**2026-05-11**|**Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local Optima with $k$ -step Policy Gradients**|Alex DeWeese et.al.|[2605.10909](http://arxiv.org/abs/2605.10909)|null|

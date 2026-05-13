@@ -1,4 +1,4 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -128,7 +128,7 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Rumour
 
@@ -195,7 +195,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -257,12 +257,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Covering Human Action Space for Computer Use: Data Synthesis and Benchmark**|Miaosen Zhang et.al.|[2605.12501](http://arxiv.org/abs/2605.12501)|null|
+|**2026-05-12**|**Anomalies in Neural Network Field Theory**|Christian Ferko et.al.|[2605.12488](http://arxiv.org/abs/2605.12488)|null|
+|**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
+|**2026-05-12**|**ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents**|Xuhao Hu et.al.|[2605.12481](http://arxiv.org/abs/2605.12481)|null|
+|**2026-05-12**|**Optical detection of the electron spin resonances of G centers in silicon**|Félix Cache et.al.|[2605.12473](http://arxiv.org/abs/2605.12473)|null|
+|**2026-05-12**|**An Improved Lower Bound on Support Size of Capacity-Achieving Inputs for the Binomial Channel: Extended version**|Mohammadamin Baniasadi et.al.|[2605.12472](http://arxiv.org/abs/2605.12472)|null|
+|**2026-05-12**|**Effects of global core-mantle boundary topography on outer-core convection and topographic torques**|Tobias G. Oliver et.al.|[2605.12470](http://arxiv.org/abs/2605.12470)|null|
+|**2026-05-12**|**Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs**|Guinan Su et.al.|[2605.12460](http://arxiv.org/abs/2605.12460)|null|
+|**2026-05-12**|**FuTCR: Future-Targeted Contrast and Repulsion for Continual Panoptic Segmentation**|Nicholas Ikechukwu et.al.|[2605.12451](http://arxiv.org/abs/2605.12451)|null|
+|**2026-05-12**|**Axion-Exchange Contribution to the Energy of Lithium-Like Ions**|R. R. Abdullin et.al.|[2605.12444](http://arxiv.org/abs/2605.12444)|null|
 |**2026-05-11**|**Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array**|Yu Wang et.al.|[2605.10924](http://arxiv.org/abs/2605.10924)|null|
 |**2026-05-11**|**Pixal3D: Pixel-Aligned 3D Generation from Images**|Dong-Yang Li et.al.|[2605.10922](http://arxiv.org/abs/2605.10922)|null|
 |**2026-05-11**|**Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local Optima with $k$ -step Policy Gradients**|Alex DeWeese et.al.|[2605.10909](http://arxiv.org/abs/2605.10909)|null|
@@ -1764,5 +1774,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
