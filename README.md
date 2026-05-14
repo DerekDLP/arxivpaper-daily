@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -128,12 +128,13 @@
 |**2020-08-15**|**On the Coherence of Fake News Articles**|Iknoor Singh et.al.|[1906.11126](http://arxiv.org/abs/1906.11126)|null|
 |**2018-11-12**|**A Deep Ensemble Framework for Fake News Detection and Classification**|Arjun Roy et.al.|[1811.04670](http://arxiv.org/abs/1811.04670)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Rumour
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**Real-World Challenges in Fake News Detection: Dealing with Posts by Cold Users**|Sai Keerthana Karnam et.al.|[2605.12511](http://arxiv.org/abs/2605.12511)|null|
 |**2026-05-09**|**Moderate deviations for the Maki--Thompson rumour model**|Shaochen Wang et.al.|[2605.08629](http://arxiv.org/abs/2605.08629)|null|
 |**2026-05-06**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
 |**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
@@ -195,7 +196,7 @@
 |**2014-10-21**|**A Computational Model and Convergence Theorem for Rumor Dissemination in Social Networks**|Masoud Amoozgar et.al.|[1211.6244](http://arxiv.org/abs/1211.6244)|null|
 |**2010-11-01**|**Rumour Processes on N**|Valdivino V. Junior et.al.|[1011.0355](http://arxiv.org/abs/1011.0355)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Stance Detection
 
@@ -257,12 +258,22 @@
 |**2018-04-20**|**Automatic Stance Detection Using End-to-End Memory Networks**|Mitra Mohtarami et.al.|[1804.07581](http://arxiv.org/abs/1804.07581)|null|
 |**2017-09-03**|**A Semi-Supervised Approach to Detecting Stance in Tweets**|Amita Misra et.al.|[1709.01895](http://arxiv.org/abs/1709.01895)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## News Media
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**|Tara Bogavelli et.al.|[2605.13841](http://arxiv.org/abs/2605.13841)|null|
+|**2026-05-13**|**What is Learnable in Valiant's Theory of the Learnable?**|Steve Hanneke et.al.|[2605.13840](http://arxiv.org/abs/2605.13840)|null|
+|**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**Integrated ytterbium gain for visible-near-infrared photonics**|Tianyi Zeng et.al.|[2605.13828](http://arxiv.org/abs/2605.13828)|null|
+|**2026-05-13**|**Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era**|Mahiguhappriyaprakash et.al.|[2605.13811](http://arxiv.org/abs/2605.13811)|null|
+|**2026-05-13**|**"Metric-affine-like" generalization of YM (mal-YM): detailed classical consideration**|Władysław Wachowski et.al.|[2605.13809](http://arxiv.org/abs/2605.13809)|null|
+|**2026-05-13**|**An algebra of proper observables at null infinity: Dirac brackets, Memory and Goldstone probes**|Rodrigo Andrade e Silva et.al.|[2605.13804](http://arxiv.org/abs/2605.13804)|null|
+|**2026-05-13**|**VoxCor: Training-Free Volumetric Features for Multimodal Voxel Correspondence**|Guney Tombak et.al.|[2605.13798](http://arxiv.org/abs/2605.13798)|null|
+|**2026-05-13**|**The Symmetric Mahler Inequality in Dimension Three via Admissible Shadow Systems**|Shibing Chen et.al.|[2605.13795](http://arxiv.org/abs/2605.13795)|null|
 |**2026-05-12**|**Covering Human Action Space for Computer Use: Data Synthesis and Benchmark**|Miaosen Zhang et.al.|[2605.12501](http://arxiv.org/abs/2605.12501)|null|
 |**2026-05-12**|**Anomalies in Neural Network Field Theory**|Christian Ferko et.al.|[2605.12488](http://arxiv.org/abs/2605.12488)|null|
 |**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
@@ -1774,5 +1785,5 @@
 |**2018-10-02**|**Predicting Factuality of Reporting and Bias of News Media Sources**|Ramy Baly et.al.|[1810.01765](http://arxiv.org/abs/1810.01765)|null|
 |**2016-11-16**|**Recurrent Neural Network based Part-of-Speech Tagger for Code-Mixed Social Media Text**|Raj Nath Patel et.al.|[1611.04989](http://arxiv.org/abs/1611.04989)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
