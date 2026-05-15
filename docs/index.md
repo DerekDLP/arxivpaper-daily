@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Fake News
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Spectral Analysis of Fake News Propagation**|Weibin Cai et.al.|[2605.13861](http://arxiv.org/abs/2605.13861)|null|
 |**2026-05-07**|**COVID-19 Infodemic. Understanding content features in detecting fake news using a machine learning approach**|Vimala Balakrishnan et.al.|[2605.06435](http://arxiv.org/abs/2605.06435)|null|
 |**2026-05-04**|**An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection**|Mengyang Chen et.al.|[2605.02259](http://arxiv.org/abs/2605.02259)|null|
 |**2026-05-02**|**Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach**|Ahmed Alfey Sani et.al.|[2605.01292](http://arxiv.org/abs/2605.01292)|null|
@@ -126,6 +127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Fast Gossip-based Rumor Spreading using Small Messages**|Fabien Dufoulon et.al.|[2605.14376](http://arxiv.org/abs/2605.14376)|null|
 |**2026-03-30**|**Real-World Challenges in Fake News Detection: Dealing with Posts by Cold Users**|Sai Keerthana Karnam et.al.|[2605.12511](http://arxiv.org/abs/2605.12511)|null|
 |**2026-05-09**|**Moderate deviations for the Maki--Thompson rumour model**|Shaochen Wang et.al.|[2605.08629](http://arxiv.org/abs/2605.08629)|null|
 |**2026-05-06**|**Rumor Propagation and Supervision during Confrontation: An Importance-Driven SIRQS Network Model**|Wenjie Zhang et.al.|[2605.03775](http://arxiv.org/abs/2605.03775)|null|
@@ -252,6 +254,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Mixed-State Long-Range Entanglement from Dimensional Constraints**|Leonardo A. Lessa et.al.|[2605.15201](http://arxiv.org/abs/2605.15201)|null|
+|**2026-05-14**|**EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**|Ruozhen He et.al.|[2605.15199](http://arxiv.org/abs/2605.15199)|null|
+|**2026-05-14**|**ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both**|Ziyu Guo et.al.|[2605.15198](http://arxiv.org/abs/2605.15198)|null|
+|**2026-05-14**|**FutureSim: Replaying World Events to Evaluate Adaptive Agents**|Shashwat Goel et.al.|[2605.15188](http://arxiv.org/abs/2605.15188)|null|
+|**2026-05-14**|**Articraft: An Agentic System for Scalable Articulated 3D Asset Generation**|Matt Zhou et.al.|[2605.15187](http://arxiv.org/abs/2605.15187)|null|
+|**2026-05-14**|**Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing**|Ellwil Sharma et.al.|[2605.15179](http://arxiv.org/abs/2605.15179)|null|
+|**2026-05-14**|**Detecting the Axion-Photon Conversion Background**|Felix Weber et.al.|[2605.15175](http://arxiv.org/abs/2605.15175)|null|
+|**2026-05-14**|**Universal quantum resource distillation via composite generalised quantum Stein's lemma**|Ludovico Lami et.al.|[2605.15174](http://arxiv.org/abs/2605.15174)|null|
+|**2026-05-14**|**Hybrid Sketching Methods for Dynamic Connectivity on Sparse Graphs**|Quinten De Man et.al.|[2605.15173](http://arxiv.org/abs/2605.15173)|null|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
 |**2026-05-13**|**EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents**|Tara Bogavelli et.al.|[2605.13841](http://arxiv.org/abs/2605.13841)|null|
 |**2026-05-13**|**What is Learnable in Valiant's Theory of the Learnable?**|Steve Hanneke et.al.|[2605.13840](http://arxiv.org/abs/2605.13840)|null|
 |**2026-05-13**|**Nagaoka supermetal in the particle-doped triangular Hubbard model**|Rui Cao et.al.|[2605.13837](http://arxiv.org/abs/2605.13837)|null|
